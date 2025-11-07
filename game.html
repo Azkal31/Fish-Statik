@@ -1,0 +1,779 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Simulasi Penangkapan Ikan</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 50%, #7db9e8 100%);
+            min-height: 100vh;
+            padding: 20px;
+            overflow-x: hidden;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            text-align: center;
+            color: white;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-shadow: 3px 3px 6px rgba(0,0,0,0.5);
+        }
+
+        .game-area {
+            position: relative;
+            background: linear-gradient(to bottom, 
+                #87CEEB 0%, 
+                #87CEEB 30%, 
+                #4A90E2 30%, 
+                #2E5C8A 100%);
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.4);
+            border: 5px solid rgba(255,255,255,0.3);
+        }
+
+        canvas {
+            display: block;
+            width: 100%;
+            background: transparent;
+            cursor: default;
+        }
+
+        canvas.fishing-mode {
+            cursor: crosshair;
+        }
+
+        .controls {
+            margin-top: 20px;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+        }
+
+        .tool-button {
+            padding: 20px;
+            border: none;
+            border-radius: 12px;
+            font-size: 18px;
+            font-weight: bold;
+            color: white;
+            cursor: pointer;
+            transition: all 0.3s;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+        }
+
+        .tool-button:hover:not(:disabled) {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.4);
+        }
+
+        .tool-button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .tool-button.active {
+            transform: scale(1.05);
+            box-shadow: 0 0 20px rgba(255,255,255,0.5);
+            animation: glow 1.5s ease-in-out infinite;
+        }
+
+        @keyframes glow {
+            0%, 100% { box-shadow: 0 0 20px rgba(255,255,255,0.5); }
+            50% { box-shadow: 0 0 30px rgba(255,255,255,0.8); }
+        }
+
+        .btn-pancing {
+            background: linear-gradient(135deg, #56ab2f 0%, #a8e063 100%);
+        }
+
+        .btn-gillnet {
+            background: linear-gradient(135deg, #f2994a 0%, #f2c94c 100%);
+        }
+
+        .btn-trawl {
+            background: linear-gradient(135deg, #eb3349 0%, #f45c43 100%);
+        }
+
+        .btn-fish {
+            grid-column: 1 / -1;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 25px;
+            font-size: 22px;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .stat-card {
+            background: rgba(255,255,255,0.15);
+            backdrop-filter: blur(10px);
+            padding: 20px;
+            border-radius: 12px;
+            text-align: center;
+            color: white;
+            border: 2px solid rgba(255,255,255,0.2);
+        }
+
+        .stat-label {
+            font-size: 14px;
+            opacity: 0.9;
+            margin-bottom: 8px;
+        }
+
+        .stat-value {
+            font-size: 36px;
+            font-weight: bold;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .warning-box {
+            background: linear-gradient(135deg, #ff6b6b 0%, #ee5a6f 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 12px;
+            margin-top: 20px;
+            text-align: center;
+            font-size: 18px;
+            font-weight: bold;
+            display: none;
+            animation: pulse 1s infinite;
+        }
+
+        .warning-box.show {
+            display: block;
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.03); }
+        }
+
+        .info-box {
+            background: rgba(255,255,255,0.1);
+            backdrop-filter: blur(10px);
+            padding: 20px;
+            border-radius: 12px;
+            margin-top: 20px;
+            color: white;
+            border: 2px solid rgba(255,255,255,0.2);
+        }
+
+        .reset-btn {
+            width: 100%;
+            margin-top: 20px;
+            padding: 20px;
+            background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
+            border: none;
+            border-radius: 12px;
+            color: white;
+            font-size: 18px;
+            font-weight: bold;
+            cursor: pointer;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+        }
+
+        .reset-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.4);
+        }
+
+        .caught-display {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: rgba(255,215,0,0.9);
+            color: #333;
+            padding: 15px 25px;
+            border-radius: 50px;
+            font-size: 24px;
+            font-weight: bold;
+            display: none;
+            animation: bounce 0.5s;
+            z-index: 100;
+        }
+
+        .caught-display.show {
+            display: block;
+        }
+
+        @keyframes bounce {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.2); }
+        }
+
+        .instruction {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: rgba(0,0,0,0.8);
+            color: white;
+            padding: 20px 40px;
+            border-radius: 15px;
+            font-size: 20px;
+            font-weight: bold;
+            text-align: center;
+            display: none;
+            z-index: 100;
+            pointer-events: none;
+        }
+
+        .instruction.show {
+            display: block;
+            animation: fadeIn 0.3s;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🌊 Game Simulasi Penangkapan Ikan 🎣</h1>
+        
+        <div class="game-area">
+            <canvas id="gameCanvas" width="900" height="500"></canvas>
+            <div class="caught-display" id="caughtDisplay">+0 Ikan! 🐟</div>
+            <div class="instruction" id="instruction">🎯 Klik di area air untuk melempar alat tangkap!</div>
+        </div>
+
+        <div class="controls">
+            <button class="tool-button btn-pancing active" id="btnPancing" onclick="selectTool('pancing')">
+                🎣 Pancing<br>
+            </button>
+            <button class="tool-button btn-gillnet" id="btnGillnet" onclick="selectTool('gillnet')">
+                🕸️ Gillnet<br>
+            </button>
+            <button class="tool-button btn-trawl" id="btnTrawl" onclick="selectTool('trawl')">
+                ⚓ Trawl<br>
+            </button>
+            <button class="tool-button btn-fish" id="btnFish" onclick="startFishingMode()">
+                🎣 MULAI MEMANCING
+            </button>
+        </div>
+
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-label">🐟 Populasi Ikan</div>
+                <div class="stat-value" id="fishPopulation">100</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">📦 Ikan Tertangkap</div>
+                <div class="stat-value" id="fishCaught">0</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">📅 Hari Ke-</div>
+                <div class="stat-value" id="dayCount">1</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">🌊 Status Laut</div>
+                <div class="stat-value" id="oceanStatus" style="font-size: 24px;">🟢 Sehat</div>
+            </div>
+        </div>
+
+        <div class="warning-box" id="warningBox">
+            ⚠️ PERINGATAN OVERFISHING! ⚠️<br>
+            Populasi ikan sangat rendah! Berhenti menangkap dan beri waktu regenerasi!
+        </div>
+
+        <div class="info-box">
+            <h3 style="margin-bottom: 10px;">📖 Cara Bermain:</h3>
+            <p><strong>1.</strong> Pilih alat tangkap (Pancing/Gillnet/Trawl)</p>
+            <p><strong>2.</strong> Klik "MULAI MEMANCING"</p>
+            <p><strong>3.</strong> Arahkan kursor ke area ikan, lalu KLIK</p>
+            <p><strong>4.</strong> Ikan akan tertarik ke alat dan naik ke kapal!</p>
+            <hr style="margin: 10px 0; opacity: 0.3;">
+            <p><strong>🎣 Pancing:</strong> 1-3 ikan (Selektif, ramah lingkungan)</p>
+            <p><strong>🕸️ Gillnet:</strong> 5-10 ikan (Medium impact)</p>
+            <p><strong>⚓ Trawl:</strong> 15-25 ikan (Massal, sangat merusak!)</p>
+        </div>
+
+        <button class="reset-btn" onclick="resetGame()">🔄 Reset Simulasi</button>
+    </div>
+
+    <script>
+        let gameState = {
+            fishPopulation: 100,
+            fishCaught: 0,
+            dayCount: 1,
+            selectedTool: 'pancing',
+            isAnimating: false,
+            fishingMode: false
+        };
+
+        let fishes = [];
+        let caughtFishes = [];
+        let hookY = 100;
+        let hookX = 450;
+        let targetX = 450;
+        let targetY = 400;
+        let isHookDropping = false;
+        let netWidth = 0;
+        
+        const canvas = document.getElementById('gameCanvas');
+        const ctx = canvas.getContext('2d');
+
+        function init() {
+            initFishes();
+            animate();
+            canvas.addEventListener('click', handleCanvasClick);
+        }
+
+        function initFishes() {
+            fishes = [];
+            for (let i = 0; i < gameState.fishPopulation; i++) {
+                fishes.push(createFish());
+            }
+        }
+
+        function createFish() {
+            return {
+                x: Math.random() * canvas.width,
+                y: 200 + Math.random() * 250,
+                speed: 0.5 + Math.random() * 1.5,
+                size: 8 + Math.random() * 12,
+                direction: Math.random() > 0.5 ? 1 : -1,
+                color: ['#FF6B35', '#4ECDC4', '#45B7D1', '#FFA07A', '#98D8C8', '#FFD700'][Math.floor(Math.random() * 6)],
+                wobble: Math.random() * Math.PI * 2,
+                type: Math.random() > 0.5 ? 'striped' : 'solid',
+                caught: false
+            };
+        }
+
+        function selectTool(tool) {
+            if (gameState.isAnimating) return;
+            gameState.selectedTool = tool;
+            document.querySelectorAll('.tool-button').forEach(btn => btn.classList.remove('active'));
+            document.getElementById('btn' + tool.charAt(0).toUpperCase() + tool.slice(1)).classList.add('active');
+        }
+
+        function startFishingMode() {
+            if (gameState.isAnimating || gameState.fishPopulation <= 0) return;
+            gameState.fishingMode = true;
+            canvas.classList.add('fishing-mode');
+            document.getElementById('instruction').classList.add('show');
+            setTimeout(() => {
+                document.getElementById('instruction').classList.remove('show');
+            }, 3000);
+        }
+
+        function handleCanvasClick(e) {
+            if (!gameState.fishingMode || gameState.isAnimating) return;
+            
+            const rect = canvas.getBoundingClientRect();
+            const scaleX = canvas.width / rect.width;
+            const scaleY = canvas.height / rect.height;
+            
+            targetX = (e.clientX - rect.left) * scaleX;
+            targetY = (e.clientY - rect.top) * scaleY;
+            
+            if (targetY < 180) targetY = 200;
+            if (targetY > 470) targetY = 470;
+            
+            gameState.fishingMode = false;
+            canvas.classList.remove('fishing-mode');
+            startFishing();
+        }
+
+        function startFishing() {
+            gameState.isAnimating = true;
+            hookY = 140;
+            hookX = 450;
+            isHookDropping = true;
+            netWidth = 0;
+            caughtFishes = [];
+            dropHook();
+        }
+
+        function dropHook() {
+            const dropInterval = setInterval(() => {
+                const dx = targetX - hookX;
+                const dy = targetY - hookY;
+                const dist = Math.sqrt(dx * dx + dy * dy);
+                
+                if (dist > 8) {
+                    hookX += (dx / dist) * 8;
+                    hookY += (dy / dist) * 8;
+                    if (gameState.selectedTool === 'trawl' && netWidth < 200) {
+                        netWidth += 5;
+                    }
+                } else {
+                    clearInterval(dropInterval);
+                    hookX = targetX;
+                    hookY = targetY;
+                    attractFish();
+                }
+            }, 30);
+        }
+
+        function attractFish() {
+            let catchRadius = 0;
+            let maxCatch = 0;
+            
+            switch(gameState.selectedTool) {
+                case 'pancing':
+                    catchRadius = 60;
+                    maxCatch = Math.min(1 + Math.floor(Math.random() * 3), gameState.fishPopulation);
+                    break;
+                case 'gillnet':
+                    catchRadius = 150;
+                    maxCatch = Math.min(5 + Math.floor(Math.random() * 6), gameState.fishPopulation);
+                    break;
+                case 'trawl':
+                    catchRadius = 250;
+                    maxCatch = Math.min(15 + Math.floor(Math.random() * 11), gameState.fishPopulation);
+                    break;
+            }
+
+            let fishInRange = [];
+            fishes.forEach((fish, index) => {
+                const dx = fish.x - hookX;
+                const dy = fish.y - hookY;
+                const dist = Math.sqrt(dx * dx + dy * dy);
+                if (dist < catchRadius && !fish.caught) {
+                    fishInRange.push({fish, index, dist});
+                }
+            });
+
+            fishInRange.sort((a, b) => a.dist - b.dist);
+            fishInRange = fishInRange.slice(0, maxCatch);
+
+            fishInRange.forEach(item => {
+                item.fish.caught = true;
+                caughtFishes.push(item.index);
+            });
+
+            setTimeout(() => {
+                pullUp();
+            }, 1500);
+        }
+
+        function pullUp() {
+            const pullInterval = setInterval(() => {
+                hookY -= 8;
+                hookX += (450 - hookX) * 0.1;
+                
+                if (gameState.selectedTool === 'trawl' && netWidth > 0) {
+                    netWidth -= 6;
+                }
+                
+                if (hookY <= 140) {
+                    clearInterval(pullInterval);
+                    finishCatch();
+                }
+            }, 30);
+        }
+
+        function finishCatch() {
+            const catchAmount = caughtFishes.length;
+            
+            const caughtDisplay = document.getElementById('caughtDisplay');
+            caughtDisplay.textContent = `+${catchAmount} Ikan! 🐟`;
+            caughtDisplay.classList.add('show');
+
+            caughtFishes.sort((a, b) => b - a).forEach(index => {
+                fishes.splice(index, 1);
+            });
+
+            gameState.fishPopulation -= catchAmount;
+            gameState.fishCaught += catchAmount;
+            gameState.dayCount++;
+
+            if (gameState.fishPopulation > 20) {
+                const newFish = Math.floor(gameState.fishPopulation * 0.05);
+                gameState.fishPopulation += newFish;
+                for (let i = 0; i < newFish; i++) {
+                    fishes.push(createFish());
+                }
+            }
+
+            setTimeout(() => {
+                isHookDropping = false;
+                gameState.isAnimating = false;
+                caughtDisplay.classList.remove('show');
+                caughtFishes = [];
+                netWidth = 0;
+                updateStats();
+            }, 1000);
+        }
+
+        function updateStats() {
+            document.getElementById('fishPopulation').textContent = gameState.fishPopulation;
+            document.getElementById('fishCaught').textContent = gameState.fishCaught;
+            document.getElementById('dayCount').textContent = gameState.dayCount;
+
+            const statusEl = document.getElementById('oceanStatus');
+            const warningBox = document.getElementById('warningBox');
+
+            if (gameState.fishPopulation < 30) {
+                statusEl.innerHTML = '🔴 Kritis';
+                warningBox.classList.add('show');
+            } else if (gameState.fishPopulation < 50) {
+                statusEl.innerHTML = '🟡 Waspada';
+                warningBox.classList.remove('show');
+            } else {
+                statusEl.innerHTML = '🟢 Sehat';
+                warningBox.classList.remove('show');
+            }
+        }
+
+        function resetGame() {
+            gameState = {
+                fishPopulation: 100,
+                fishCaught: 0,
+                dayCount: 1,
+                selectedTool: 'pancing',
+                isAnimating: false,
+                fishingMode: false
+            };
+            hookY = 140;
+            hookX = 450;
+            isHookDropping = false;
+            caughtFishes = [];
+            canvas.classList.remove('fishing-mode');
+            initFishes();
+            updateStats();
+            selectTool('pancing');
+        }
+
+        function animate() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+            // Sky
+            const skyGradient = ctx.createLinearGradient(0, 0, 0, 150);
+            skyGradient.addColorStop(0, '#87CEEB');
+            skyGradient.addColorStop(1, '#B0E0E6');
+            ctx.fillStyle = skyGradient;
+            ctx.fillRect(0, 0, canvas.width, 150);
+
+            // Mountains
+            ctx.fillStyle = '#228B22';
+            ctx.beginPath();
+            ctx.moveTo(0, 150);
+            ctx.lineTo(150, 50);
+            ctx.lineTo(300, 120);
+            ctx.lineTo(450, 40);
+            ctx.lineTo(600, 100);
+            ctx.lineTo(750, 60);
+            ctx.lineTo(900, 140);
+            ctx.lineTo(900, 150);
+            ctx.closePath();
+            ctx.fill();
+
+            // Water surface
+            ctx.strokeStyle = 'rgba(255,255,255,0.5)';
+            ctx.lineWidth = 3;
+            ctx.beginPath();
+            ctx.moveTo(0, 150);
+            ctx.lineTo(canvas.width, 150);
+            ctx.stroke();
+
+            // Boat
+            ctx.fillStyle = '#8B4513';
+            ctx.beginPath();
+            ctx.ellipse(450, 145, 40, 15, 0, 0, Math.PI * 2);
+            ctx.fill();
+
+            // Fisherman
+            ctx.fillStyle = '#FF6347';
+            ctx.beginPath();
+            ctx.arc(450, 125, 8, 0, Math.PI * 2);
+            ctx.fill();
+            ctx.fillStyle = '#4169E1';
+            ctx.fillRect(445, 133, 10, 15);
+
+            // Water
+            const waterGradient = ctx.createLinearGradient(0, 150, 0, canvas.height);
+            waterGradient.addColorStop(0, 'rgba(74, 144, 226, 0.7)');
+            waterGradient.addColorStop(1, 'rgba(46, 92, 138, 0.9)');
+            ctx.fillStyle = waterGradient;
+            ctx.fillRect(0, 150, canvas.width, canvas.height - 150);
+
+            // Sea floor
+            ctx.fillStyle = '#8B7355';
+            ctx.fillRect(0, 480, canvas.width, 20);
+
+            // Update fishes
+            fishes.forEach(fish => {
+                if (fish.caught) {
+                    const dx = hookX - fish.x;
+                    const dy = hookY - fish.y;
+                    fish.x += dx * 0.15;
+                    fish.y += dy * 0.15;
+                } else {
+                    fish.x += fish.speed * fish.direction;
+                    fish.wobble += 0.05;
+                    fish.y += Math.sin(fish.wobble) * 0.5;
+
+                    if (fish.x > canvas.width + 50) fish.x = -50;
+                    if (fish.x < -50) fish.x = canvas.width + 50;
+                    if (fish.y < 180) fish.y = 180;
+                    if (fish.y > 470) fish.y = 470;
+                }
+                drawFish(fish);
+            });
+
+            // Draw equipment
+            if (isHookDropping) {
+                drawEquipment();
+            }
+
+            requestAnimationFrame(animate);
+        }
+
+        function drawFish(fish) {
+            ctx.save();
+            ctx.translate(fish.x, fish.y);
+            if (fish.direction < 0) ctx.scale(-1, 1);
+
+            const s = fish.size;
+            ctx.fillStyle = fish.color;
+            ctx.beginPath();
+            ctx.ellipse(0, 0, s * 1.5, s * 0.8, 0, 0, Math.PI * 2);
+            ctx.fill();
+
+            if (fish.type === 'striped') {
+                ctx.strokeStyle = 'rgba(0,0,0,0.3)';
+                ctx.lineWidth = 2;
+                for (let i = 0; i < 3; i++) {
+                    ctx.beginPath();
+                    ctx.moveTo(-s + i * s * 0.7, -s * 0.6);
+                    ctx.lineTo(-s + i * s * 0.7, s * 0.6);
+                    ctx.stroke();
+                }
+            }
+
+            ctx.fillStyle = fish.color;
+            ctx.beginPath();
+            ctx.moveTo(-s * 1.5, 0);
+            ctx.lineTo(-s * 2.3, -s * 0.8);
+            ctx.lineTo(-s * 2.3, s * 0.8);
+            ctx.closePath();
+            ctx.fill();
+
+            ctx.fillStyle = 'white';
+            ctx.beginPath();
+            ctx.arc(s * 0.8, -s * 0.3, s * 0.3, 0, Math.PI * 2);
+            ctx.fill();
+            ctx.fillStyle = 'black';
+            ctx.beginPath();
+            ctx.arc(s * 0.9, -s * 0.3, s * 0.15, 0, Math.PI * 2);
+            ctx.fill();
+
+            ctx.restore();
+        }
+
+        function drawEquipment() {
+            if (gameState.selectedTool === 'pancing') {
+                ctx.strokeStyle = '#654321';
+                ctx.lineWidth = 2;
+                ctx.beginPath();
+                ctx.moveTo(450, 140);
+                ctx.lineTo(hookX, hookY);
+                ctx.stroke();
+
+                ctx.fillStyle = '#C0C0C0';
+                ctx.beginPath();
+                ctx.arc(hookX, hookY, 6, 0, Math.PI * 2);
+                ctx.fill();
+            } 
+            else if (gameState.selectedTool === 'gillnet') {
+                const nL = hookX - 150, nR = hookX + 150;
+                const nT = Math.max(hookY - 150, 180), nB = hookY;
+                
+                ctx.strokeStyle = 'rgba(100, 100, 100, 0.6)';
+                ctx.lineWidth = 2;
+                ctx.beginPath();
+                ctx.moveTo(nL, nT);
+                ctx.lineTo(nR, nT);
+                ctx.stroke();
+                
+                ctx.strokeStyle = 'rgba(120, 120, 120, 0.5)';
+                ctx.lineWidth = 1;
+                for (let x = nL; x <= nR; x += 20) {
+                    ctx.beginPath();
+                    ctx.moveTo(x, nT);
+                    ctx.lineTo(x, nB);
+                    ctx.stroke();
+                }
+                for (let y = nT; y <= nB; y += 15) {
+                    ctx.beginPath();
+                    ctx.moveTo(nL, y);
+                    ctx.lineTo(nR, y);
+                    ctx.stroke();
+                }
+                
+                ctx.fillStyle = '#666';
+                for (let x = nL; x <= nR; x += 30) {
+                    ctx.fillRect(x - 3, nB, 6, 8);
+                }
+            }
+            else if (gameState.selectedTool === 'trawl') {
+                ctx.strokeStyle = '#654321';
+                ctx.lineWidth = 3;
+                ctx.beginPath();
+                ctx.moveTo(400, 140);
+                ctx.lineTo(hookX - netWidth/2, hookY - 30);
+                ctx.stroke();
+                ctx.beginPath();
+                ctx.moveTo(500, 140);
+                ctx.lineTo(hookX + netWidth/2, hookY - 30);
+                ctx.stroke();
+                
+                ctx.strokeStyle = 'rgba(80, 80, 80, 0.7)';
+                ctx.lineWidth = 4;
+                ctx.beginPath();
+                ctx.rect(hookX - netWidth/2, hookY - 30, netWidth, 30);
+                ctx.stroke();
+                
+                ctx.strokeStyle = 'rgba(100, 100, 100, 0.4)';
+                ctx.lineWidth = 1;
+                for (let x = hookX - netWidth/2; x < hookX + netWidth/2; x += 15) {
+                    for (let y = hookY - 30; y < hookY; y += 15) {
+                        ctx.beginPath();
+                        ctx.moveTo(x, y);
+                        ctx.lineTo(x + 15, y + 15);
+                        ctx.stroke();
+                    }
+                }
+                
+                ctx.fillStyle = '#444';
+                for (let x = hookX - netWidth/2; x <= hookX + netWidth/2; x += 25) {
+                    ctx.beginPath();
+                    ctx.arc(x, hookY, 8, 0, Math.PI * 2);
+                    ctx.fill();
+                }
+                
+                if (hookY > 400) {
+                    ctx.fillStyle = 'rgba(139, 115, 85, 0.3)';
+                    ctx.beginPath();
+                    ctx.ellipse(hookX, hookY + 10, netWidth/2 + 20, 30, 0, 0, Math.PI * 2);
+                    ctx.fill();
+                }
+            }
+        }
+
+        init();
+    </script>
+</body>
+</html>

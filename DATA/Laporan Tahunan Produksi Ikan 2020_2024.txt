@@ -1,0 +1,4037 @@
+Tahun	Bulan	Jenis Ikan	Volume Produksi (kg)
+2020	Januari	Teri (Anchovy)	63.163
+2020	Januari	Teri Nasi (Anchovies)	22
+2020	Januari	Belanak (Mullets)	1.966
+2020	Januari	Bentong (Oxeye scad)	229
+2020	Januari	Cendro (Needle fish)	50
+2020	Januari	Talang-Talang (Queen fish)	356
+2020	Januari	Ikan Terbang (Flying fish)	-
+2020	Januari	Japuh (Rainbow sardine)	1.189
+2020	Januari	Kembung (Indian mackerels)	5.232
+2020	Januari	Layang (Scads)	15.959
+2020	Januari	Siro/Lemuru (Spotted sardinella)	323
+2020	Januari	Selar (Trevallies)	4.662
+2020	Januari	Tembang (Fringescale sardinella)	18.548
+2020	Januari	Selanget (Chacunda gizzard shad)	4.609
+2020	Januari	Tetengkek (Torpedo scad)	9
+2020	Januari	Semar (Mene maculata)	-
+2020	Januari	Tongkol (Frigate tuna)	4.894
+2020	Januari	Layaran (Indo-pacific sailfish)	244
+2020	Januari	Tenggiri (Narrow barred king mackerel)	5.268
+2020	Januari	Cucut (Sharks)	118
+2020	Januari	Manyung (Sea-cat fishes)	1.003
+2020	Januari	Sebelah (Croaker)	928
+2020	Januari	Kuwe (Great trevally)	198
+2020	Januari	Bawal Hitam (Black pomfret)	48
+2020	Januari	Bawal Putih (White pomfret)	46
+2020	Januari	Golok-Golok (Dorab Wolf Hering)	922
+2020	Januari	Beloso (Lizard fishes)	2.167
+2020	Januari	Gerot-gerot (Saddle grunt)	27
+2020	Januari	Peperek (Pony fishes)	60.939
+2020	Januari	Kakap Putih (Giant Perach)	473
+2020	Januari	Kakap Merah (Red Snapper)	164
+2020	Januari	Jenaha (Snapper)	58
+2020	Januari	Kurisi (Threadfin bream)	1.081
+2020	Januari	Kuniran (Sulphur goatfish)	17.721
+2020	Januari	Kuro (Giant threadfish)	347
+2020	Januari	Samgeh (Croackers)	7.898
+2020	Januari	Alu-alu (Barracuda)	236
+2020	Januari	Kerong-Kerong (Jarbua terapon)	14
+2020	Januari	Layur (Hairtail fishes)	188
+2020	Januari	Pari (Rays)	1.261
+2020	Januari	Ekor Kuning (Yellow tail)	22
+2020	Januari	Kerapu (Grouper)	188
+2020	Januari	Beronang (Spotted spinefoot)	70
+2020	Januari	" Udang 
+Jerbung"	156
+2020	Januari	Udang Krosok (Tiger cat shrimp)	1.928
+2020	Januari	Rajungan (Swimming crabs)	7.315
+2020	Januari	Cumi-cumi (Common squids)	15.515
+2020	Januari	Sotong (Cuttle fish)	4.309
+2020	Januari	Gurita (Octopuses)	375
+2020	Januari	Udang lainnya (Other shrimps)	3.125
+2020	Januari	Ikan Lainnya (Others)	212
+2020	Februari	Teri (Anchovy)	59.424
+2020	Februari	Teri Nasi (Anchovies)	-
+2020	Februari	Belanak (Mullets)	1.565
+2020	Februari	Bentong (Oxeye scad)	104
+2020	Februari	Cendro (Needle fish)	127
+2020	Februari	Talang-Talang (Queen fish)	452
+2020	Februari	Ikan Terbang (Flying fish)	-
+2020	Februari	Japuh (Rainbow sardine)	1.181
+2020	Februari	Kembung (Indian mackerels)	3.875
+2020	Februari	Layang (Scads)	21.336
+2020	Februari	Siro/Lemuru (Spotted sardinella)	586
+2020	Februari	Selar (Trevallies)	4.221
+2020	Februari	Tembang (Fringescale sardinella)	14.642
+2020	Februari	Selanget (Chacunda gizzard shad)	4.517
+2020	Februari	Tetengkek (Torpedo scad)	197
+2020	Februari	Semar (Mene maculata)	11
+2020	Februari	Tongkol (Frigate tuna)	1.341
+2020	Februari	Layaran (Indo-pacific sailfish)	88
+2020	Februari	Tenggiri (Narrow barred king mackerel)	5.710
+2020	Februari	Cucut (Sharks)	203
+2020	Februari	Manyung (Sea-cat fishes)	1.293
+2020	Februari	Sebelah (Croaker)	906
+2020	Februari	Kuwe (Great trevally)	313
+2020	Februari	Bawal Hitam (Black pomfret)	93
+2020	Februari	Bawal Putih (White pomfret)	-
+2020	Februari	Golok-Golok (Dorab Wolf Hering)	1.062
+2020	Februari	Beloso (Lizard fishes)	1.557
+2020	Februari	Gerot-gerot (Saddle grunt)	34
+2020	Februari	Peperek (Pony fishes)	36.820
+2020	Februari	Kakap Putih (Giant Perach)	85
+2020	Februari	Kakap Merah (Red Snapper)	60
+2020	Februari	Jenaha (Snapper)	155
+2020	Februari	Kurisi (Threadfin bream)	536
+2020	Februari	Kuniran (Sulphur goatfish)	10.042
+2020	Februari	Kuro (Giant threadfish)	451
+2020	Februari	Samgeh (Croackers)	6.222
+2020	Februari	Alu-alu (Barracuda)	164
+2020	Februari	Kerong-Kerong (Jarbua terapon)	42
+2020	Februari	Layur (Hairtail fishes)	66
+2020	Februari	Pari (Rays)	1.323
+2020	Februari	Ekor Kuning (Yellow tail)	62
+2020	Februari	Kerapu (Grouper)	77
+2020	Februari	Beronang (Spotted spinefoot)	119
+2020	Februari	" Udang 
+Jerbung"	128
+2020	Februari	Udang Krosok (Tiger cat shrimp)	1.130
+2020	Februari	Rajungan (Swimming crabs)	6.561
+2020	Februari	Cumi-cumi (Common squids)	26.511
+2020	Februari	Sotong (Cuttle fish)	2.809
+2020	Februari	Gurita (Octopuses)	168
+2020	Februari	Udang lainnya (Other shrimps)	5.403
+2020	Februari	Ikan Lainnya (Others)	85
+2020	Maret	Teri (Anchovy)	151.204
+2020	Maret	Teri Nasi (Anchovies)	-
+2020	Maret	Belanak (Mullets)	968
+2020	Maret	Bentong (Oxeye scad)	178
+2020	Maret	Cendro (Needle fish)	99
+2020	Maret	Talang-Talang (Queen fish)	987
+2020	Maret	Ikan Terbang (Flying fish)	-
+2020	Maret	Japuh (Rainbow sardine)	671
+2020	Maret	Kembung (Indian mackerels)	8.480
+2020	Maret	Layang (Scads)	23.564
+2020	Maret	Siro/Lemuru (Spotted sardinella)	26
+2020	Maret	Selar (Trevallies)	5.190
+2020	Maret	Tembang (Fringescale sardinella)	22.018
+2020	Maret	Selanget (Chacunda gizzard shad)	2.637
+2020	Maret	Tetengkek (Torpedo scad)	74
+2020	Maret	Semar (Mene maculata)	63
+2020	Maret	Tongkol (Frigate tuna)	9.941
+2020	Maret	Layaran (Indo-pacific sailfish)	30
+2020	Maret	Tenggiri (Narrow barred king mackerel)	2.645
+2020	Maret	Cucut (Sharks)	130
+2020	Maret	Manyung (Sea-cat fishes)	1.093
+2020	Maret	Sebelah (Croaker)	1.049
+2020	Maret	Kuwe (Great trevally)	904
+2020	Maret	Bawal Hitam (Black pomfret)	35
+2020	Maret	Bawal Putih (White pomfret)	-
+2020	Maret	Golok-Golok (Dorab Wolf Hering)	774
+2020	Maret	Beloso (Lizard fishes)	1.306
+2020	Maret	Gerot-gerot (Saddle grunt)	51
+2020	Maret	Peperek (Pony fishes)	40.568
+2020	Maret	Kakap Putih (Giant Perach)	7
+2020	Maret	Kakap Merah (Red Snapper)	162
+2020	Maret	Jenaha (Snapper)	506
+2020	Maret	Kurisi (Threadfin bream)	661
+2020	Maret	Kuniran (Sulphur goatfish)	11.438
+2020	Maret	Kuro (Giant threadfish)	343
+2020	Maret	Samgeh (Croackers)	7.225
+2020	Maret	Alu-alu (Barracuda)	753
+2020	Maret	Kerong-Kerong (Jarbua terapon)	200
+2020	Maret	Layur (Hairtail fishes)	324
+2020	Maret	Pari (Rays)	2.315
+2020	Maret	Ekor Kuning (Yellow tail)	103
+2020	Maret	Kerapu (Grouper)	219
+2020	Maret	Beronang (Spotted spinefoot)	73
+2020	Maret	" Udang 
+Jerbung"	116
+2020	Maret	Udang Krosok (Tiger cat shrimp)	667
+2020	Maret	Rajungan (Swimming crabs)	6.795
+2020	Maret	Cumi-cumi (Common squids)	55.662
+2020	Maret	Sotong (Cuttle fish)	2.938
+2020	Maret	Gurita (Octopuses)	336
+2020	Maret	Udang lainnya (Other shrimps)	4.148
+2020	Maret	Ikan Lainnya (Others)	165
+2020	Maret	Teri (Anchovy)	44.694
+2020	Maret	Teri Nasi (Anchovies)	-
+2020	Maret	Belanak (Mullets)	612
+2020	Maret	Bentong (Oxeye scad)	1
+2020	Maret	Cendro (Needle fish)	120
+2020	Maret	Talang-Talang (Queen fish)	32
+2020	Maret	Ikan Terbang (Flying fish)	12
+2020	Maret	Japuh (Rainbow sardine)	529
+2020	Maret	Kembung (Indian mackerels)	8.640
+2020	Maret	Layang (Scads)	1.794
+2020	Maret	Siro/Lemuru (Spotted sardinella)	328
+2020	Maret	Selar (Trevallies)	3.530
+2020	Maret	Tembang (Fringescale sardinella)	9.634
+2020	Maret	Selanget (Chacunda gizzard shad)	3.397
+2020	Maret	Tetengkek (Torpedo scad)	533
+2020	Maret	Semar (Mene maculata)	407
+2020	Maret	Tongkol (Frigate tuna)	2.011
+2020	Maret	Layaran (Indo-pacific sailfish)	16
+2020	Maret	Tenggiri (Narrow barred king mackerel)	4.073
+2020	Maret	Cucut (Sharks)	89
+2020	Maret	Manyung (Sea-cat fishes)	901
+2020	Maret	Sebelah (Croaker)	781
+2020	Maret	Kuwe (Great trevally)	1.038
+2020	Maret	Bawal Hitam (Black pomfret)	268
+2020	Maret	Bawal Putih (White pomfret)	83
+2020	Maret	Golok-Golok (Dorab Wolf Hering)	821
+2020	Maret	Beloso (Lizard fishes)	936
+2020	Maret	Gerot-gerot (Saddle grunt)	415
+2020	Maret	Peperek (Pony fishes)	35.053
+2020	Maret	Kakap Putih (Giant Perach)	29
+2020	Maret	Kakap Merah (Red Snapper)	157
+2020	Maret	Jenaha (Snapper)	264
+2020	Maret	Kurisi (Threadfin bream)	443
+2020	Maret	Kuniran (Sulphur goatfish)	10.490
+2020	Maret	Kuro (Giant threadfish)	312
+2020	Maret	Samgeh (Croackers)	4.567
+2020	Maret	Alu-alu (Barracuda)	1.611
+2020	Maret	Kerong-Kerong (Jarbua terapon)	1.302
+2020	Maret	Layur (Hairtail fishes)	597
+2020	Maret	Pari (Rays)	2.229
+2020	Maret	Ekor Kuning (Yellow tail)	239
+2020	Maret	Kerapu (Grouper)	317
+2020	Maret	Beronang (Spotted spinefoot)	794
+2020	Maret	" Udang 
+Jerbung"	1.122
+2020	Maret	Udang Krosok (Tiger cat shrimp)	1.221
+2020	Maret	Rajungan (Swimming crabs)	6.480
+2020	Maret	Cumi-cumi (Common squids)	29.785
+2020	Maret	Sotong (Cuttle fish)	2.099
+2020	Maret	Gurita (Octopuses)	121
+2020	Maret	Udang lainnya (Other shrimps)	2.207
+2020	Maret	Ikan Lainnya (Others)	599
+2020	April	Teri (Anchovy)	44.694
+2020	April	Teri Nasi (Anchovies)	-
+2020	April	Belanak (Mullets)	612
+2020	April	Bentong (Oxeye scad)	1
+2020	April	Cendro (Needle fish)	120
+2020	April	Talang-Talang (Queen fish)	32
+2020	April	Ikan Terbang (Flying fish)	12
+2020	April	Japuh (Rainbow sardine)	529
+2020	April	Kembung (Indian mackerels)	8.640
+2020	April	Layang (Scads)	1.794
+2020	April	Siro/Lemuru (Spotted sardinella)	328
+2020	April	Selar (Trevallies)	3.530
+2020	April	Tembang (Fringescale sardinella)	9.634
+2020	April	Selanget (Chacunda gizzard shad)	3.397
+2020	April	Tetengkek (Torpedo scad)	533
+2020	April	Semar (Mene maculata)	407
+2020	April	Tongkol (Frigate tuna)	2.011
+2020	April	Layaran (Indo-pacific sailfish)	16
+2020	April	Tenggiri (Narrow barred king mackerel)	4.073
+2020	April	Cucut (Sharks)	89
+2020	April	Manyung (Sea-cat fishes)	901
+2020	April	Sebelah (Croaker)	781
+2020	April	Kuwe (Great trevally)	1.038
+2020	April	Bawal Hitam (Black pomfret)	268
+2020	April	Bawal Putih (White pomfret)	83
+2020	April	Golok-Golok (Dorab Wolf Hering)	821
+2020	April	Beloso (Lizard fishes)	936
+2020	April	Gerot-gerot (Saddle grunt)	415
+2020	April	Peperek (Pony fishes)	35.053
+2020	April	Kakap Putih (Giant Perach)	29
+2020	April	Kakap Merah (Red Snapper)	157
+2020	April	Jenaha (Snapper)	264
+2020	April	Kurisi (Threadfin bream)	443
+2020	April	Kuniran (Sulphur goatfish)	10.490
+2020	April	Kuro (Giant threadfish)	312
+2020	April	Samgeh (Croackers)	4.567
+2020	April	Alu-alu (Barracuda)	1.611
+2020	April	Kerong-Kerong (Jarbua terapon)	1.302
+2020	April	Layur (Hairtail fishes)	597
+2020	April	Pari (Rays)	2.229
+2020	April	Ekor Kuning (Yellow tail)	239
+2020	April	Kerapu (Grouper)	317
+2020	April	Beronang (Spotted spinefoot)	794
+2020	April	" Udang 
+Jerbung"	1.122
+2020	April	Udang Krosok (Tiger cat shrimp)	1.221
+2020	April	Rajungan (Swimming crabs)	6.480
+2020	April	Cumi-cumi (Common squids)	29.785
+2020	April	Sotong (Cuttle fish)	2.099
+2020	April	Gurita (Octopuses)	121
+2020	April	Udang lainnya (Other shrimps)	2.207
+2020	April	Ikan Lainnya (Others)	599
+2020	Mei	Teri (Anchovy)	18.845
+2020	Mei	Teri Nasi (Anchovies)	-
+2020	Mei	Belanak (Mullets)	459
+2020	Mei	Bentong (Oxeye scad)	217
+2020	Mei	Cendro (Needle fish)	119
+2020	Mei	Talang-Talang (Queen fish)	415
+2020	Mei	Ikan Terbang (Flying fish)	-
+2020	Mei	Japuh (Rainbow sardine)	4.613
+2020	Mei	Kembung (Indian mackerels)	9.338
+2020	Mei	Layang (Scads)	5.481
+2020	Mei	Siro/Lemuru (Spotted sardinella)	379
+2020	Mei	Selar (Trevallies)	2.261
+2020	Mei	Tembang (Fringescale sardinella)	10.356
+2020	Mei	Selanget (Chacunda gizzard shad)	2.171
+2020	Mei	Tetengkek (Torpedo scad)	726
+2020	Mei	Semar (Mene maculata)	492
+2020	Mei	Tongkol (Frigate tuna)	4.632
+2020	Mei	Layaran (Indo-pacific sailfish)	48
+2020	Mei	Tenggiri (Narrow barred king mackerel)	2.656
+2020	Mei	Cucut (Sharks)	208
+2020	Mei	Manyung (Sea-cat fishes)	558
+2020	Mei	Sebelah (Croaker)	860
+2020	Mei	Kuwe (Great trevally)	1.687
+2020	Mei	Bawal Hitam (Black pomfret)	169
+2020	Mei	Bawal Putih (White pomfret)	46
+2020	Mei	Golok-Golok (Dorab Wolf Hering)	639
+2020	Mei	Beloso (Lizard fishes)	1.128
+2020	Mei	Gerot-gerot (Saddle grunt)	378
+2020	Mei	Peperek (Pony fishes)	38.034
+2020	Mei	Kakap Putih (Giant Perach)	40
+2020	Mei	Kakap Merah (Red Snapper)	226
+2020	Mei	Jenaha (Snapper)	404
+2020	Mei	Kurisi (Threadfin bream)	535
+2020	Mei	Kuniran (Sulphur goatfish)	13.374
+2020	Mei	Kuro (Giant threadfish)	304
+2020	Mei	Samgeh (Croackers)	5.658
+2020	Mei	Alu-alu (Barracuda)	1.147
+2020	Mei	Kerong-Kerong (Jarbua terapon)	454
+2020	Mei	Layur (Hairtail fishes)	214
+2020	Mei	Pari (Rays)	2.155
+2020	Mei	Ekor Kuning (Yellow tail)	462
+2020	Mei	Kerapu (Grouper)	186
+2020	Mei	Beronang (Spotted spinefoot)	164
+2020	Mei	" Udang 
+Jerbung"	591
+2020	Mei	Udang Krosok (Tiger cat shrimp)	970
+2020	Mei	Rajungan (Swimming crabs)	5.471
+2020	Mei	Cumi-cumi (Common squids)	10.751
+2020	Mei	Sotong (Cuttle fish)	1.526
+2020	Mei	Gurita (Octopuses)	253
+2020	Mei	Udang lainnya (Other shrimps)	2.377
+2020	Mei	Ikan Lainnya (Others)	372
+2020	Juni	Teri (Anchovy)	31.820
+2020	Juni	Teri Nasi (Anchovies)	1.002
+2020	Juni	Belanak (Mullets)	584
+2020	Juni	Bentong (Oxeye scad)	604
+2020	Juni	Cendro (Needle fish)	166
+2020	Juni	Talang-Talang (Queen fish)	714
+2020	Juni	Ikan Terbang (Flying fish)	-
+2020	Juni	Japuh (Rainbow sardine)	3603
+2020	Juni	Kembung (Indian mackerels)	10.395
+2020	Juni	Layang (Scads)	7.504
+2020	Juni	Siro/Lemuru (Spotted sardinella)	2.144
+2020	Juni	Selar (Trevallies)	3.010
+2020	Juni	Tembang (Fringescale sardinella)	11.980
+2020	Juni	Selanget (Chacunda gizzard shad)	2.330
+2020	Juni	Tetengkek (Torpedo scad)	3908
+2020	Juni	Semar (Mene maculata)	666
+2020	Juni	Tongkol (Frigate tuna)	195
+2020	Juni	Layaran (Indo-pacific sailfish)	-
+2020	Juni	Tenggiri (Narrow barred king mackerel)	1.234
+2020	Juni	Cucut (Sharks)	69
+2020	Juni	Manyung (Sea-cat fishes)	278
+2020	Juni	Sebelah (Croaker)	1.025
+2020	Juni	Kuwe (Great trevally)	1.485
+2020	Juni	Bawal Hitam (Black pomfret)	69
+2020	Juni	Bawal Putih (White pomfret)	-
+2020	Juni	Golok-Golok (Dorab Wolf Hering)	557
+2020	Juni	Beloso (Lizard fishes)	1.414
+2020	Juni	Gerot-gerot (Saddle grunt)	231
+2020	Juni	Peperek (Pony fishes)	41.681
+2020	Juni	Kakap Putih (Giant Perach)	66
+2020	Juni	Kakap Merah (Red Snapper)	128
+2020	Juni	Jenaha (Snapper)	33
+2020	Juni	Kurisi (Threadfin bream)	678
+2020	Juni	Kuniran (Sulphur goatfish)	14.286
+2020	Juni	Kuro (Giant threadfish)	332
+2020	Juni	Samgeh (Croackers)	5.748
+2020	Juni	Alu-alu (Barracuda)	565
+2020	Juni	Kerong-Kerong (Jarbua terapon)	216
+2020	Juni	Layur (Hairtail fishes)	12
+2020	Juni	Pari (Rays)	1.795
+2020	Juni	Ekor Kuning (Yellow tail)	232
+2020	Juni	Kerapu (Grouper)	228
+2020	Juni	Beronang (Spotted spinefoot)	130
+2020	Juni	" Udang 
+Jerbung"	1043
+2020	Juni	Udang Krosok (Tiger cat shrimp)	3.692
+2020	Juni	Rajungan (Swimming crabs)	7.562
+2020	Juni	Cumi-cumi (Common squids)	6.610
+2020	Juni	Sotong (Cuttle fish)	1.326
+2020	Juni	Gurita (Octopuses)	195
+2020	Juni	Udang lainnya (Other shrimps)	13.746
+2020	Juni	Ikan Lainnya (Others)	164
+2020	Juli	Teri (Anchovy)	26.371
+2020	Juli	Teri Nasi (Anchovies)	-
+2020	Juli	Belanak (Mullets)	956
+2020	Juli	Bentong (Oxeye scad)	555
+2020	Juli	Cendro (Needle fish)	195
+2020	Juli	Talang-Talang (Queen fish)	221
+2020	Juli	Ikan Terbang (Flying fish)	2
+2020	Juli	Japuh (Rainbow sardine)	314
+2020	Juli	Kembung (Indian mackerels)	11.171
+2020	Juli	Layang (Scads)	1.879
+2020	Juli	Siro/Lemuru (Spotted sardinella)	773
+2020	Juli	Selar (Trevallies)	865
+2020	Juli	Tembang (Fringescale sardinella)	8.131
+2020	Juli	Selanget (Chacunda gizzard shad)	2.542
+2020	Juli	Tetengkek (Torpedo scad)	736
+2020	Juli	Semar (Mene maculata)	99
+2020	Juli	Tongkol (Frigate tuna)	213
+2020	Juli	Layaran (Indo-pacific sailfish)	177
+2020	Juli	Tenggiri (Narrow barred king mackerel)	974
+2020	Juli	Cucut (Sharks)	2
+2020	Juli	Manyung (Sea-cat fishes)	303
+2020	Juli	Sebelah (Croaker)	1.151
+2020	Juli	Kuwe (Great trevally)	1.914
+2020	Juli	Bawal Hitam (Black pomfret)	-
+2020	Juli	Bawal Putih (White pomfret)	-
+2020	Juli	Golok-Golok (Dorab Wolf Hering)	429
+2020	Juli	Beloso (Lizard fishes)	1.121
+2020	Juli	Gerot-gerot (Saddle grunt)	147
+2020	Juli	Peperek (Pony fishes)	54.219
+2020	Juli	Kakap Putih (Giant Perach)	58
+2020	Juli	Kakap Merah (Red Snapper)	101
+2020	Juli	Jenaha (Snapper)	24
+2020	Juli	Kurisi (Threadfin bream)	934
+2020	Juli	Kuniran (Sulphur goatfish)	15.153
+2020	Juli	Kuro (Giant threadfish)	423
+2020	Juli	Samgeh (Croackers)	7.670
+2020	Juli	Alu-alu (Barracuda)	549
+2020	Juli	Kerong-Kerong (Jarbua terapon)	210
+2020	Juli	Layur (Hairtail fishes)	116
+2020	Juli	Pari (Rays)	2.261
+2020	Juli	Ekor Kuning (Yellow tail)	276
+2020	Juli	Kerapu (Grouper)	270
+2020	Juli	Beronang (Spotted spinefoot)	71
+2020	Juli	" Udang 
+Jerbung"	575
+2020	Juli	Udang Krosok (Tiger cat shrimp)	4.003
+2020	Juli	Rajungan (Swimming crabs)	6.601
+2020	Juli	Cumi-cumi (Common squids)	6.045
+2020	Juli	Sotong (Cuttle fish)	1.950
+2020	Juli	Gurita (Octopuses)	210
+2020	Juli	Udang lainnya (Other shrimps)	8.189
+2020	Juli	Ikan Lainnya (Others)	189
+2020	Agustus	Teri (Anchovy)	69.764
+2020	Agustus	Teri Nasi (Anchovies)	-
+2020	Agustus	Belanak (Mullets)	983
+2020	Agustus	Bentong (Oxeye scad)	372
+2020	Agustus	Cendro (Needle fish)	77
+2020	Agustus	Talang-Talang (Queen fish)	626
+2020	Agustus	Ikan Terbang (Flying fish)	78
+2020	Agustus	Japuh (Rainbow sardine)	3.329
+2020	Agustus	Kembung (Indian mackerels)	6.583
+2020	Agustus	Layang (Scads)	68
+2020	Agustus	Siro/Lemuru (Spotted sardinella)	951
+2020	Agustus	Selar (Trevallies)	281
+2020	Agustus	Tembang (Fringescale sardinella)	11.533
+2020	Agustus	Selanget (Chacunda gizzard shad)	2.221
+2020	Agustus	Tetengkek (Torpedo scad)	1.633
+2020	Agustus	Semar (Mene maculata)	-
+2020	Agustus	Tongkol (Frigate tuna)	1.582
+2020	Agustus	Layaran (Indo-pacific sailfish)	37
+2020	Agustus	Tenggiri (Narrow barred king mackerel)	1.095
+2020	Agustus	Cucut (Sharks)	363
+2020	Agustus	Manyung (Sea-cat fishes)	359
+2020	Agustus	Sebelah (Croaker)	966
+2020	Agustus	Kuwe (Great trevally)	735
+2020	Agustus	Bawal Hitam (Black pomfret)	-
+2020	Agustus	Bawal Putih (White pomfret)	-
+2020	Agustus	Golok-Golok (Dorab Wolf Hering)	745
+2020	Agustus	Beloso (Lizard fishes)	1.181
+2020	Agustus	Gerot-gerot (Saddle grunt)	27
+2020	Agustus	Peperek (Pony fishes)	46.880
+2020	Agustus	Kakap Putih (Giant Perach)	100
+2020	Agustus	Kakap Merah (Red Snapper)	14
+2020	Agustus	Jenaha (Snapper)	82
+2020	Agustus	Kurisi (Threadfin bream)	1.057
+2020	Agustus	Kuniran (Sulphur goatfish)	34.299
+2020	Agustus	Kuro (Giant threadfish)	629
+2020	Agustus	Samgeh (Croackers)	7.772
+2020	Agustus	Alu-alu (Barracuda)	269
+2020	Agustus	Kerong-Kerong (Jarbua terapon)	0
+2020	Agustus	Layur (Hairtail fishes)	171
+2020	Agustus	Pari (Rays)	1.792
+2020	Agustus	Ekor Kuning (Yellow tail)	48
+2020	Agustus	Kerapu (Grouper)	147
+2020	Agustus	Beronang (Spotted spinefoot)	
+2020	Agustus	" Udang 
+Jerbung"	616
+2020	Agustus	Udang Krosok (Tiger cat shrimp)	3.886
+2020	Agustus	Rajungan (Swimming crabs)	5.779
+2020	Agustus	Cumi-cumi (Common squids)	6.977
+2020	Agustus	Sotong (Cuttle fish)	2.126
+2020	Agustus	Gurita (Octopuses)	232
+2020	Agustus	Udang lainnya (Other shrimps)	7.082
+2020	Agustus	Ikan Lainnya (Others)	326
+2020	September	Teri (Anchovy)	48.635
+2020	September	Teri Nasi (Anchovies)	-
+2020	September	Belanak (Mullets)	820
+2020	September	Bentong (Oxeye scad)	218
+2020	September	Cendro (Needle fish)	106
+2020	September	Talang-Talang (Queen fish)	325
+2020	September	Ikan Terbang (Flying fish)	133
+2020	September	Japuh (Rainbow sardine)	2.364
+2020	September	Kembung (Indian mackerels)	5.977
+2020	September	Layang (Scads)	17
+2020	September	Siro/Lemuru (Spotted sardinella)	1.162
+2020	September	Selar (Trevallies)	1.437
+2020	September	Tembang (Fringescale sardinella)	11.274
+2020	September	Selanget (Chacunda gizzard shad)	2.589
+2020	September	Tetengkek (Torpedo scad)	3.385
+2020	September	Semar (Mene maculata)	25
+2020	September	Tongkol (Frigate tuna)	689
+2020	September	Layaran (Indo-pacific sailfish)	41
+2020	September	Tenggiri (Narrow barred king mackerel)	758
+2020	September	Cucut (Sharks)	35
+2020	September	Manyung (Sea-cat fishes)	355
+2020	September	Sebelah (Croaker)	1098
+2020	September	Kuwe (Great trevally)	295
+2020	September	Bawal Hitam (Black pomfret)	-
+2020	September	Bawal Putih (White pomfret)	-
+2020	September	Golok-Golok (Dorab Wolf Hering)	772
+2020	September	Beloso (Lizard fishes)	1.399
+2020	September	Gerot-gerot (Saddle grunt)	199
+2020	September	Peperek (Pony fishes)	43.757
+2020	September	Kakap Putih (Giant Perach)	62
+2020	September	Kakap Merah (Red Snapper)	113
+2020	September	Jenaha (Snapper)	16
+2020	September	Kurisi (Threadfin bream)	785
+2020	September	Kuniran (Sulphur goatfish)	19.270
+2020	September	Kuro (Giant threadfish)	330
+2020	September	Samgeh (Croackers)	6.168
+2020	September	Alu-alu (Barracuda)	255
+2020	September	Kerong-Kerong (Jarbua terapon)	2
+2020	September	Layur (Hairtail fishes)	207
+2020	September	Pari (Rays)	1.627
+2020	September	Ekor Kuning (Yellow tail)	21
+2020	September	Kerapu (Grouper)	88
+2020	September	Beronang (Spotted spinefoot)	35
+2020	September	" Udang 
+Jerbung"	642
+2020	September	Udang Krosok (Tiger cat shrimp)	3.281
+2020	September	Rajungan (Swimming crabs)	5.843
+2020	September	Cumi-cumi (Common squids)	9.309
+2020	September	Sotong (Cuttle fish)	2.160
+2020	September	Gurita (Octopuses)	246
+2020	September	Udang lainnya (Other shrimps)	5.171
+2020	September	Ikan Lainnya (Others)	120
+2020	Oktober	Teri (Anchovy)	33.268
+2020	Oktober	Teri Nasi (Anchovies)	2.002
+2020	Oktober	Belanak (Mullets)	1.942
+2020	Oktober	Bentong (Oxeye scad)	219
+2020	Oktober	Cendro (Needle fish)	77
+2020	Oktober	Talang-Talang (Queen fish)	78
+2020	Oktober	Ikan Terbang (Flying fish)	90
+2020	Oktober	Japuh (Rainbow sardine)	1.136
+2020	Oktober	Kembung (Indian mackerels)	6.651
+2020	Oktober	Layang (Scads)	-
+2020	Oktober	Siro/Lemuru (Spotted sardinella)	141
+2020	Oktober	Selar (Trevallies)	1.173
+2020	Oktober	Tembang (Fringescale sardinella)	11.763
+2020	Oktober	Selanget (Chacunda gizzard shad)	2.176
+2020	Oktober	Tetengkek (Torpedo scad)	278
+2020	Oktober	Semar (Mene maculata)	16
+2020	Oktober	Tongkol (Frigate tuna)	1.297
+2020	Oktober	Layaran (Indo-pacific sailfish)	24
+2020	Oktober	Tenggiri (Narrow barred king mackerel)	1.434
+2020	Oktober	Cucut (Sharks)	115
+2020	Oktober	Manyung (Sea-cat fishes)	411
+2020	Oktober	Sebelah (Croaker)	1.404
+2020	Oktober	Kuwe (Great trevally)	292
+2020	Oktober	Bawal Hitam (Black pomfret)	5
+2020	Oktober	Bawal Putih (White pomfret)	-
+2020	Oktober	Golok-Golok (Dorab Wolf Hering)	1121
+2020	Oktober	Beloso (Lizard fishes)	1.601
+2020	Oktober	Gerot-gerot (Saddle grunt)	283
+2020	Oktober	Peperek (Pony fishes)	55.345
+2020	Oktober	Kakap Putih (Giant Perach)	100
+2020	Oktober	Kakap Merah (Red Snapper)	71
+2020	Oktober	Jenaha (Snapper)	65
+2020	Oktober	Kurisi (Threadfin bream)	796
+2020	Oktober	Kuniran (Sulphur goatfish)	17.866
+2020	Oktober	Kuro (Giant threadfish)	228
+2020	Oktober	Samgeh (Croackers)	6.979
+2020	Oktober	Alu-alu (Barracuda)	566
+2020	Oktober	Kerong-Kerong (Jarbua terapon)	0
+2020	Oktober	Layur (Hairtail fishes)	29
+2020	Oktober	Pari (Rays)	2.322
+2020	Oktober	Ekor Kuning (Yellow tail)	191
+2020	Oktober	Kerapu (Grouper)	125
+2020	Oktober	Beronang (Spotted spinefoot)	12
+2020	Oktober	" Udang 
+Jerbung"	516
+2020	Oktober	Udang Krosok (Tiger cat shrimp)	3.513
+2020	Oktober	Rajungan (Swimming crabs)	5.600
+2020	Oktober	Cumi-cumi (Common squids)	5.236
+2020	Oktober	Sotong (Cuttle fish)	1.985
+2020	Oktober	Gurita (Octopuses)	230
+2020	Oktober	Udang lainnya (Other shrimps)	6.849
+2020	Oktober	Ikan Lainnya (Others)	321
+2020	November	Teri (Anchovy)	58.987
+2020	November	Teri Nasi (Anchovies)	141
+2020	November	Belanak (Mullets)	1.722
+2020	November	Bentong (Oxeye scad)	14
+2020	November	Cendro (Needle fish)	480
+2020	November	Talang-Talang (Queen fish)	106
+2020	November	Ikan Terbang (Flying fish)	24
+2020	November	Japuh (Rainbow sardine)	1.601
+2020	November	Kembung (Indian mackerels)	10.091
+2020	November	Layang (Scads)	16.942
+2020	November	Siro/Lemuru (Spotted sardinella)	631
+2020	November	Selar (Trevallies)	3.883
+2020	November	Tembang (Fringescale sardinella)	13.375
+2020	November	Selanget (Chacunda gizzard shad)	2.122
+2020	November	Tetengkek (Torpedo scad)	3.017
+2020	November	Semar (Mene maculata)	479
+2020	November	Tongkol (Frigate tuna)	4.844
+2020	November	Layaran (Indo-pacific sailfish)	186
+2020	November	Tenggiri (Narrow barred king mackerel)	4.453
+2020	November	Cucut (Sharks)	66
+2020	November	Manyung (Sea-cat fishes)	1.345
+2020	November	Sebelah (Croaker)	1.334
+2020	November	Kuwe (Great trevally)	524
+2020	November	Bawal Hitam (Black pomfret)	-
+2020	November	Bawal Putih (White pomfret)	-
+2020	November	Golok-Golok (Dorab Wolf Hering)	595
+2020	November	Beloso (Lizard fishes)	1.535
+2020	November	Gerot-gerot (Saddle grunt)	22
+2020	November	Peperek (Pony fishes)	49.740
+2020	November	Kakap Putih (Giant Perach)	103
+2020	November	Kakap Merah (Red Snapper)	90
+2020	November	Jenaha (Snapper)	55
+2020	November	Kurisi (Threadfin bream)	1.183
+2020	November	Kuniran (Sulphur goatfish)	16.974
+2020	November	Kuro (Giant threadfish)	486
+2020	November	Samgeh (Croackers)	8.486
+2020	November	Alu-alu (Barracuda)	651
+2020	November	Kerong-Kerong (Jarbua terapon)	0
+2020	November	Layur (Hairtail fishes)	23
+2020	November	Pari (Rays)	1.711
+2020	November	Ekor Kuning (Yellow tail)	60
+2020	November	Kerapu (Grouper)	103
+2020	November	Beronang (Spotted spinefoot)	26
+2020	November	" Udang 
+Jerbung"	786
+2020	November	Udang Krosok (Tiger cat shrimp)	2.757
+2020	November	Rajungan (Swimming crabs)	6.414
+2020	November	Cumi-cumi (Common squids)	50.423
+2020	November	Sotong (Cuttle fish)	2.433
+2020	November	Gurita (Octopuses)	151
+2020	November	Udang lainnya (Other shrimps)	7.824
+2020	November	Ikan Lainnya (Others)	649
+2020	Desember	Teri (Anchovy)	4.696
+2020	Desember	Teri Nasi (Anchovies)	-
+2020	Desember	Belanak (Mullets)	952
+2020	Desember	Bentong (Oxeye scad)	37
+2020	Desember	Cendro (Needle fish)	35
+2020	Desember	Talang-Talang (Queen fish)	158
+2020	Desember	Ikan Terbang (Flying fish)	-
+2020	Desember	Japuh (Rainbow sardine)	46
+2020	Desember	Kembung (Indian mackerels)	14.428
+2020	Desember	Layang (Scads)	95
+2020	Desember	Siro/Lemuru (Spotted sardinella)	-
+2020	Desember	Selar (Trevallies)	99
+2020	Desember	Tembang (Fringescale sardinella)	7.310
+2020	Desember	Selanget (Chacunda gizzard shad)	4.211
+2020	Desember	Tetengkek (Torpedo scad)	50
+2020	Desember	Semar (Mene maculata)	4
+2020	Desember	Tongkol (Frigate tuna)	531
+2020	Desember	Layaran (Indo-pacific sailfish)	-
+2020	Desember	Tenggiri (Narrow barred king mackerel)	3.355
+2020	Desember	Cucut (Sharks)	133
+2020	Desember	Manyung (Sea-cat fishes)	352
+2020	Desember	Sebelah (Croaker)	885
+2020	Desember	Kuwe (Great trevally)	383
+2020	Desember	Bawal Hitam (Black pomfret)	-
+2020	Desember	Bawal Putih (White pomfret)	3
+2020	Desember	Golok-Golok (Dorab Wolf Hering)	315
+2020	Desember	Beloso (Lizard fishes)	2.213
+2020	Desember	Gerot-gerot (Saddle grunt)	89
+2020	Desember	Peperek (Pony fishes)	66.568
+2020	Desember	Kakap Putih (Giant Perach)	16
+2020	Desember	Kakap Merah (Red Snapper)	24
+2020	Desember	Jenaha (Snapper)	301
+2020	Desember	Kurisi (Threadfin bream)	1.269
+2020	Desember	Kuniran (Sulphur goatfish)	17.152
+2020	Desember	Kuro (Giant threadfish)	1.485
+2020	Desember	Samgeh (Croackers)	9.862
+2020	Desember	Alu-alu (Barracuda)	180
+2020	Desember	Kerong-Kerong (Jarbua terapon)	0
+2020	Desember	Layur (Hairtail fishes)	-
+2020	Desember	Pari (Rays)	1.431
+2020	Desember	Ekor Kuning (Yellow tail)	5
+2020	Desember	Kerapu (Grouper)	107
+2020	Desember	Beronang (Spotted spinefoot)	17
+2020	Desember	" Udang 
+Jerbung"	236
+2020	Desember	Udang Krosok (Tiger cat shrimp)	1.960
+2020	Desember	Rajungan (Swimming crabs)	7.099
+2020	Desember	Cumi-cumi (Common squids)	11.230
+2020	Desember	Sotong (Cuttle fish)	2.707
+2020	Desember	Gurita (Octopuses)	168
+2020	Desember	Udang lainnya (Other shrimps)	3.659
+2020	Desember	Ikan Lainnya (Others)	553
+2021	Januari	Teri (Anchovy)	24.897
+2021	Januari	Teri Nasi (Anchovies)	-
+2021	Januari	Belanak (Mullets)	503
+2021	Januari	Bentong (Oxeye scad)	395
+2021	Januari	Cendro (Needle fish)	139
+2021	Januari	Talang-Talang (Queen fish)	13
+2021	Januari	Ikan Terbang (Flying fish)	-
+2021	Januari	Japuh (Rainbow sardine)	225
+2021	Januari	Kembung (Indian mackerels)	9.781
+2021	Januari	Layang (Scads)	1.222
+2021	Januari	Siro/Lemuru (Spotted sardinella)	543
+2021	Januari	Selar (Trevallies)	151
+2021	Januari	Tembang (Fringescale sardinella)	90.179
+2021	Januari	Selanget (Chacunda gizzard shad)	4.292
+2021	Januari	Tetengkek (Torpedo scad)	91
+2021	Januari	Semar (Mene maculata)	1.132
+2021	Januari	Tongkol (Frigate tuna)	1.481
+2021	Januari	Layaran (Indo-pacific sailfish)	71
+2021	Januari	Tenggiri (Narrow barred king mackerel)	6.489
+2021	Januari	Cucut (Sharks)	77
+2021	Januari	Manyung (Sea-cat fishes)	1.004
+2021	Januari	Sebelah (Croaker)	895
+2021	Januari	Kuwe (Great trevally)	1.485
+2021	Januari	Bawal Hitam (Black pomfret)	2
+2021	Januari	Bawal Putih (White pomfret)	0
+2021	Januari	Golok-Golok (Dorab Wolf Hering)	24
+2021	Januari	Beloso (Lizard fishes)	1.069
+2021	Januari	Gerot-gerot (Saddle grunt)	38
+2021	Januari	Peperek (Pony fishes)	51.752
+2021	Januari	Kakap Putih (Giant Perach)	34
+2021	Januari	Kakap Merah (Red Snapper)	286
+2021	Januari	Jenaha (Snapper)	628
+2021	Januari	Kurisi (Threadfin bream)	673
+2021	Januari	Kuniran (Sulphur goatfish)	14.264
+2021	Januari	Kuro (Giant threadfish)	1.152
+2021	Januari	Samgeh (Croackers)	1.121
+2021	Januari	Alu-alu (Barracuda)	5.533
+2021	Januari	Kerong-Kerong (Jarbua terapon)	20
+2021	Januari	Layur (Hairtail fishes)	4.458
+2021	Januari	Pari (Rays)	1.406
+2021	Januari	Ekor Kuning (Yellow tail)	429
+2021	Januari	Kerapu (Grouper)	419
+2021	Januari	Beronang (Spotted spinefoot)	1
+2021	Januari	" Udang 
+Jerbung"	631
+2021	Januari	Udang Krosok (Tiger cat shrimp)	770
+2021	Januari	Rajungan (Swimming crabs)	7.750
+2021	Januari	Cumi-cumi (Common squids)	11.838
+2021	Januari	Sotong (Cuttle fish)	1.557
+2021	Januari	Gurita (Octopuses)	261
+2021	Januari	Udang lainnya (Other shrimps)	1.616
+2021	Januari	"Udang Dogol (Metapenaeus 
+monoceros)"	71
+2021	Januari	" Sembilang  Euristhmus 
+microceps"	221
+2021	Januari	"Udang Kipas Tenus 
+Orientalis"	-
+2021	Januari	" Ikan 
+LainnyaOthers"	221
+2021	Februari	Teri (Anchovy)	1.431
+2021	Februari	Teri Nasi (Anchovies)	-
+2021	Februari	Belanak (Mullets)	17
+2021	Februari	Bentong (Oxeye scad)	89
+2021	Februari	Cendro (Needle fish)	44
+2021	Februari	Talang-Talang (Queen fish)	1
+2021	Februari	Ikan Terbang (Flying fish)	-
+2021	Februari	Japuh (Rainbow sardine)	2.500
+2021	Februari	Kembung (Indian mackerels)	7.270
+2021	Februari	Layang (Scads)	2
+2021	Februari	Siro/Lemuru (Spotted sardinella)	896
+2021	Februari	Selar (Trevallies)	169
+2021	Februari	Tembang (Fringescale sardinella)	185.451
+2021	Februari	Selanget (Chacunda gizzard shad)	2.186
+2021	Februari	Tetengkek (Torpedo scad)	58
+2021	Februari	Semar (Mene maculata)	109
+2021	Februari	Tongkol (Frigate tuna)	46
+2021	Februari	Layaran (Indo-pacific sailfish)	14
+2021	Februari	Tenggiri (Narrow barred king mackerel)	2.913
+2021	Februari	Cucut (Sharks)	1
+2021	Februari	Manyung (Sea-cat fishes)	683
+2021	Februari	Sebelah (Croaker)	1.069
+2021	Februari	Kuwe (Great trevally)	423
+2021	Februari	Bawal Hitam (Black pomfret)	-
+2021	Februari	Bawal Putih (White pomfret)	-
+2021	Februari	Golok-Golok (Dorab Wolf Hering)	197
+2021	Februari	Beloso (Lizard fishes)	1.177
+2021	Februari	Gerot-gerot (Saddle grunt)	-
+2021	Februari	Peperek (Pony fishes)	25.566
+2021	Februari	Kakap Putih (Giant Perach)	36
+2021	Februari	Kakap Merah (Red Snapper)	40
+2021	Februari	Jenaha (Snapper)	42
+2021	Februari	Kurisi (Threadfin bream)	8
+2021	Februari	Kuniran (Sulphur goatfish)	12.623
+2021	Februari	Kuro (Giant threadfish)	263
+2021	Februari	Samgeh (Croackers)	747
+2021	Februari	Alu-alu (Barracuda)	7.353
+2021	Februari	Kerong-Kerong (Jarbua terapon)	-
+2021	Februari	Layur (Hairtail fishes)	5.137
+2021	Februari	Pari (Rays)	968
+2021	Februari	Ekor Kuning (Yellow tail)	99
+2021	Februari	Kerapu (Grouper)	195
+2021	Februari	Beronang (Spotted spinefoot)	49
+2021	Februari	" Udang 
+Jerbung"	715
+2021	Februari	Udang Krosok (Tiger cat shrimp)	124
+2021	Februari	Rajungan (Swimming crabs)	8.284
+2021	Februari	Cumi-cumi (Common squids)	2.776
+2021	Februari	Sotong (Cuttle fish)	977
+2021	Februari	Gurita (Octopuses)	169
+2021	Februari	Udang lainnya (Other shrimps)	689
+2021	Februari	"Udang Dogol (Metapenaeus 
+monoceros)"	-
+2021	Februari	" Sembilang  Euristhmus 
+microceps"	275
+2021	Februari	"Udang Kipas Tenus 
+Orientalis"	13
+2021	Februari	" Ikan 
+LainnyaOthers"	84
+2021	Maret	Teri (Anchovy)	23.916
+2021	Maret	Teri Nasi (Anchovies)	18
+2021	Maret	Belanak (Mullets)	893
+2021	Maret	Bentong (Oxeye scad)	26
+2021	Maret	Cendro (Needle fish)	123
+2021	Maret	Talang-Talang (Queen fish)	92
+2021	Maret	Ikan Terbang (Flying fish)	8
+2021	Maret	Japuh (Rainbow sardine)	5.698
+2021	Maret	Kembung (Indian mackerels)	17.517
+2021	Maret	Layang (Scads)	383
+2021	Maret	Siro/Lemuru (Spotted sardinella)	2.791
+2021	Maret	Selar (Trevallies)	9.257
+2021	Maret	Tembang (Fringescale sardinella)	6.979
+2021	Maret	Selanget (Chacunda gizzard shad)	5.877
+2021	Maret	Tetengkek (Torpedo scad)	358
+2021	Maret	Semar (Mene maculata)	263
+2021	Maret	Tongkol (Frigate tuna)	2.179
+2021	Maret	Layaran (Indo-pacific sailfish)	108
+2021	Maret	Tenggiri (Narrow barred king mackerel)	5.233
+2021	Maret	Cucut (Sharks)	100
+2021	Maret	Manyung (Sea-cat fishes)	842
+2021	Maret	Sebelah (Croaker)	1.005
+2021	Maret	Kuwe (Great trevally)	1.031
+2021	Maret	Bawal Hitam (Black pomfret)	7
+2021	Maret	Bawal Putih (White pomfret)	7
+2021	Maret	Golok-Golok (Dorab Wolf Hering)	387
+2021	Maret	Beloso (Lizard fishes)	912
+2021	Maret	Gerot-gerot (Saddle grunt)	79
+2021	Maret	Peperek (Pony fishes)	42.798
+2021	Maret	Kakap Putih (Giant Perach)	72
+2021	Maret	Kakap Merah (Red Snapper)	77
+2021	Maret	Jenaha (Snapper)	73
+2021	Maret	Kurisi (Threadfin bream)	456
+2021	Maret	Kuniran (Sulphur goatfish)	12.848
+2021	Maret	Kuro (Giant threadfish)	197
+2021	Maret	Samgeh (Croackers)	525
+2021	Maret	Alu-alu (Barracuda)	2.678
+2021	Maret	Kerong-Kerong (Jarbua terapon)	163
+2021	Maret	Layur (Hairtail fishes)	6.446
+2021	Maret	Pari (Rays)	1.659
+2021	Maret	Ekor Kuning (Yellow tail)	328
+2021	Maret	Kerapu (Grouper)	137
+2021	Maret	Beronang (Spotted spinefoot)	-
+2021	Maret	" Udang 
+Jerbung"	1.816
+2021	Maret	Udang Krosok (Tiger cat shrimp)	101
+2021	Maret	Rajungan (Swimming crabs)	10.330
+2021	Maret	Cumi-cumi (Common squids)	19.577
+2021	Maret	Sotong (Cuttle fish)	753
+2021	Maret	Gurita (Octopuses)	61
+2021	Maret	Udang lainnya (Other shrimps)	4.935
+2021	Maret	"Udang Dogol (Metapenaeus 
+monoceros)"	-
+2021	Maret	" Sembilang  Euristhmus 
+microceps"	986
+2021	Maret	"Udang Kipas Tenus 
+Orientalis"	492
+2021	Maret	" Ikan 
+LainnyaOthers"	181
+2021	April	Teri (Anchovy)	18.551
+2021	April	Teri Nasi (Anchovies)	9
+2021	April	Belanak (Mullets)	698
+2021	April	Bentong (Oxeye scad)	52
+2021	April	Cendro (Needle fish)	184
+2021	April	Talang-Talang (Queen fish)	531
+2021	April	Ikan Terbang (Flying fish)	-
+2021	April	Japuh (Rainbow sardine)	3.802
+2021	April	Kembung (Indian mackerels)	19.649
+2021	April	Layang (Scads)	103
+2021	April	Siro/Lemuru (Spotted sardinella)	824
+2021	April	Selar (Trevallies)	6.718
+2021	April	Tembang (Fringescale sardinella)	12.728
+2021	April	Selanget (Chacunda gizzard shad)	1.020
+2021	April	Tetengkek (Torpedo scad)	1.247
+2021	April	Semar (Mene maculata)	1.314
+2021	April	Tongkol (Frigate tuna)	542
+2021	April	Layaran (Indo-pacific sailfish)	137
+2021	April	Tenggiri (Narrow barred king mackerel)	4.508
+2021	April	Cucut (Sharks)	116
+2021	April	Manyung (Sea-cat fishes)	1.376
+2021	April	Sebelah (Croaker)	461
+2021	April	Kuwe (Great trevally)	793
+2021	April	Bawal Hitam (Black pomfret)	9
+2021	April	Bawal Putih (White pomfret)	0
+2021	April	Golok-Golok (Dorab Wolf Hering)	242
+2021	April	Beloso (Lizard fishes)	451
+2021	April	Gerot-gerot (Saddle grunt)	50
+2021	April	Peperek (Pony fishes)	34.715
+2021	April	Kakap Putih (Giant Perach)	162
+2021	April	Kakap Merah (Red Snapper)	47
+2021	April	Jenaha (Snapper)	109
+2021	April	Kurisi (Threadfin bream)	590
+2021	April	Kuniran (Sulphur goatfish)	14.287
+2021	April	Kuro (Giant threadfish)	4
+2021	April	Samgeh (Croackers)	670
+2021	April	Alu-alu (Barracuda)	356
+2021	April	Kerong-Kerong (Jarbua terapon)	22
+2021	April	Layur (Hairtail fishes)	4.089
+2021	April	Pari (Rays)	995
+2021	April	Ekor Kuning (Yellow tail)	139
+2021	April	Kerapu (Grouper)	141
+2021	April	Beronang (Spotted spinefoot)	28
+2021	April	" Udang 
+Jerbung"	1.477
+2021	April	Udang Krosok (Tiger cat shrimp)	2.372
+2021	April	Rajungan (Swimming crabs)	6.074
+2021	April	Cumi-cumi (Common squids)	16.680
+2021	April	Sotong (Cuttle fish)	822
+2021	April	Gurita (Octopuses)	148
+2021	April	Udang lainnya (Other shrimps)	2.990
+2021	April	"Udang Dogol (Metapenaeus 
+monoceros)"	379
+2021	April	" Sembilang  Euristhmus 
+microceps"	569
+2021	April	"Udang Kipas Tenus 
+Orientalis"	464
+2021	April	" Ikan 
+LainnyaOthers"	188
+2021	Mei	Teri (Anchovy)	36.360
+2021	Mei	Teri Nasi (Anchovies)	-
+2021	Mei	Belanak (Mullets)	756
+2021	Mei	Bentong (Oxeye scad)	508
+2021	Mei	Cendro (Needle fish)	420
+2021	Mei	Talang-Talang (Queen fish)	484
+2021	Mei	Ikan Terbang (Flying fish)	10
+2021	Mei	Japuh (Rainbow sardine)	2.042
+2021	Mei	Kembung (Indian mackerels)	18.060
+2021	Mei	Layang (Scads)	804
+2021	Mei	Siro/Lemuru (Spotted sardinella)	1.832
+2021	Mei	Selar (Trevallies)	3.266
+2021	Mei	Tembang (Fringescale sardinella)	8.854
+2021	Mei	Selanget (Chacunda gizzard shad)	1.543
+2021	Mei	Tetengkek (Torpedo scad)	394
+2021	Mei	Semar (Mene maculata)	2.468
+2021	Mei	Tongkol (Frigate tuna)	4.575
+2021	Mei	Layaran (Indo-pacific sailfish)	-
+2021	Mei	Tenggiri (Narrow barred king mackerel)	942
+2021	Mei	Cucut (Sharks)	34
+2021	Mei	Manyung (Sea-cat fishes)	534
+2021	Mei	Sebelah (Croaker)	391
+2021	Mei	Kuwe (Great trevally)	344
+2021	Mei	Bawal Hitam (Black pomfret)	-
+2021	Mei	Bawal Putih (White pomfret)	-
+2021	Mei	Golok-Golok (Dorab Wolf Hering)	67
+2021	Mei	Beloso (Lizard fishes)	1.110
+2021	Mei	Gerot-gerot (Saddle grunt)	134
+2021	Mei	Peperek (Pony fishes)	43.041
+2021	Mei	Kakap Putih (Giant Perach)	100
+2021	Mei	Kakap Merah (Red Snapper)	128
+2021	Mei	Jenaha (Snapper)	129
+2021	Mei	Kurisi (Threadfin bream)	821
+2021	Mei	Kuniran (Sulphur goatfish)	13.117
+2021	Mei	Kuro (Giant threadfish)	13
+2021	Mei	Samgeh (Croackers)	183
+2021	Mei	Alu-alu (Barracuda)	264
+2021	Mei	Kerong-Kerong (Jarbua terapon)	82
+2021	Mei	Layur (Hairtail fishes)	4.327
+2021	Mei	Pari (Rays)	794
+2021	Mei	Ekor Kuning (Yellow tail)	71
+2021	Mei	Kerapu (Grouper)	84
+2021	Mei	Beronang (Spotted spinefoot)	54
+2021	Mei	" Udang 
+Jerbung"	1.098
+2021	Mei	Udang Krosok (Tiger cat shrimp)	2.959
+2021	Mei	Rajungan (Swimming crabs)	5.544
+2021	Mei	Cumi-cumi (Common squids)	19.815
+2021	Mei	Sotong (Cuttle fish)	780
+2021	Mei	Gurita (Octopuses)	-
+2021	Mei	Udang lainnya (Other shrimps)	5.755
+2021	Mei	"Udang Dogol (Metapenaeus 
+monoceros)"	286
+2021	Mei	" Sembilang  Euristhmus 
+microceps"	516
+2021	Mei	"Udang Kipas Tenus 
+Orientalis"	407
+2021	Mei	" Ikan 
+LainnyaOthers"	128
+2021	Juni	Teri (Anchovy)	44.745
+2021	Juni	Teri Nasi (Anchovies)	482
+2021	Juni	Belanak (Mullets)	680
+2021	Juni	Bentong (Oxeye scad)	434
+2021	Juni	Cendro (Needle fish)	57
+2021	Juni	Talang-Talang (Queen fish)	371
+2021	Juni	Ikan Terbang (Flying fish)	-
+2021	Juni	Japuh (Rainbow sardine)	677
+2021	Juni	Kembung (Indian mackerels)	13.376
+2021	Juni	Layang (Scads)	2.826
+2021	Juni	Siro/Lemuru (Spotted sardinella)	3.054
+2021	Juni	Selar (Trevallies)	3.212
+2021	Juni	Tembang (Fringescale sardinella)	27.662
+2021	Juni	Selanget (Chacunda gizzard shad)	3.325
+2021	Juni	Tetengkek (Torpedo scad)	969
+2021	Juni	Semar (Mene maculata)	7.929
+2021	Juni	Tongkol (Frigate tuna)	13.789
+2021	Juni	Layaran (Indo-pacific sailfish)	27
+2021	Juni	Tenggiri (Narrow barred king mackerel)	813
+2021	Juni	Cucut (Sharks)	46
+2021	Juni	Manyung (Sea-cat fishes)	817
+2021	Juni	Sebelah (Croaker)	565
+2021	Juni	Kuwe (Great trevally)	208
+2021	Juni	Bawal Hitam (Black pomfret)	15
+2021	Juni	Bawal Putih (White pomfret)	5
+2021	Juni	Golok-Golok (Dorab Wolf Hering)	220
+2021	Juni	Beloso (Lizard fishes)	970
+2021	Juni	Gerot-gerot (Saddle grunt)	158
+2021	Juni	Peperek (Pony fishes)	43.995
+2021	Juni	Kakap Putih (Giant Perach)	32
+2021	Juni	Kakap Merah (Red Snapper)	23
+2021	Juni	Jenaha (Snapper)	32
+2021	Juni	Kurisi (Threadfin bream)	1.116
+2021	Juni	Kuniran (Sulphur goatfish)	26.405
+2021	Juni	Kuro (Giant threadfish)	5
+2021	Juni	Samgeh (Croackers)	201
+2021	Juni	Alu-alu (Barracuda)	157
+2021	Juni	Kerong-Kerong (Jarbua terapon)	22
+2021	Juni	Layur (Hairtail fishes)	5.981
+2021	Juni	Pari (Rays)	1.016
+2021	Juni	Ekor Kuning (Yellow tail)	259
+2021	Juni	Kerapu (Grouper)	16
+2021	Juni	Beronang (Spotted spinefoot)	5
+2021	Juni	" Udang 
+Jerbung"	1.484
+2021	Juni	Udang Krosok (Tiger cat shrimp)	5.572
+2021	Juni	Rajungan (Swimming crabs)	5.892
+2021	Juni	Cumi-cumi (Common squids)	9.480
+2021	Juni	Sotong (Cuttle fish)	1.077
+2021	Juni	Gurita (Octopuses)	133
+2021	Juni	Udang lainnya (Other shrimps)	9.678
+2021	Juni	"Udang Dogol (Metapenaeus 
+monoceros)"	108
+2021	Juni	" Sembilang  Euristhmus 
+microceps"	390
+2021	Juni	"Udang Kipas Tenus 
+Orientalis"	440
+2021	Juni	" Ikan 
+LainnyaOthers"	7
+2021	Juli	Teri (Anchovy)	19.694
+2021	Juli	Teri Nasi (Anchovies)	127
+2021	Juli	Belanak (Mullets)	566
+2021	Juli	Bentong (Oxeye scad)	204
+2021	Juli	Cendro (Needle fish)	83
+2021	Juli	Talang-Talang (Queen fish)	72
+2021	Juli	Ikan Terbang (Flying fish)	9
+2021	Juli	Japuh (Rainbow sardine)	2.384
+2021	Juli	Kembung (Indian mackerels)	8.842
+2021	Juli	Layang (Scads)	481
+2021	Juli	Siro/Lemuru (Spotted sardinella)	808
+2021	Juli	Selar (Trevallies)	1.044
+2021	Juli	Tembang (Fringescale sardinella)	9.643
+2021	Juli	Selanget (Chacunda gizzard shad)	3.951
+2021	Juli	Tetengkek (Torpedo scad)	1.019
+2021	Juli	Semar (Mene maculata)	991
+2021	Juli	Tongkol (Frigate tuna)	723
+2021	Juli	Layaran (Indo-pacific sailfish)	11
+2021	Juli	Tenggiri (Narrow barred king mackerel)	1.004
+2021	Juli	Cucut (Sharks)	44
+2021	Juli	Manyung (Sea-cat fishes)	620
+2021	Juli	Sebelah (Croaker)	586
+2021	Juli	Kuwe (Great trevally)	275
+2021	Juli	Bawal Hitam (Black pomfret)	-
+2021	Juli	Bawal Putih (White pomfret)	13
+2021	Juli	Golok-Golok (Dorab Wolf Hering)	242
+2021	Juli	Beloso (Lizard fishes)	1.522
+2021	Juli	Gerot-gerot (Saddle grunt)	33
+2021	Juli	Peperek (Pony fishes)	35.865
+2021	Juli	Kakap Putih (Giant Perach)	52
+2021	Juli	Kakap Merah (Red Snapper)	133
+2021	Juli	Jenaha (Snapper)	36
+2021	Juli	Kurisi (Threadfin bream)	964
+2021	Juli	Kuniran (Sulphur goatfish)	23.340
+2021	Juli	Kuro (Giant threadfish)	46
+2021	Juli	Samgeh (Croackers)	99
+2021	Juli	Alu-alu (Barracuda)	-
+2021	Juli	Kerong-Kerong (Jarbua terapon)	6
+2021	Juli	Layur (Hairtail fishes)	4.947
+2021	Juli	Pari (Rays)	858
+2021	Juli	Ekor Kuning (Yellow tail)	770
+2021	Juli	Kerapu (Grouper)	76
+2021	Juli	Beronang (Spotted spinefoot)	242
+2021	Juli	" Udang 
+Jerbung"	283
+2021	Juli	Udang Krosok (Tiger cat shrimp)	3.997
+2021	Juli	Rajungan (Swimming crabs)	6.875
+2021	Juli	Cumi-cumi (Common squids)	9.896
+2021	Juli	Sotong (Cuttle fish)	1.248
+2021	Juli	Gurita (Octopuses)	181
+2021	Juli	Udang lainnya (Other shrimps)	5.866
+2021	Juli	"Udang Dogol (Metapenaeus 
+monoceros)"	28
+2021	Juli	" Sembilang  Euristhmus 
+microceps"	619
+2021	Juli	"Udang Kipas Tenus 
+Orientalis"	484
+2021	Juli	" Ikan 
+LainnyaOthers"	423
+2021	Agustus	Teri (Anchovy)	27.315
+2021	Agustus	Teri Nasi (Anchovies)	-
+2021	Agustus	Belanak (Mullets)	1.028
+2021	Agustus	Bentong (Oxeye scad)	137
+2021	Agustus	Cendro (Needle fish)	127
+2021	Agustus	Talang-Talang (Queen fish)	1.273
+2021	Agustus	Ikan Terbang (Flying fish)	9
+2021	Agustus	Japuh (Rainbow sardine)	1.084
+2021	Agustus	Kembung (Indian mackerels)	9.386
+2021	Agustus	Layang (Scads)	574
+2021	Agustus	Siro/Lemuru (Spotted sardinella)	448
+2021	Agustus	Selar (Trevallies)	2.032
+2021	Agustus	Tembang (Fringescale sardinella)	7.647
+2021	Agustus	Selanget (Chacunda gizzard shad)	3.499
+2021	Agustus	Tetengkek (Torpedo scad)	794
+2021	Agustus	Semar (Mene maculata)	1.407
+2021	Agustus	Tongkol (Frigate tuna)	2.937
+2021	Agustus	Layaran (Indo-pacific sailfish)	5
+2021	Agustus	Tenggiri (Narrow barred king mackerel)	1.294
+2021	Agustus	Cucut (Sharks)	238
+2021	Agustus	Manyung (Sea-cat fishes)	230
+2021	Agustus	Sebelah (Croaker)	784
+2021	Agustus	Kuwe (Great trevally)	1.462
+2021	Agustus	Bawal Hitam (Black pomfret)	-
+2021	Agustus	Bawal Putih (White pomfret)	-
+2021	Agustus	Golok-Golok (Dorab Wolf Hering)	716
+2021	Agustus	Beloso (Lizard fishes)	2.283
+2021	Agustus	Gerot-gerot (Saddle grunt)	6
+2021	Agustus	Peperek (Pony fishes)	38.317
+2021	Agustus	Kakap Putih (Giant Perach)	70
+2021	Agustus	Kakap Merah (Red Snapper)	126
+2021	Agustus	Jenaha (Snapper)	149
+2021	Agustus	Kurisi (Threadfin bream)	1.065
+2021	Agustus	Kuniran (Sulphur goatfish)	34.635
+2021	Agustus	Kuro (Giant threadfish)	232
+2021	Agustus	Samgeh (Croackers)	270
+2021	Agustus	Alu-alu (Barracuda)	28
+2021	Agustus	Kerong-Kerong (Jarbua terapon)	33
+2021	Agustus	Layur (Hairtail fishes)	6.297
+2021	Agustus	Pari (Rays)	1.321
+2021	Agustus	Ekor Kuning (Yellow tail)	757
+2021	Agustus	Kerapu (Grouper)	81
+2021	Agustus	Beronang (Spotted spinefoot)	7
+2021	Agustus	" Udang 
+Jerbung"	648
+2021	Agustus	Udang Krosok (Tiger cat shrimp)	4.978
+2021	Agustus	Rajungan (Swimming crabs)	6.818
+2021	Agustus	Cumi-cumi (Common squids)	12.677
+2021	Agustus	Sotong (Cuttle fish)	2.057
+2021	Agustus	Gurita (Octopuses)	358
+2021	Agustus	Udang lainnya (Other shrimps)	5.747
+2021	Agustus	"Udang Dogol (Metapenaeus 
+monoceros)"	6
+2021	Agustus	" Sembilang  Euristhmus 
+microceps"	-
+2021	Agustus	"Udang Kipas Tenus 
+Orientalis"	535
+2021	Agustus	" Ikan 
+LainnyaOthers"	416
+2021	September	Teri (Anchovy)	14.481
+2021	September	Teri Nasi (Anchovies)	-
+2021	September	Belanak (Mullets)	1.735
+2021	September	Bentong (Oxeye scad)	66
+2021	September	Cendro (Needle fish)	222
+2021	September	Talang-Talang (Queen fish)	1.892
+2021	September	Ikan Terbang (Flying fish)	68
+2021	September	Japuh (Rainbow sardine)	2.082
+2021	September	Kembung (Indian mackerels)	14.295
+2021	September	Layang (Scads)	248
+2021	September	Siro/Lemuru (Spotted sardinella)	529
+2021	September	Selar (Trevallies)	3.449
+2021	September	Tembang (Fringescale sardinella)	5.827
+2021	September	Selanget (Chacunda gizzard shad)	2.855
+2021	September	Tetengkek (Torpedo scad)	516
+2021	September	Semar (Mene maculata)	694
+2021	September	Tongkol (Frigate tuna)	1.644
+2021	September	Layaran (Indo-pacific sailfish)	11
+2021	September	Tenggiri (Narrow barred king mackerel)	889
+2021	September	Cucut (Sharks)	45
+2021	September	Manyung (Sea-cat fishes)	565
+2021	September	Sebelah (Croaker)	2.545
+2021	September	Kuwe (Great trevally)	870
+2021	September	Bawal Hitam (Black pomfret)	-
+2021	September	Bawal Putih (White pomfret)	4
+2021	September	Golok-Golok (Dorab Wolf Hering)	45
+2021	September	Beloso (Lizard fishes)	2.535
+2021	September	Gerot-gerot (Saddle grunt)	0
+2021	September	Peperek (Pony fishes)	52.208
+2021	September	Kakap Putih (Giant Perach)	11
+2021	September	Kakap Merah (Red Snapper)	51
+2021	September	Jenaha (Snapper)	48
+2021	September	Kurisi (Threadfin bream)	2.634
+2021	September	Kuniran (Sulphur goatfish)	34.501
+2021	September	Kuro (Giant threadfish)	52
+2021	September	Samgeh (Croackers)	549
+2021	September	Alu-alu (Barracuda)	-
+2021	September	Kerong-Kerong (Jarbua terapon)	14
+2021	September	Layur (Hairtail fishes)	13.670
+2021	September	Pari (Rays)	2.918
+2021	September	Ekor Kuning (Yellow tail)	388
+2021	September	Kerapu (Grouper)	125
+2021	September	Beronang (Spotted spinefoot)	22
+2021	September	" Udang 
+Jerbung"	1.060
+2021	September	Udang Krosok (Tiger cat shrimp)	3.923
+2021	September	Rajungan (Swimming crabs)	6.523
+2021	September	Cumi-cumi (Common squids)	11.175
+2021	September	Sotong (Cuttle fish)	3.180
+2021	September	Gurita (Octopuses)	284
+2021	September	Udang lainnya (Other shrimps)	6.399
+2021	September	"Udang Dogol (Metapenaeus 
+monoceros)"	-
+2021	September	" Sembilang  Euristhmus 
+microceps"	146
+2021	September	"Udang Kipas Tenus 
+Orientalis"	184
+2021	September	" Ikan 
+LainnyaOthers"	485
+2021	Oktober	Teri (Anchovy)	32.152
+2021	Oktober	Teri Nasi (Anchovies)	-
+2021	Oktober	Belanak (Mullets)	786
+2021	Oktober	Bentong (Oxeye scad)	65
+2021	Oktober	Cendro (Needle fish)	259
+2021	Oktober	Talang-Talang (Queen fish)	318
+2021	Oktober	Ikan Terbang (Flying fish)	53
+2021	Oktober	Japuh (Rainbow sardine)	5.159
+2021	Oktober	Kembung (Indian mackerels)	16.917
+2021	Oktober	Layang (Scads)	95
+2021	Oktober	Siro/Lemuru (Spotted sardinella)	247
+2021	Oktober	Selar (Trevallies)	4.323
+2021	Oktober	Tembang (Fringescale sardinella)	10.477
+2021	Oktober	Selanget (Chacunda gizzard shad)	2.823
+2021	Oktober	Tetengkek (Torpedo scad)	572
+2021	Oktober	Semar (Mene maculata)	718
+2021	Oktober	Tongkol (Frigate tuna)	2.033
+2021	Oktober	Layaran (Indo-pacific sailfish)	-
+2021	Oktober	Tenggiri (Narrow barred king mackerel)	777
+2021	Oktober	Cucut (Sharks)	11
+2021	Oktober	Manyung (Sea-cat fishes)	415
+2021	Oktober	Sebelah (Croaker)	741
+2021	Oktober	Kuwe (Great trevally)	302
+2021	Oktober	Bawal Hitam (Black pomfret)	-
+2021	Oktober	Bawal Putih (White pomfret)	-
+2021	Oktober	Golok-Golok (Dorab Wolf Hering)	57
+2021	Oktober	Beloso (Lizard fishes)	2.363
+2021	Oktober	Gerot-gerot (Saddle grunt)	12
+2021	Oktober	Peperek (Pony fishes)	54.890
+2021	Oktober	Kakap Putih (Giant Perach)	76
+2021	Oktober	Kakap Merah (Red Snapper)	114
+2021	Oktober	Jenaha (Snapper)	44
+2021	Oktober	Kurisi (Threadfin bream)	1.043
+2021	Oktober	Kuniran (Sulphur goatfish)	30.867
+2021	Oktober	Kuro (Giant threadfish)	159
+2021	Oktober	Samgeh (Croackers)	306
+2021	Oktober	Alu-alu (Barracuda)	-
+2021	Oktober	Kerong-Kerong (Jarbua terapon)	10
+2021	Oktober	Layur (Hairtail fishes)	5.748
+2021	Oktober	Pari (Rays)	1.258
+2021	Oktober	Ekor Kuning (Yellow tail)	515
+2021	Oktober	Kerapu (Grouper)	74
+2021	Oktober	Beronang (Spotted spinefoot)	36
+2021	Oktober	" Udang 
+Jerbung"	669
+2021	Oktober	Udang Krosok (Tiger cat shrimp)	4.200
+2021	Oktober	Rajungan (Swimming crabs)	7.196
+2021	Oktober	Cumi-cumi (Common squids)	17.619
+2021	Oktober	Sotong (Cuttle fish)	1.503
+2021	Oktober	Gurita (Octopuses)	303
+2021	Oktober	Udang lainnya (Other shrimps)	5.962
+2021	Oktober	"Udang Dogol (Metapenaeus 
+monoceros)"	62
+2021	Oktober	" Sembilang  Euristhmus 
+microceps"	462
+2021	Oktober	"Udang Kipas Tenus 
+Orientalis"	701
+2021	Oktober	" Ikan 
+LainnyaOthers"	90
+2021	November	Teri (Anchovy)	35.833
+2021	November	Teri Nasi (Anchovies)	7
+2021	November	Belanak (Mullets)	592
+2021	November	Bentong (Oxeye scad)	106
+2021	November	Cendro (Needle fish)	199
+2021	November	Talang-Talang (Queen fish)	63
+2021	November	Ikan Terbang (Flying fish)	-
+2021	November	Japuh (Rainbow sardine)	1.702
+2021	November	Kembung (Indian mackerels)	16.220
+2021	November	Layang (Scads)	4
+2021	November	Siro/Lemuru (Spotted sardinella)	1.471
+2021	November	Selar (Trevallies)	9.138
+2021	November	Tembang (Fringescale sardinella)	23.010
+2021	November	Selanget (Chacunda gizzard shad)	2.541
+2021	November	Tetengkek (Torpedo scad)	1.135
+2021	November	Semar (Mene maculata)	934
+2021	November	Tongkol (Frigate tuna)	5.301
+2021	November	Layaran (Indo-pacific sailfish)	44
+2021	November	Tenggiri (Narrow barred king mackerel)	1.898
+2021	November	Cucut (Sharks)	60
+2021	November	Manyung (Sea-cat fishes)	693
+2021	November	Sebelah (Croaker)	670
+2021	November	Kuwe (Great trevally)	352
+2021	November	Bawal Hitam (Black pomfret)	-
+2021	November	Bawal Putih (White pomfret)	-
+2021	November	Golok-Golok (Dorab Wolf Hering)	184
+2021	November	Beloso (Lizard fishes)	2.246
+2021	November	Gerot-gerot (Saddle grunt)	57
+2021	November	Peperek (Pony fishes)	51.650
+2021	November	Kakap Putih (Giant Perach)	37
+2021	November	Kakap Merah (Red Snapper)	186
+2021	November	Jenaha (Snapper)	99
+2021	November	Kurisi (Threadfin bream)	986
+2021	November	Kuniran (Sulphur goatfish)	17.186
+2021	November	Kuro (Giant threadfish)	72
+2021	November	Samgeh (Croackers)	185
+2021	November	Alu-alu (Barracuda)	-
+2021	November	Kerong-Kerong (Jarbua terapon)	
+2021	November	Layur (Hairtail fishes)	4.857
+2021	November	Pari (Rays)	1.330
+2021	November	Ekor Kuning (Yellow tail)	631
+2021	November	Kerapu (Grouper)	27
+2021	November	Beronang (Spotted spinefoot)	44
+2021	November	" Udang 
+Jerbung"	957
+2021	November	Udang Krosok (Tiger cat shrimp)	2.510
+2021	November	Rajungan (Swimming crabs)	5.921
+2021	November	Cumi-cumi (Common squids)	27.637
+2021	November	Sotong (Cuttle fish)	1.766
+2021	November	Gurita (Octopuses)	247
+2021	November	Udang lainnya (Other shrimps)	2.872
+2021	November	"Udang Dogol (Metapenaeus 
+monoceros)"	105
+2021	November	" Sembilang  Euristhmus 
+microceps"	635
+2021	November	"Udang Kipas Tenus 
+Orientalis"	399
+2021	November	" Ikan 
+LainnyaOthers"	126
+2021	Desember	Teri (Anchovy)	8.429
+2021	Desember	Teri Nasi (Anchovies)	30
+2021	Desember	Belanak (Mullets)	197
+2021	Desember	Bentong (Oxeye scad)	176
+2021	Desember	Cendro (Needle fish)	184
+2021	Desember	Talang-Talang (Queen fish)	336
+2021	Desember	Ikan Terbang (Flying fish)	-
+2021	Desember	Japuh (Rainbow sardine)	3.915
+2021	Desember	Kembung (Indian mackerels)	24.257
+2021	Desember	Layang (Scads)	7
+2021	Desember	Siro/Lemuru (Spotted sardinella)	748
+2021	Desember	Selar (Trevallies)	3.715
+2021	Desember	Tembang (Fringescale sardinella)	10.562
+2021	Desember	Selanget (Chacunda gizzard shad)	3.105
+2021	Desember	Tetengkek (Torpedo scad)	293
+2021	Desember	Semar (Mene maculata)	1.107
+2021	Desember	Tongkol (Frigate tuna)	884
+2021	Desember	Layaran (Indo-pacific sailfish)	21
+2021	Desember	Tenggiri (Narrow barred king mackerel)	4.084
+2021	Desember	Cucut (Sharks)	113
+2021	Desember	Manyung (Sea-cat fishes)	744
+2021	Desember	Sebelah (Croaker)	319
+2021	Desember	Kuwe (Great trevally)	343
+2021	Desember	Bawal Hitam (Black pomfret)	-
+2021	Desember	Bawal Putih (White pomfret)	5
+2021	Desember	Golok-Golok (Dorab Wolf Hering)	100
+2021	Desember	Beloso (Lizard fishes)	2.950
+2021	Desember	Gerot-gerot (Saddle grunt)	79
+2021	Desember	Peperek (Pony fishes)	54.367
+2021	Desember	Kakap Putih (Giant Perach)	10
+2021	Desember	Kakap Merah (Red Snapper)	344
+2021	Desember	Jenaha (Snapper)	139
+2021	Desember	Kurisi (Threadfin bream)	888
+2021	Desember	Kuniran (Sulphur goatfish)	20.375
+2021	Desember	Kuro (Giant threadfish)	105
+2021	Desember	Samgeh (Croackers)	153
+2021	Desember	Alu-alu (Barracuda)	-
+2021	Desember	Kerong-Kerong (Jarbua terapon)	20
+2021	Desember	Layur (Hairtail fishes)	3.751
+2021	Desember	Pari (Rays)	1.828
+2021	Desember	Ekor Kuning (Yellow tail)	655
+2021	Desember	Kerapu (Grouper)	132
+2021	Desember	Beronang (Spotted spinefoot)	75
+2021	Desember	" Udang 
+Jerbung"	496
+2021	Desember	Udang Krosok (Tiger cat shrimp)	1.365
+2021	Desember	Rajungan (Swimming crabs)	6.466
+2021	Desember	Cumi-cumi (Common squids)	12.984
+2021	Desember	Sotong (Cuttle fish)	3.462
+2021	Desember	Gurita (Octopuses)	152
+2021	Desember	Udang lainnya (Other shrimps)	96
+2021	Desember	"Udang Dogol (Metapenaeus 
+monoceros)"	20
+2021	Desember	" Sembilang  Euristhmus 
+microceps"	153
+2021	Desember	"Udang Kipas Tenus 
+Orientalis"	201
+2021	Desember	" Ikan 
+LainnyaOthers"	160
+2022	Januari	Teri (Anchovy)	20.716
+2022	Januari	Teri Nasi (Anchovies)	-
+2022	Januari	Belanak (Mullets)	554
+2022	Januari	Bentong (Oxeye scad)	336
+2022	Januari	Cendro (Needle fish)	83
+2022	Januari	Talang-Talang (Queen fish)	113
+2022	Januari	Ikan Terbang (Flying fish)	13
+2022	Januari	Japuh (Rainbow sardine)	2.584
+2022	Januari	Kembung (Indian mackerels)	18.937
+2022	Januari	Layang (Scads)	-
+2022	Januari	Siro/Lemuru (Spotted sardinella)	31
+2022	Januari	Selar (Trevallies)	2.583
+2022	Januari	Tembang (Fringescale sardinella)	6.176
+2022	Januari	Selanget (Chacunda gizzard shad)	3.890
+2022	Januari	Tetengkek (Torpedo scad)	178
+2022	Januari	Semar (Mene maculata)	50
+2022	Januari	Tongkol (Frigate tuna)	2.307
+2022	Januari	Layaran (Indo-pacific sailfish)	43
+2022	Januari	Tenggiri (Narrow barred king mackerel)	2.867
+2022	Januari	Cucut (Sharks)	34
+2022	Januari	Manyung (Sea-cat fishes)	871
+2022	Januari	Sebelah (Croaker)	452
+2022	Januari	Kuwe (Great trevally)	154
+2022	Januari	Bawal Hitam (Black pomfret)	1
+2022	Januari	Bawal Putih (White pomfret)	5
+2022	Januari	Golok-Golok (Dorab Wolf Hering)	138
+2022	Januari	Beloso (Lizard fishes)	2.579
+2022	Januari	Gerot-gerot (Saddle grunt)	-
+2022	Januari	Peperek (Pony fishes)	50.093
+2022	Januari	Kakap Putih (Giant Perach)	55
+2022	Januari	Kakap Merah (Red Snapper)	62
+2022	Januari	Jenaha (Snapper)	69
+2022	Januari	Kurisi (Threadfin bream)	1.185
+2022	Januari	Kuniran (Sulphur goatfish)	33.624
+2022	Januari	Kuro (Giant threadfish)	22
+2022	Januari	Samgeh (Croackers)	254
+2022	Januari	Alu-alu (Barracuda)	-
+2022	Januari	Kerong-Kerong (Jarbua terapon)	32
+2022	Januari	Layur (Hairtail fishes)	3.717
+2022	Januari	Pari (Rays)	1.168
+2022	Januari	Ekor Kuning (Yellow tail)	436
+2022	Januari	Kerapu (Grouper)	57
+2022	Januari	Beronang (Spotted spinefoot)	15
+2022	Januari	" Udang 
+Jerbung"	582
+2022	Januari	Udang Krosok (Tiger cat shrimp)	1.196
+2022	Januari	Rajungan (Swimming crabs)	5.799
+2022	Januari	Cumi-cumi (Common squids)	17.756
+2022	Januari	Sotong (Cuttle fish)	1.164
+2022	Januari	Gurita (Octopuses)	143
+2022	Januari	Udang lainnya (Other shrimps)	6.359
+2022	Januari	" Sembilang  Euristhmus 
+microceps"	109
+2022	Januari	"Udang Kipas Tenus 
+Orientalis"	282
+2022	Januari	" Ikan 
+LainnyaOthers"	336
+2022	Februari	Teri (Anchovy)	7.449
+2022	Februari	Teri Nasi (Anchovies)	-
+2022	Februari	Belanak (Mullets)	73
+2022	Februari	Bentong (Oxeye scad)	136
+2022	Februari	Cendro (Needle fish)	102
+2022	Februari	Talang-Talang (Queen fish)	229
+2022	Februari	Ikan Terbang (Flying fish)	-
+2022	Februari	Japuh (Rainbow sardine)	1.395
+2022	Februari	Kembung (Indian mackerels)	23.156
+2022	Februari	Layang (Scads)	-
+2022	Februari	Siro/Lemuru (Spotted sardinella)	818
+2022	Februari	Selar (Trevallies)	3.089
+2022	Februari	Tembang (Fringescale sardinella)	3.793
+2022	Februari	Selanget (Chacunda gizzard shad)	3.153
+2022	Februari	Tetengkek (Torpedo scad)	224
+2022	Februari	Semar (Mene maculata)	125
+2022	Februari	Tongkol (Frigate tuna)	12.916
+2022	Februari	Layaran (Indo-pacific sailfish)	39
+2022	Februari	Tenggiri (Narrow barred king mackerel)	2.740
+2022	Februari	Cucut (Sharks)	118
+2022	Februari	Manyung (Sea-cat fishes)	807
+2022	Februari	Sebelah (Croaker)	223
+2022	Februari	Kuwe (Great trevally)	297
+2022	Februari	Bawal Hitam (Black pomfret)	-
+2022	Februari	Bawal Putih (White pomfret)	-
+2022	Februari	Golok-Golok (Dorab Wolf Hering)	60
+2022	Februari	Beloso (Lizard fishes)	2.830
+2022	Februari	Gerot-gerot (Saddle grunt)	-
+2022	Februari	Peperek (Pony fishes)	43.843
+2022	Februari	Kakap Putih (Giant Perach)	8
+2022	Februari	Kakap Merah (Red Snapper)	9
+2022	Februari	Jenaha (Snapper)	29
+2022	Februari	Kurisi (Threadfin bream)	969
+2022	Februari	Kuniran (Sulphur goatfish)	31.630
+2022	Februari	Kuro (Giant threadfish)	-
+2022	Februari	Samgeh (Croackers)	234
+2022	Februari	Alu-alu (Barracuda)	-
+2022	Februari	Kerong-Kerong (Jarbua terapon)	294
+2022	Februari	Layur (Hairtail fishes)	3.960
+2022	Februari	Pari (Rays)	1.131
+2022	Februari	Ekor Kuning (Yellow tail)	391
+2022	Februari	Kerapu (Grouper)	87
+2022	Februari	Beronang (Spotted spinefoot)	16
+2022	Februari	" Udang 
+Jerbung"	1.413
+2022	Februari	Udang Krosok (Tiger cat shrimp)	1.461
+2022	Februari	Rajungan (Swimming crabs)	7.074
+2022	Februari	Cumi-cumi (Common squids)	36.238
+2022	Februari	Sotong (Cuttle fish)	943
+2022	Februari	Gurita (Octopuses)	185
+2022	Februari	Udang lainnya (Other shrimps)	3.347
+2022	Februari	" Sembilang  Euristhmus 
+microceps"	560
+2022	Februari	"Udang Kipas Tenus 
+Orientalis"	260
+2022	Februari	" Ikan 
+LainnyaOthers"	6
+2022	Maret	Teri (Anchovy)	17.897
+2022	Maret	Teri Nasi (Anchovies)	430
+2022	Maret	Belanak (Mullets)	-
+2022	Maret	Bentong (Oxeye scad)	-
+2022	Maret	Cendro (Needle fish)	98
+2022	Maret	Talang-Talang (Queen fish)	201
+2022	Maret	Ikan Terbang (Flying fish)	-
+2022	Maret	Japuh (Rainbow sardine)	7.151
+2022	Maret	Kembung (Indian mackerels)	22.041
+2022	Maret	Layang (Scads)	
+2022	Maret	Siro/Lemuru (Spotted sardinella)	1.972
+2022	Maret	Selar (Trevallies)	6.941
+2022	Maret	Tembang (Fringescale sardinella)	5.879
+2022	Maret	Selanget (Chacunda gizzard shad)	3.386
+2022	Maret	Tetengkek (Torpedo scad)	1.278
+2022	Maret	Semar (Mene maculata)	1.244
+2022	Maret	Tongkol (Frigate tuna)	801
+2022	Maret	Layaran (Indo-pacific sailfish)	15
+2022	Maret	Tenggiri (Narrow barred king mackerel)	4.778
+2022	Maret	Cucut (Sharks)	39
+2022	Maret	Manyung (Sea-cat fishes)	1.178
+2022	Maret	Sebelah (Croaker)	381
+2022	Maret	Kuwe (Great trevally)	473
+2022	Maret	Bawal Hitam (Black pomfret)	-
+2022	Maret	Bawal Putih (White pomfret)	-
+2022	Maret	Golok-Golok (Dorab Wolf Hering)	196
+2022	Maret	Beloso (Lizard fishes)	2.837
+2022	Maret	Gerot-gerot (Saddle grunt)	-
+2022	Maret	Peperek (Pony fishes)	42.526
+2022	Maret	Kakap Putih (Giant Perach)	11
+2022	Maret	Kakap Merah (Red Snapper)	11
+2022	Maret	Jenaha (Snapper)	142
+2022	Maret	Kurisi (Threadfin bream)	920
+2022	Maret	Kuniran (Sulphur goatfish)	32.352
+2022	Maret	Kuro (Giant threadfish)	
+2022	Maret	Samgeh (Croackers)	351
+2022	Maret	Alu-alu (Barracuda)	-
+2022	Maret	Kerong-Kerong (Jarbua terapon)	13
+2022	Maret	Layur (Hairtail fishes)	3.948
+2022	Maret	Pari (Rays)	1.378
+2022	Maret	Ekor Kuning (Yellow tail)	594
+2022	Maret	Kerapu (Grouper)	94
+2022	Maret	Beronang (Spotted spinefoot)	44
+2022	Maret	" Udang 
+Jerbung"	1.412
+2022	Maret	Udang Krosok (Tiger cat shrimp)	1.777
+2022	Maret	Rajungan (Swimming crabs)	8.461
+2022	Maret	Cumi-cumi (Common squids)	41.226
+2022	Maret	Sotong (Cuttle fish)	1.371
+2022	Maret	Gurita (Octopuses)	132
+2022	Maret	Udang lainnya (Other shrimps)	0
+2022	Maret	" Sembilang  Euristhmus 
+microceps"	457
+2022	Maret	"Udang Kipas Tenus 
+Orientalis"	483
+2022	Maret	" Ikan 
+LainnyaOthers"	81
+2022	April	Teri (Anchovy)	23.133
+2022	April	Teri Nasi (Anchovies)	-
+2022	April	Belanak (Mullets)	123
+2022	April	Bentong (Oxeye scad)	300
+2022	April	Cendro (Needle fish)	23
+2022	April	Talang-Talang (Queen fish)	111
+2022	April	Ikan Terbang (Flying fish)	-
+2022	April	Japuh (Rainbow sardine)	7.961
+2022	April	Kembung (Indian mackerels)	18.846
+2022	April	Layang (Scads)	
+2022	April	Siro/Lemuru (Spotted sardinella)	1.260
+2022	April	Selar (Trevallies)	3.534
+2022	April	Tembang (Fringescale sardinella)	3.946
+2022	April	Selanget (Chacunda gizzard shad)	2.130
+2022	April	Tetengkek (Torpedo scad)	346
+2022	April	Semar (Mene maculata)	1.018
+2022	April	Tongkol (Frigate tuna)	1.878
+2022	April	Layaran (Indo-pacific sailfish)	-
+2022	April	Tenggiri (Narrow barred king mackerel)	2.825
+2022	April	Cucut (Sharks)	29
+2022	April	Manyung (Sea-cat fishes)	870
+2022	April	Sebelah (Croaker)	267
+2022	April	Kuwe (Great trevally)	175
+2022	April	Bawal Hitam (Black pomfret)	64
+2022	April	Bawal Putih (White pomfret)	-
+2022	April	Golok-Golok (Dorab Wolf Hering)	84
+2022	April	Beloso (Lizard fishes)	1.879
+2022	April	Gerot-gerot (Saddle grunt)	-
+2022	April	Peperek (Pony fishes)	42.099
+2022	April	Kakap Putih (Giant Perach)	10
+2022	April	Kakap Merah (Red Snapper)	35
+2022	April	Jenaha (Snapper)	60
+2022	April	Kurisi (Threadfin bream)	708
+2022	April	Kuniran (Sulphur goatfish)	38.662
+2022	April	Kuro (Giant threadfish)	16
+2022	April	Samgeh (Croackers)	205
+2022	April	Alu-alu (Barracuda)	
+2022	April	Kerong-Kerong (Jarbua terapon)	1.081
+2022	April	Layur (Hairtail fishes)	2.945
+2022	April	Pari (Rays)	941
+2022	April	Ekor Kuning (Yellow tail)	534
+2022	April	Kerapu (Grouper)	58
+2022	April	Beronang (Spotted spinefoot)	100
+2022	April	" Udang 
+Jerbung"	1.070
+2022	April	Udang Krosok (Tiger cat shrimp)	1.262
+2022	April	Rajungan (Swimming crabs)	7.421
+2022	April	Cumi-cumi (Common squids)	31.296
+2022	April	Sotong (Cuttle fish)	1.376
+2022	April	Gurita (Octopuses)	196
+2022	April	Udang lainnya (Other shrimps)	1.265
+2022	April	" Sembilang  Euristhmus 
+microceps"	587
+2022	April	"Udang Kipas Tenus 
+Orientalis"	328
+2022	April	" Ikan 
+LainnyaOthers"	79
+2022	Mei	Teri (Anchovy)	40.544
+2022	Mei	Teri Nasi (Anchovies)	-
+2022	Mei	Belanak (Mullets)	485
+2022	Mei	Bentong (Oxeye scad)	450
+2022	Mei	Cendro (Needle fish)	49
+2022	Mei	Talang-Talang (Queen fish)	37
+2022	Mei	Ikan Terbang (Flying fish)	-
+2022	Mei	Japuh (Rainbow sardine)	517
+2022	Mei	Kembung (Indian mackerels)	22.513
+2022	Mei	Layang (Scads)	7
+2022	Mei	Siro/Lemuru (Spotted sardinella)	799
+2022	Mei	Selar (Trevallies)	1.685
+2022	Mei	Tembang (Fringescale sardinella)	5.905
+2022	Mei	Selanget (Chacunda gizzard shad)	988
+2022	Mei	Tetengkek (Torpedo scad)	99
+2022	Mei	Semar (Mene maculata)	1.203
+2022	Mei	Tongkol (Frigate tuna)	6.155
+2022	Mei	Layaran (Indo-pacific sailfish)	1
+2022	Mei	Tenggiri (Narrow barred king mackerel)	538
+2022	Mei	Cucut (Sharks)	51
+2022	Mei	Manyung (Sea-cat fishes)	65
+2022	Mei	Sebelah (Croaker)	232
+2022	Mei	Kuwe (Great trevally)	338
+2022	Mei	Bawal Hitam (Black pomfret)	93
+2022	Mei	Bawal Putih (White pomfret)	-
+2022	Mei	Golok-Golok (Dorab Wolf Hering)	5
+2022	Mei	Beloso (Lizard fishes)	1.642
+2022	Mei	Gerot-gerot (Saddle grunt)	37
+2022	Mei	Peperek (Pony fishes)	38.092
+2022	Mei	Kakap Putih (Giant Perach)	18
+2022	Mei	Kakap Merah (Red Snapper)	5
+2022	Mei	Jenaha (Snapper)	54
+2022	Mei	Kurisi (Threadfin bream)	741
+2022	Mei	Kuniran (Sulphur goatfish)	42.946
+2022	Mei	Kuro (Giant threadfish)	6
+2022	Mei	Samgeh (Croackers)	93
+2022	Mei	Alu-alu (Barracuda)	
+2022	Mei	Kerong-Kerong (Jarbua terapon)	1.027
+2022	Mei	Layur (Hairtail fishes)	2.412
+2022	Mei	Pari (Rays)	731
+2022	Mei	Ekor Kuning (Yellow tail)	400
+2022	Mei	Kerapu (Grouper)	44
+2022	Mei	Beronang (Spotted spinefoot)	24
+2022	Mei	" Udang 
+Jerbung"	718
+2022	Mei	Udang Krosok (Tiger cat shrimp)	3.047
+2022	Mei	Rajungan (Swimming crabs)	6.575
+2022	Mei	Cumi-cumi (Common squids)	22.472
+2022	Mei	Sotong (Cuttle fish)	1.029
+2022	Mei	Gurita (Octopuses)	49
+2022	Mei	Udang lainnya (Other shrimps)	4.350
+2022	Mei	" Sembilang  Euristhmus 
+microceps"	349
+2022	Mei	"Udang Kipas Tenus 
+Orientalis"	279
+2022	Mei	" Ikan 
+LainnyaOthers"	214
+2022	Juni	Teri (Anchovy)	65.443
+2022	Juni	Teri Nasi (Anchovies)	205
+2022	Juni	Belanak (Mullets)	927
+2022	Juni	Bentong (Oxeye scad)	125
+2022	Juni	Cendro (Needle fish)	406
+2022	Juni	Talang-Talang (Queen fish)	98
+2022	Juni	Ikan Terbang (Flying fish)	-
+2022	Juni	Japuh (Rainbow sardine)	1.019
+2022	Juni	Kembung (Indian mackerels)	32.420
+2022	Juni	Layang (Scads)	
+2022	Juni	Siro/Lemuru (Spotted sardinella)	1.206
+2022	Juni	Selar (Trevallies)	2.007
+2022	Juni	Tembang (Fringescale sardinella)	12.393
+2022	Juni	Selanget (Chacunda gizzard shad)	592
+2022	Juni	Tetengkek (Torpedo scad)	804
+2022	Juni	Semar (Mene maculata)	1.010
+2022	Juni	Tongkol (Frigate tuna)	5.775
+2022	Juni	Layaran (Indo-pacific sailfish)	-
+2022	Juni	Tenggiri (Narrow barred king mackerel)	1.136
+2022	Juni	Cucut (Sharks)	64
+2022	Juni	Manyung (Sea-cat fishes)	195
+2022	Juni	Sebelah (Croaker)	358
+2022	Juni	Kuwe (Great trevally)	685
+2022	Juni	Bawal Hitam (Black pomfret)	132
+2022	Juni	Bawal Putih (White pomfret)	-
+2022	Juni	Golok-Golok (Dorab Wolf Hering)	0
+2022	Juni	Beloso (Lizard fishes)	1.846
+2022	Juni	Gerot-gerot (Saddle grunt)	4
+2022	Juni	Peperek (Pony fishes)	67.139
+2022	Juni	Kakap Putih (Giant Perach)	28
+2022	Juni	Kakap Merah (Red Snapper)	104
+2022	Juni	Jenaha (Snapper)	156
+2022	Juni	Kurisi (Threadfin bream)	1.140
+2022	Juni	Kuniran (Sulphur goatfish)	53.540
+2022	Juni	Kuro (Giant threadfish)	3
+2022	Juni	Samgeh (Croackers)	130
+2022	Juni	Alu-alu (Barracuda)	4
+2022	Juni	Kerong-Kerong (Jarbua terapon)	180
+2022	Juni	Layur (Hairtail fishes)	3.117
+2022	Juni	Pari (Rays)	1.077
+2022	Juni	Ekor Kuning (Yellow tail)	513
+2022	Juni	Kerapu (Grouper)	30
+2022	Juni	Beronang (Spotted spinefoot)	56
+2022	Juni	" Udang 
+Jerbung"	977
+2022	Juni	Udang Krosok (Tiger cat shrimp)	3.681
+2022	Juni	Rajungan (Swimming crabs)	9.110
+2022	Juni	Cumi-cumi (Common squids)	17.852
+2022	Juni	Sotong (Cuttle fish)	1.332
+2022	Juni	Gurita (Octopuses)	202
+2022	Juni	Udang lainnya (Other shrimps)	7.872
+2022	Juni	" Sembilang  Euristhmus 
+microceps"	518
+2022	Juni	"Udang Kipas Tenus 
+Orientalis"	322
+2022	Juni	" Ikan 
+LainnyaOthers"	23
+2022	Juli	Teri (Anchovy)	32.134
+2022	Juli	Teri Nasi (Anchovies)	-
+2022	Juli	Belanak (Mullets)	638
+2022	Juli	Bentong (Oxeye scad)	758
+2022	Juli	Cendro (Needle fish)	87
+2022	Juli	Talang-Talang (Queen fish)	14
+2022	Juli	Ikan Terbang (Flying fish)	-
+2022	Juli	Japuh (Rainbow sardine)	369
+2022	Juli	Kembung (Indian mackerels)	17.369
+2022	Juli	Layang (Scads)	51
+2022	Juli	Siro/Lemuru (Spotted sardinella)	422
+2022	Juli	Selar (Trevallies)	1.357
+2022	Juli	Tembang (Fringescale sardinella)	12.897
+2022	Juli	Selanget (Chacunda gizzard shad)	1.247
+2022	Juli	Tetengkek (Torpedo scad)	1.001
+2022	Juli	Semar (Mene maculata)	15
+2022	Juli	Tongkol (Frigate tuna)	3.944
+2022	Juli	Layaran (Indo-pacific sailfish)	19
+2022	Juli	Tenggiri (Narrow barred king mackerel)	498
+2022	Juli	Cucut (Sharks)	197
+2022	Juli	Manyung (Sea-cat fishes)	213
+2022	Juli	Sebelah (Croaker)	613
+2022	Juli	Kuwe (Great trevally)	1.000
+2022	Juli	Bawal Hitam (Black pomfret)	21
+2022	Juli	Bawal Putih (White pomfret)	-
+2022	Juli	Golok-Golok (Dorab Wolf Hering)	19
+2022	Juli	Beloso (Lizard fishes)	2.052
+2022	Juli	Gerot-gerot (Saddle grunt)	2
+2022	Juli	Peperek (Pony fishes)	62.216
+2022	Juli	Kakap Putih (Giant Perach)	1
+2022	Juli	Kakap Merah (Red Snapper)	31
+2022	Juli	Jenaha (Snapper)	41
+2022	Juli	Kurisi (Threadfin bream)	1.115
+2022	Juli	Kuniran (Sulphur goatfish)	31.683
+2022	Juli	Kuro (Giant threadfish)	4
+2022	Juli	Samgeh (Croackers)	164
+2022	Juli	Alu-alu (Barracuda)	6
+2022	Juli	Kerong-Kerong (Jarbua terapon)	10
+2022	Juli	Layur (Hairtail fishes)	3.241
+2022	Juli	Pari (Rays)	1.272
+2022	Juli	Ekor Kuning (Yellow tail)	719
+2022	Juli	Kerapu (Grouper)	60
+2022	Juli	Beronang (Spotted spinefoot)	81
+2022	Juli	" Udang 
+Jerbung"	1.053
+2022	Juli	Udang Krosok (Tiger cat shrimp)	3.029
+2022	Juli	Rajungan (Swimming crabs)	8.631
+2022	Juli	Cumi-cumi (Common squids)	9.867
+2022	Juli	Sotong (Cuttle fish)	1.296
+2022	Juli	Gurita (Octopuses)	346
+2022	Juli	Udang lainnya (Other shrimps)	10.460
+2022	Juli	" Sembilang  Euristhmus 
+microceps"	502
+2022	Juli	"Udang Kipas Tenus 
+Orientalis"	563
+2022	Juli	" Ikan 
+LainnyaOthers"	186
+2022	Agustus	Teri (Anchovy)	23.886
+2022	Agustus	Teri Nasi (Anchovies)	31
+2022	Agustus	Belanak (Mullets)	292
+2022	Agustus	Bentong (Oxeye scad)	94
+2022	Agustus	Cendro (Needle fish)	157
+2022	Agustus	Talang-Talang (Queen fish)	55
+2022	Agustus	Ikan Terbang (Flying fish)	107
+2022	Agustus	Japuh (Rainbow sardine)	147
+2022	Agustus	Kembung (Indian mackerels)	12.661
+2022	Agustus	Layang (Scads)	-
+2022	Agustus	Siro/Lemuru (Spotted sardinella)	403
+2022	Agustus	Selar (Trevallies)	4.164
+2022	Agustus	Tembang (Fringescale sardinella)	4.339
+2022	Agustus	Selanget (Chacunda gizzard shad)	1.197
+2022	Agustus	Tetengkek (Torpedo scad)	426
+2022	Agustus	Semar (Mene maculata)	43
+2022	Agustus	Tongkol (Frigate tuna)	3.539
+2022	Agustus	Layaran (Indo-pacific sailfish)	49
+2022	Agustus	Tenggiri (Narrow barred king mackerel)	388
+2022	Agustus	Cucut (Sharks)	30
+2022	Agustus	Manyung (Sea-cat fishes)	234
+2022	Agustus	Sebelah (Croaker)	378
+2022	Agustus	Kuwe (Great trevally)	1.107
+2022	Agustus	Bawal Hitam (Black pomfret)	-
+2022	Agustus	Bawal Putih (White pomfret)	-
+2022	Agustus	Golok-Golok (Dorab Wolf Hering)	15
+2022	Agustus	Beloso (Lizard fishes)	1.597
+2022	Agustus	Gerot-gerot (Saddle grunt)	-
+2022	Agustus	Peperek (Pony fishes)	38.534
+2022	Agustus	Kakap Putih (Giant Perach)	1
+2022	Agustus	Kakap Merah (Red Snapper)	184
+2022	Agustus	Jenaha (Snapper)	36
+2022	Agustus	Kurisi (Threadfin bream)	907
+2022	Agustus	Kuniran (Sulphur goatfish)	32.022
+2022	Agustus	Kuro (Giant threadfish)	41
+2022	Agustus	Samgeh (Croackers)	251
+2022	Agustus	Alu-alu (Barracuda)	-
+2022	Agustus	Kerong-Kerong (Jarbua terapon)	25
+2022	Agustus	Layur (Hairtail fishes)	2.433
+2022	Agustus	Pari (Rays)	1.220
+2022	Agustus	Ekor Kuning (Yellow tail)	331
+2022	Agustus	Kerapu (Grouper)	36
+2022	Agustus	Beronang (Spotted spinefoot)	-
+2022	Agustus	" Udang 
+Jerbung"	623
+2022	Agustus	Udang Krosok (Tiger cat shrimp)	3.902
+2022	Agustus	Rajungan (Swimming crabs)	10.707
+2022	Agustus	Cumi-cumi (Common squids)	6.374
+2022	Agustus	Sotong (Cuttle fish)	1.736
+2022	Agustus	Gurita (Octopuses)	238
+2022	Agustus	Udang lainnya (Other shrimps)	4.241
+2022	Agustus	" Sembilang  Euristhmus 
+microceps"	519
+2022	Agustus	"Udang Kipas Tenus 
+Orientalis"	368
+2022	Agustus	" Ikan 
+LainnyaOthers"	485
+2022	September	Teri (Anchovy)	24.191
+2022	September	Teri Nasi (Anchovies)	-
+2022	September	Belanak (Mullets)	940
+2022	September	Bentong (Oxeye scad)	106
+2022	September	Cendro (Needle fish)	223
+2022	September	Talang-Talang (Queen fish)	168
+2022	September	Ikan Terbang (Flying fish)	114
+2022	September	Japuh (Rainbow sardine)	3.278
+2022	September	Kembung (Indian mackerels)	12.143
+2022	September	Layang (Scads)	111
+2022	September	Siro/Lemuru (Spotted sardinella)	519
+2022	September	Selar (Trevallies)	1.897
+2022	September	Tembang (Fringescale sardinella)	22.293
+2022	September	Selanget (Chacunda gizzard shad)	2.059
+2022	September	Tetengkek (Torpedo scad)	707
+2022	September	Semar (Mene maculata)	1.069
+2022	September	Tongkol (Frigate tuna)	918
+2022	September	Layaran (Indo-pacific sailfish)	130
+2022	September	Tenggiri (Narrow barred king mackerel)	791
+2022	September	Cucut (Sharks)	104
+2022	September	Manyung (Sea-cat fishes)	99
+2022	September	Sebelah (Croaker)	418
+2022	September	Kuwe (Great trevally)	552
+2022	September	Bawal Hitam (Black pomfret)	-
+2022	September	Bawal Putih (White pomfret)	-
+2022	September	Golok-Golok (Dorab Wolf Hering)	16
+2022	September	Beloso (Lizard fishes)	1.765
+2022	September	Gerot-gerot (Saddle grunt)	-
+2022	September	Peperek (Pony fishes)	47.830
+2022	September	Kakap Putih (Giant Perach)	69
+2022	September	Kakap Merah (Red Snapper)	45
+2022	September	Jenaha (Snapper)	46
+2022	September	Kurisi (Threadfin bream)	928
+2022	September	Kuniran (Sulphur goatfish)	30.940
+2022	September	Kuro (Giant threadfish)	1
+2022	September	Samgeh (Croackers)	570
+2022	September	Alu-alu (Barracuda)	33
+2022	September	Kerong-Kerong (Jarbua terapon)	109
+2022	September	Layur (Hairtail fishes)	2.581
+2022	September	Pari (Rays)	1.000
+2022	September	Ekor Kuning (Yellow tail)	879
+2022	September	Kerapu (Grouper)	62
+2022	September	Beronang (Spotted spinefoot)	-
+2022	September	" Udang 
+Jerbung"	863
+2022	September	Udang Krosok (Tiger cat shrimp)	2.848
+2022	September	Rajungan (Swimming crabs)	8.984
+2022	September	Cumi-cumi (Common squids)	11.905
+2022	September	Sotong (Cuttle fish)	1.478
+2022	September	Gurita (Octopuses)	357
+2022	September	Udang lainnya (Other shrimps)	1.089
+2022	September	" Sembilang  Euristhmus 
+microceps"	1.084
+2022	September	"Udang Kipas Tenus 
+Orientalis"	366
+2022	September	" Ikan 
+LainnyaOthers"	1.239
+2022	Oktober	Teri (Anchovy)	14.696
+2022	Oktober	Teri Nasi (Anchovies)	-
+2022	Oktober	Belanak (Mullets)	407
+2022	Oktober	Bentong (Oxeye scad)	46
+2022	Oktober	Cendro (Needle fish)	83
+2022	Oktober	Talang-Talang (Queen fish)	40
+2022	Oktober	Ikan Terbang (Flying fish)	-
+2022	Oktober	Japuh (Rainbow sardine)	148
+2022	Oktober	Kembung (Indian mackerels)	16.195
+2022	Oktober	Layang (Scads)	17
+2022	Oktober	Siro/Lemuru (Spotted sardinella)	12
+2022	Oktober	Selar (Trevallies)	567
+2022	Oktober	Tembang (Fringescale sardinella)	43.311
+2022	Oktober	Selanget (Chacunda gizzard shad)	697
+2022	Oktober	Tetengkek (Torpedo scad)	211
+2022	Oktober	Semar (Mene maculata)	568
+2022	Oktober	Tongkol (Frigate tuna)	1.277
+2022	Oktober	Layaran (Indo-pacific sailfish)	-
+2022	Oktober	Tenggiri (Narrow barred king mackerel)	770
+2022	Oktober	Cucut (Sharks)	41
+2022	Oktober	Manyung (Sea-cat fishes)	158
+2022	Oktober	Sebelah (Croaker)	333
+2022	Oktober	Kuwe (Great trevally)	294
+2022	Oktober	Bawal Hitam (Black pomfret)	2
+2022	Oktober	Bawal Putih (White pomfret)	-
+2022	Oktober	Golok-Golok (Dorab Wolf Hering)	41
+2022	Oktober	Beloso (Lizard fishes)	2.403
+2022	Oktober	Gerot-gerot (Saddle grunt)	-
+2022	Oktober	Peperek (Pony fishes)	44.015
+2022	Oktober	Kakap Putih (Giant Perach)	26
+2022	Oktober	Kakap Merah (Red Snapper)	38
+2022	Oktober	Jenaha (Snapper)	35
+2022	Oktober	Kurisi (Threadfin bream)	703
+2022	Oktober	Kuniran (Sulphur goatfish)	30.761
+2022	Oktober	Kuro (Giant threadfish)	4
+2022	Oktober	Samgeh (Croackers)	302
+2022	Oktober	Alu-alu (Barracuda)	1
+2022	Oktober	Kerong-Kerong (Jarbua terapon)	76
+2022	Oktober	Layur (Hairtail fishes)	2.829
+2022	Oktober	Pari (Rays)	1.210
+2022	Oktober	Ekor Kuning (Yellow tail)	754
+2022	Oktober	Kerapu (Grouper)	79
+2022	Oktober	Beronang (Spotted spinefoot)	21
+2022	Oktober	" Udang 
+Jerbung"	1.397
+2022	Oktober	Udang Krosok (Tiger cat shrimp)	1.885
+2022	Oktober	Rajungan (Swimming crabs)	9.164
+2022	Oktober	Cumi-cumi (Common squids)	10.588
+2022	Oktober	Sotong (Cuttle fish)	2.183
+2022	Oktober	Gurita (Octopuses)	216
+2022	Oktober	Udang lainnya (Other shrimps)	2.119
+2022	Oktober	" Sembilang  Euristhmus 
+microceps"	604
+2022	Oktober	"Udang Kipas Tenus 
+Orientalis"	335
+2022	Oktober	" Ikan 
+LainnyaOthers"	20
+2022	November	Teri (Anchovy)	4.991
+2022	November	Teri Nasi (Anchovies)	-
+2022	November	Belanak (Mullets)	140
+2022	November	Bentong (Oxeye scad)	-
+2022	November	Cendro (Needle fish)	23
+2022	November	Talang-Talang (Queen fish)	80
+2022	November	Ikan Terbang (Flying fish)	8
+2022	November	Japuh (Rainbow sardine)	9
+2022	November	Kembung (Indian mackerels)	16.552
+2022	November	Layang (Scads)	7
+2022	November	Siro/Lemuru (Spotted sardinella)	-
+2022	November	Selar (Trevallies)	487
+2022	November	Tembang (Fringescale sardinella)	24.415
+2022	November	Selanget (Chacunda gizzard shad)	776
+2022	November	Tetengkek (Torpedo scad)	61
+2022	November	Semar (Mene maculata)	1.124
+2022	November	Tongkol (Frigate tuna)	365
+2022	November	Layaran (Indo-pacific sailfish)	-
+2022	November	Tenggiri (Narrow barred king mackerel)	875
+2022	November	Cucut (Sharks)	67
+2022	November	Manyung (Sea-cat fishes)	67
+2022	November	Sebelah (Croaker)	328
+2022	November	Kuwe (Great trevally)	339
+2022	November	Bawal Hitam (Black pomfret)	7
+2022	November	Bawal Putih (White pomfret)	-
+2022	November	Golok-Golok (Dorab Wolf Hering)	7
+2022	November	Beloso (Lizard fishes)	1.865
+2022	November	Gerot-gerot (Saddle grunt)	9
+2022	November	Peperek (Pony fishes)	47.736
+2022	November	Kakap Putih (Giant Perach)	5
+2022	November	Kakap Merah (Red Snapper)	7
+2022	November	Jenaha (Snapper)	9
+2022	November	Kurisi (Threadfin bream)	863
+2022	November	Kuniran (Sulphur goatfish)	40.189
+2022	November	Kuro (Giant threadfish)	26
+2022	November	Samgeh (Croackers)	101
+2022	November	Alu-alu (Barracuda)	2
+2022	November	Kerong-Kerong (Jarbua terapon)	55
+2022	November	Layur (Hairtail fishes)	2.643
+2022	November	Pari (Rays)	810
+2022	November	Ekor Kuning (Yellow tail)	575
+2022	November	Kerapu (Grouper)	41
+2022	November	Beronang (Spotted spinefoot)	26
+2022	November	" Udang 
+Jerbung"	1.160
+2022	November	Udang Krosok (Tiger cat shrimp)	1.397
+2022	November	Rajungan (Swimming crabs)	8.184
+2022	November	Cumi-cumi (Common squids)	13.312
+2022	November	Sotong (Cuttle fish)	1.231
+2022	November	Gurita (Octopuses)	367
+2022	November	Udang lainnya (Other shrimps)	420
+2022	November	" Sembilang  Euristhmus 
+microceps"	430
+2022	November	"Udang Kipas Tenus 
+Orientalis"	247
+2022	November	" Ikan 
+LainnyaOthers"	47
+2022	Desember	Teri (Anchovy)	15.864
+2022	Desember	Teri Nasi (Anchovies)	139
+2022	Desember	Belanak (Mullets)	87
+2022	Desember	Bentong (Oxeye scad)	-
+2022	Desember	Cendro (Needle fish)	12
+2022	Desember	Talang-Talang (Queen fish)	385
+2022	Desember	Ikan Terbang (Flying fish)	-
+2022	Desember	Japuh (Rainbow sardine)	441
+2022	Desember	Kembung (Indian mackerels)	25.544
+2022	Desember	Layang (Scads)	369
+2022	Desember	Siro/Lemuru (Spotted sardinella)	-
+2022	Desember	Selar (Trevallies)	1.928
+2022	Desember	Tembang (Fringescale sardinella)	3.718
+2022	Desember	Selanget (Chacunda gizzard shad)	716
+2022	Desember	Tetengkek (Torpedo scad)	296
+2022	Desember	Semar (Mene maculata)	395
+2022	Desember	Tongkol (Frigate tuna)	888
+2022	Desember	Layaran (Indo-pacific sailfish)	13
+2022	Desember	Tenggiri (Narrow barred king mackerel)	1.873
+2022	Desember	Cucut (Sharks)	8
+2022	Desember	Manyung (Sea-cat fishes)	234
+2022	Desember	Sebelah (Croaker)	369
+2022	Desember	Kuwe (Great trevally)	395
+2022	Desember	Bawal Hitam (Black pomfret)	-
+2022	Desember	Bawal Putih (White pomfret)	-
+2022	Desember	Golok-Golok (Dorab Wolf Hering)	19
+2022	Desember	Beloso (Lizard fishes)	2.316
+2022	Desember	Gerot-gerot (Saddle grunt)	29
+2022	Desember	Peperek (Pony fishes)	49.610
+2022	Desember	Kakap Putih (Giant Perach)	16
+2022	Desember	Kakap Merah (Red Snapper)	149
+2022	Desember	Jenaha (Snapper)	40
+2022	Desember	Kurisi (Threadfin bream)	935
+2022	Desember	Kuniran (Sulphur goatfish)	43.516
+2022	Desember	Kuro (Giant threadfish)	-
+2022	Desember	Samgeh (Croackers)	187
+2022	Desember	Alu-alu (Barracuda)	-
+2022	Desember	Kerong-Kerong (Jarbua terapon)	237
+2022	Desember	Layur (Hairtail fishes)	2.959
+2022	Desember	Pari (Rays)	1.258
+2022	Desember	Ekor Kuning (Yellow tail)	850
+2022	Desember	Kerapu (Grouper)	183
+2022	Desember	Beronang (Spotted spinefoot)	76
+2022	Desember	" Udang 
+Jerbung"	1.103
+2022	Desember	Udang Krosok (Tiger cat shrimp)	1.511
+2022	Desember	Rajungan (Swimming crabs)	11.293
+2022	Desember	Cumi-cumi (Common squids)	15.768
+2022	Desember	Sotong (Cuttle fish)	1.781
+2022	Desember	Gurita (Octopuses)	329
+2022	Desember	Udang lainnya (Other shrimps)	1.430
+2022	Desember	" Sembilang  Euristhmus 
+microceps"	534
+2022	Desember	"Udang Kipas Tenus 
+Orientalis"	321
+2022	Desember	" Ikan 
+LainnyaOthers"	258
+2023	Januari	Teri (Anchovy)	4.411
+2023	Januari	Teri Nasi (Anchovies)	64
+2023	Januari	Belanak (Mullets)	518
+2023	Januari	Bentong (Oxeye scad)	-
+2023	Januari	Cendro (Needle fish)	38
+2023	Januari	Talang-Talang (Queen fish)	54
+2023	Januari	Ikan Terbang (Flying fish)	-
+2023	Januari	Japuh (Rainbow sardine)	127
+2023	Januari	"Banyar  Restrelliger 
+kanagurta"	-
+2023	Januari	Kembung (Indian mackerels)	19.344
+2023	Januari	Layang (Scads)	116
+2023	Januari	Siro/Lemuru (Spotted sardinella)	-
+2023	Januari	Selar (Trevallies)	872
+2023	Januari	Tembang (Fringescale sardinella)	1.795
+2023	Januari	Selanget (Chacunda gizzard shad)	2.273
+2023	Januari	Tetengkek (Torpedo scad)	300
+2023	Januari	Semar (Mene maculata)	-
+2023	Januari	Tongkol (Frigate tuna)	69
+2023	Januari	Layaran (Indo-pacific sailfish)	-
+2023	Januari	Tenggiri (Narrow barred king mackerel)	564
+2023	Januari	Cucut (Sharks)	3
+2023	Januari	Manyung (Sea-cat fishes)	142
+2023	Januari	Sebelah (Croaker)	431
+2023	Januari	Kuwe (Great trevally)	180
+2023	Januari	Bawal Hitam (Black pomfret)	-
+2023	Januari	Bawal Putih (White pomfret)	-
+2023	Januari	Golok-Golok (Dorab Wolf Hering)	-
+2023	Januari	Beloso (Lizard fishes)	1.939
+2023	Januari	Gerot-gerot (Saddle grunt)	10
+2023	Januari	Peperek (Pony fishes)	57.435
+2023	Januari	Kakap Putih (Giant Perach)	12
+2023	Januari	Kakap Merah (Red Snapper)	4
+2023	Januari	Jenaha (Snapper)	-
+2023	Januari	Kurisi (Threadfin bream)	1.028
+2023	Januari	Kuniran (Sulphur goatfish)	56.719
+2023	Januari	Kuro (Giant threadfish)	-
+2023	Januari	Alu-alu (Barracuda)	78
+2023	Januari	Kerong-Kerong (Jarbua terapon)	-
+2023	Januari	Layur (Hairtail fishes)	45
+2023	Januari	Samgeh (Croackers)	2.877
+2023	Januari	Pari (Rays)	1.352
+2023	Januari	Ekor Kuning (Yellow tail)	1.007
+2023	Januari	Kerapu (Grouper)	5
+2023	Januari	Beronang (Spotted spinefoot)	-
+2023	Januari	" Udang 
+Jerbung"	1.038
+2023	Januari	Udang Krosok (Tiger cat shrimp)	2.132
+2023	Januari	Rajungan (Swimming crabs)	10.871
+2023	Januari	Cumi-cumi (Common squids)	8.321
+2023	Januari	Sotong (Cuttle fish)	1.127
+2023	Januari	Gurita (Octopuses)	491
+2023	Januari	Udang lainnya (Other shrimps)	5.194
+2023	Januari	"Sembilang  Euristhmus 
+microceps"	-
+2023	Januari	"Udang Kipas Tenus 
+Orientalis"	520
+2023	Januari	" Ikan 
+LainnyaOthers"	730
+2023	Januari	 Kepiting	1.369
+2023	Januari	Sunglir	112
+2023	Januari	" Ikan Karang 
+Lainnya"	10
+2023	Januari	 Gabus Laut	-
+2023	Januari	 Lemadang	-
+2023	Januari	 Lencam	-
+2023	Januari	 Kakak Tua	-
+2023	Januari	Ayam-ayam	-
+2023	Januari	 Rejung	-
+2023	Januari	"Kaci Sweetlips 
+Fish"	-
+2023	Januari	Udang Raja King shrimp	-
+2023	Januari	"Udang 
+Windu Penaeus 
+monodon"	-
+2023	Januari	"Udang 
+Ketak/Mantis Odontodactylus 
+scyllarus"	-
+2023	Januari	"Binatang 
+berkulit 
+keras Others"	-
+2023	Januari	"Kapas - 
+Kapas Gerres 
+fiamentous"	-
+2023	Januari	"Setuhuk 
+Hitam [BLM] Makair"	-
+2023	Januari	"wanggi/  
+Mata besar Priacanthus 
+Tayenus"	-
+2023	Februari	Teri (Anchovy)	2.749
+2023	Februari	Teri Nasi (Anchovies)	-
+2023	Februari	Belanak (Mullets)	213
+2023	Februari	Bentong (Oxeye scad)	24
+2023	Februari	Cendro (Needle fish)	6
+2023	Februari	Talang-Talang (Queen fish)	17
+2023	Februari	Ikan Terbang (Flying fish)	-
+2023	Februari	Japuh (Rainbow sardine)	566
+2023	Februari	"Banyar  Restrelliger 
+kanagurta"	131
+2023	Februari	Kembung (Indian mackerels)	11.304
+2023	Februari	Layang (Scads)	-
+2023	Februari	Siro/Lemuru (Spotted sardinella)	60
+2023	Februari	Selar (Trevallies)	1.174
+2023	Februari	Tembang (Fringescale sardinella)	533
+2023	Februari	Selanget (Chacunda gizzard shad)	1.453
+2023	Februari	Tetengkek (Torpedo scad)	53
+2023	Februari	Semar (Mene maculata)	1.347
+2023	Februari	Tongkol (Frigate tuna)	64
+2023	Februari	Layaran (Indo-pacific sailfish)	-
+2023	Februari	Tenggiri (Narrow barred king mackerel)	4.373
+2023	Februari	Cucut (Sharks)	3
+2023	Februari	Manyung (Sea-cat fishes)	300
+2023	Februari	Sebelah (Croaker)	267
+2023	Februari	Kuwe (Great trevally)	375
+2023	Februari	Bawal Hitam (Black pomfret)	-
+2023	Februari	Bawal Putih (White pomfret)	-
+2023	Februari	Golok-Golok (Dorab Wolf Hering)	-
+2023	Februari	Beloso (Lizard fishes)	1.365
+2023	Februari	Gerot-gerot (Saddle grunt)	-
+2023	Februari	Peperek (Pony fishes)	48.680
+2023	Februari	Kakap Putih (Giant Perach)	21
+2023	Februari	Kakap Merah (Red Snapper)	54
+2023	Februari	Jenaha (Snapper)	84
+2023	Februari	Kurisi (Threadfin bream)	643
+2023	Februari	Kuniran (Sulphur goatfish)	44.832
+2023	Februari	Kuro (Giant threadfish)	-
+2023	Februari	Alu-alu (Barracuda)	57
+2023	Februari	Kerong-Kerong (Jarbua terapon)	-
+2023	Februari	Layur (Hairtail fishes)	81
+2023	Februari	Samgeh (Croackers)	1.937
+2023	Februari	Pari (Rays)	930
+2023	Februari	Ekor Kuning (Yellow tail)	876
+2023	Februari	Kerapu (Grouper)	65
+2023	Februari	Beronang (Spotted spinefoot)	43
+2023	Februari	" Udang 
+Jerbung"	3.544
+2023	Februari	Udang Krosok (Tiger cat shrimp)	1.028
+2023	Februari	Rajungan (Swimming crabs)	7.036
+2023	Februari	Cumi-cumi (Common squids)	11.739
+2023	Februari	Sotong (Cuttle fish)	724
+2023	Februari	Gurita (Octopuses)	403
+2023	Februari	Udang lainnya (Other shrimps)	1.332
+2023	Februari	"Sembilang  Euristhmus 
+microceps"	-
+2023	Februari	"Udang Kipas Tenus 
+Orientalis"	306
+2023	Februari	" Ikan 
+LainnyaOthers"	343
+2023	Februari	 Kepiting	1.114
+2023	Februari	Sunglir	213
+2023	Februari	" Ikan Karang 
+Lainnya"	
+2023	Februari	 Gabus Laut	4
+2023	Februari	 Lemadang	-
+2023	Februari	 Lencam	-
+2023	Februari	 Kakak Tua	-
+2023	Februari	Ayam-ayam	-
+2023	Februari	 Rejung	-
+2023	Februari	"Kaci Sweetlips 
+Fish"	-
+2023	Februari	Udang Raja King shrimp	-
+2023	Februari	"Udang 
+Windu Penaeus 
+monodon"	-
+2023	Februari	"Udang 
+Ketak/Mantis Odontodactylus 
+scyllarus"	-
+2023	Februari	"Binatang 
+berkulit 
+keras Others"	-
+2023	Februari	"Kapas - 
+Kapas Gerres 
+fiamentous"	-
+2023	Februari	"Setuhuk 
+Hitam [BLM] Makair"	-
+2023	Februari	"wanggi/  
+Mata besar Priacanthus 
+Tayenus"	-
+2023	Maret	Teri (Anchovy)	20.122
+2023	Maret	Teri Nasi (Anchovies)	876
+2023	Maret	Belanak (Mullets)	1.250
+2023	Maret	Bentong (Oxeye scad)	90
+2023	Maret	Cendro (Needle fish)	13
+2023	Maret	Talang-Talang (Queen fish)	485
+2023	Maret	Ikan Terbang (Flying fish)	20
+2023	Maret	Japuh (Rainbow sardine)	1.657
+2023	Maret	"Banyar  Restrelliger 
+kanagurta"	228
+2023	Maret	Kembung (Indian mackerels)	18.640
+2023	Maret	Layang (Scads)	8.309
+2023	Maret	Siro/Lemuru (Spotted sardinella)	7.465
+2023	Maret	Selar (Trevallies)	2.707
+2023	Maret	Tembang (Fringescale sardinella)	10.628
+2023	Maret	Selanget (Chacunda gizzard shad)	1.456
+2023	Maret	Tetengkek (Torpedo scad)	759
+2023	Maret	Semar (Mene maculata)	342
+2023	Maret	Tongkol (Frigate tuna)	5.601
+2023	Maret	Layaran (Indo-pacific sailfish)	16
+2023	Maret	Tenggiri (Narrow barred king mackerel)	2.333
+2023	Maret	Cucut (Sharks)	39
+2023	Maret	Manyung (Sea-cat fishes)	85
+2023	Maret	Sebelah (Croaker)	346
+2023	Maret	Kuwe (Great trevally)	469
+2023	Maret	Bawal Hitam (Black pomfret)	1.144
+2023	Maret	Bawal Putih (White pomfret)	-
+2023	Maret	Golok-Golok (Dorab Wolf Hering)	-
+2023	Maret	Beloso (Lizard fishes)	1.355
+2023	Maret	Gerot-gerot (Saddle grunt)	-
+2023	Maret	Peperek (Pony fishes)	58.596
+2023	Maret	Kakap Putih (Giant Perach)	69
+2023	Maret	Kakap Merah (Red Snapper)	235
+2023	Maret	Jenaha (Snapper)	28
+2023	Maret	Kurisi (Threadfin bream)	720
+2023	Maret	Kuniran (Sulphur goatfish)	53.678
+2023	Maret	Kuro (Giant threadfish)	-
+2023	Maret	Alu-alu (Barracuda)	98
+2023	Maret	Kerong-Kerong (Jarbua terapon)	-
+2023	Maret	Layur (Hairtail fishes)	279
+2023	Maret	Samgeh (Croackers)	2.196
+2023	Maret	Pari (Rays)	1.716
+2023	Maret	Ekor Kuning (Yellow tail)	808
+2023	Maret	Kerapu (Grouper)	4
+2023	Maret	Beronang (Spotted spinefoot)	9
+2023	Maret	" Udang 
+Jerbung"	1.401
+2023	Maret	Udang Krosok (Tiger cat shrimp)	2.069
+2023	Maret	Rajungan (Swimming crabs)	6.523
+2023	Maret	Cumi-cumi (Common squids)	12.840
+2023	Maret	Sotong (Cuttle fish)	932
+2023	Maret	Gurita (Octopuses)	485
+2023	Maret	Udang lainnya (Other shrimps)	16.101
+2023	Maret	"Sembilang  Euristhmus 
+microceps"	28
+2023	Maret	"Udang Kipas Tenus 
+Orientalis"	745
+2023	Maret	" Ikan 
+LainnyaOthers"	362
+2023	Maret	 Kepiting	1.412
+2023	Maret	Sunglir	213
+2023	Maret	" Ikan Karang 
+Lainnya"	-
+2023	Maret	 Gabus Laut	3
+2023	Maret	 Lemadang	6
+2023	Maret	 Lencam	26
+2023	Maret	 Kakak Tua	-
+2023	Maret	Ayam-ayam	-
+2023	Maret	 Rejung	-
+2023	Maret	"Kaci Sweetlips 
+Fish"	-
+2023	Maret	Udang Raja King shrimp	-
+2023	Maret	"Udang 
+Windu Penaeus 
+monodon"	-
+2023	Maret	"Udang 
+Ketak/Mantis Odontodactylus 
+scyllarus"	-
+2023	Maret	"Binatang 
+berkulit 
+keras Others"	-
+2023	Maret	"Kapas - 
+Kapas Gerres 
+fiamentous"	-
+2023	Maret	"Setuhuk 
+Hitam [BLM] Makair"	-
+2023	Maret	"wanggi/  
+Mata besar Priacanthus 
+Tayenus"	-
+2023	April	Teri (Anchovy)	22.166
+2023	April	Teri Nasi (Anchovies)	-
+2023	April	Belanak (Mullets)	770
+2023	April	Bentong (Oxeye scad)	-
+2023	April	Cendro (Needle fish)	-
+2023	April	Talang-Talang (Queen fish)	104
+2023	April	Ikan Terbang (Flying fish)	-
+2023	April	Japuh (Rainbow sardine)	1.152
+2023	April	"Banyar  Restrelliger 
+kanagurta"	-
+2023	April	Kembung (Indian mackerels)	25.895
+2023	April	Layang (Scads)	6.282
+2023	April	Siro/Lemuru (Spotted sardinella)	9.473
+2023	April	Selar (Trevallies)	1.087
+2023	April	Tembang (Fringescale sardinella)	3.357
+2023	April	Selanget (Chacunda gizzard shad)	1.076
+2023	April	Tetengkek (Torpedo scad)	226
+2023	April	Semar (Mene maculata)	84
+2023	April	Tongkol (Frigate tuna)	7.254
+2023	April	Layaran (Indo-pacific sailfish)	54
+2023	April	Tenggiri (Narrow barred king mackerel)	1.490
+2023	April	Cucut (Sharks)	-
+2023	April	Manyung (Sea-cat fishes)	403
+2023	April	Sebelah (Croaker)	270
+2023	April	Kuwe (Great trevally)	480
+2023	April	Bawal Hitam (Black pomfret)	-
+2023	April	Bawal Putih (White pomfret)	-
+2023	April	Golok-Golok (Dorab Wolf Hering)	-
+2023	April	Beloso (Lizard fishes)	1.212
+2023	April	Gerot-gerot (Saddle grunt)	-
+2023	April	Peperek (Pony fishes)	70.944
+2023	April	Kakap Putih (Giant Perach)	39
+2023	April	Kakap Merah (Red Snapper)	72
+2023	April	Jenaha (Snapper)	33
+2023	April	Kurisi (Threadfin bream)	746
+2023	April	Kuniran (Sulphur goatfish)	37.399
+2023	April	Kuro (Giant threadfish)	24
+2023	April	Alu-alu (Barracuda)	99
+2023	April	Kerong-Kerong (Jarbua terapon)	-
+2023	April	Layur (Hairtail fishes)	257
+2023	April	Samgeh (Croackers)	2.172
+2023	April	Pari (Rays)	1.333
+2023	April	Ekor Kuning (Yellow tail)	745
+2023	April	Kerapu (Grouper)	47
+2023	April	Beronang (Spotted spinefoot)	31
+2023	April	" Udang 
+Jerbung"	944
+2023	April	Udang Krosok (Tiger cat shrimp)	1.556
+2023	April	Rajungan (Swimming crabs)	3.808
+2023	April	Cumi-cumi (Common squids)	27.067
+2023	April	Sotong (Cuttle fish)	760
+2023	April	Gurita (Octopuses)	598
+2023	April	Udang lainnya (Other shrimps)	9.245
+2023	April	"Sembilang  Euristhmus 
+microceps"	-
+2023	April	"Udang Kipas Tenus 
+Orientalis"	307
+2023	April	" Ikan 
+LainnyaOthers"	335
+2023	April	 Kepiting	1.151
+2023	April	Sunglir	104
+2023	April	" Ikan Karang 
+Lainnya"	
+2023	April	 Gabus Laut	58
+2023	April	 Lemadang	-
+2023	April	 Lencam	-
+2023	April	 Kakak Tua	-
+2023	April	Ayam-ayam	-
+2023	April	 Rejung	-
+2023	April	"Kaci Sweetlips 
+Fish"	-
+2023	April	Udang Raja King shrimp	-
+2023	April	"Udang 
+Windu Penaeus 
+monodon"	-
+2023	April	"Udang 
+Ketak/Mantis Odontodactylus 
+scyllarus"	-
+2023	April	"Binatang 
+berkulit 
+keras Others"	-
+2023	April	"Kapas - 
+Kapas Gerres 
+fiamentous"	-
+2023	April	"Setuhuk 
+Hitam [BLM] Makair"	-
+2023	April	"wanggi/  
+Mata besar Priacanthus 
+Tayenus"	-
+2023	Mei	Teri (Anchovy)	19.525
+2023	Mei	Teri Nasi (Anchovies)	266
+2023	Mei	Belanak (Mullets)	538
+2023	Mei	Bentong (Oxeye scad)	263
+2023	Mei	Cendro (Needle fish)	24
+2023	Mei	Talang-Talang (Queen fish)	15
+2023	Mei	Ikan Terbang (Flying fish)	-
+2023	Mei	Japuh (Rainbow sardine)	359
+2023	Mei	"Banyar  Restrelliger 
+kanagurta"	225
+2023	Mei	Kembung (Indian mackerels)	34.105
+2023	Mei	Layang (Scads)	55.610
+2023	Mei	Siro/Lemuru (Spotted sardinella)	5.241
+2023	Mei	Selar (Trevallies)	947
+2023	Mei	Tembang (Fringescale sardinella)	9.949
+2023	Mei	Selanget (Chacunda gizzard shad)	748
+2023	Mei	Tetengkek (Torpedo scad)	3
+2023	Mei	Semar (Mene maculata)	-
+2023	Mei	Tongkol (Frigate tuna)	7.377
+2023	Mei	Layaran (Indo-pacific sailfish)	-
+2023	Mei	Tenggiri (Narrow barred king mackerel)	1.081
+2023	Mei	Cucut (Sharks)	23
+2023	Mei	Manyung (Sea-cat fishes)	440
+2023	Mei	Sebelah (Croaker)	338
+2023	Mei	Kuwe (Great trevally)	1.486
+2023	Mei	Bawal Hitam (Black pomfret)	55
+2023	Mei	Bawal Putih (White pomfret)	-
+2023	Mei	Golok-Golok (Dorab Wolf Hering)	13
+2023	Mei	Beloso (Lizard fishes)	1.262
+2023	Mei	Gerot-gerot (Saddle grunt)	-
+2023	Mei	Peperek (Pony fishes)	71.834
+2023	Mei	Kakap Putih (Giant Perach)	50
+2023	Mei	Kakap Merah (Red Snapper)	110
+2023	Mei	Jenaha (Snapper)	337
+2023	Mei	Kurisi (Threadfin bream)	1.066
+2023	Mei	Kuniran (Sulphur goatfish)	25.090
+2023	Mei	Kuro (Giant threadfish)	-
+2023	Mei	Alu-alu (Barracuda)	155
+2023	Mei	Kerong-Kerong (Jarbua terapon)	-
+2023	Mei	Layur (Hairtail fishes)	5
+2023	Mei	Samgeh (Croackers)	3.132
+2023	Mei	Pari (Rays)	968
+2023	Mei	Ekor Kuning (Yellow tail)	797
+2023	Mei	Kerapu (Grouper)	170
+2023	Mei	Beronang (Spotted spinefoot)	228
+2023	Mei	" Udang 
+Jerbung"	1.491
+2023	Mei	Udang Krosok (Tiger cat shrimp)	1.790
+2023	Mei	Rajungan (Swimming crabs)	5.796
+2023	Mei	Cumi-cumi (Common squids)	19.612
+2023	Mei	Sotong (Cuttle fish)	936
+2023	Mei	Gurita (Octopuses)	689
+2023	Mei	Udang lainnya (Other shrimps)	5.088
+2023	Mei	"Sembilang  Euristhmus 
+microceps"	-
+2023	Mei	"Udang Kipas Tenus 
+Orientalis"	650
+2023	Mei	" Ikan 
+LainnyaOthers"	385
+2023	Mei	 Kepiting	1.231
+2023	Mei	Sunglir	426
+2023	Mei	" Ikan Karang 
+Lainnya"	
+2023	Mei	 Gabus Laut	8
+2023	Mei	 Lemadang	70
+2023	Mei	 Lencam	
+2023	Mei	 Kakak Tua	3
+2023	Mei	Ayam-ayam	-
+2023	Mei	 Rejung	-
+2023	Mei	"Kaci Sweetlips 
+Fish"	-
+2023	Mei	Udang Raja King shrimp	-
+2023	Mei	"Udang 
+Windu Penaeus 
+monodon"	-
+2023	Mei	"Udang 
+Ketak/Mantis Odontodactylus 
+scyllarus"	-
+2023	Mei	"Binatang 
+berkulit 
+keras Others"	-
+2023	Mei	"Kapas - 
+Kapas Gerres 
+fiamentous"	-
+2023	Mei	"Setuhuk 
+Hitam [BLM] Makair"	-
+2023	Mei	"wanggi/  
+Mata besar Priacanthus 
+Tayenus"	-
+2023	Juni	Teri (Anchovy)	45.814
+2023	Juni	Teri Nasi (Anchovies)	621
+2023	Juni	Belanak (Mullets)	387
+2023	Juni	Bentong (Oxeye scad)	959
+2023	Juni	Cendro (Needle fish)	126
+2023	Juni	Talang-Talang (Queen fish)	62
+2023	Juni	Ikan Terbang (Flying fish)	8
+2023	Juni	Japuh (Rainbow sardine)	339
+2023	Juni	"Banyar  Restrelliger 
+kanagurta"	258
+2023	Juni	Kembung (Indian mackerels)	16.485
+2023	Juni	Layang (Scads)	129
+2023	Juni	Siro/Lemuru (Spotted sardinella)	4.347
+2023	Juni	Selar (Trevallies)	9.700
+2023	Juni	Tembang (Fringescale sardinella)	10.399
+2023	Juni	Selanget (Chacunda gizzard shad)	1.118
+2023	Juni	Tetengkek (Torpedo scad)	1.834
+2023	Juni	Semar (Mene maculata)	489
+2023	Juni	Tongkol (Frigate tuna)	2.701
+2023	Juni	Layaran (Indo-pacific sailfish)	-
+2023	Juni	Tenggiri (Narrow barred king mackerel)	466
+2023	Juni	Cucut (Sharks)	2
+2023	Juni	Manyung (Sea-cat fishes)	207
+2023	Juni	Sebelah (Croaker)	238
+2023	Juni	Kuwe (Great trevally)	605
+2023	Juni	Bawal Hitam (Black pomfret)	-
+2023	Juni	Bawal Putih (White pomfret)	-
+2023	Juni	Golok-Golok (Dorab Wolf Hering)	86
+2023	Juni	Beloso (Lizard fishes)	1.537
+2023	Juni	Gerot-gerot (Saddle grunt)	-
+2023	Juni	Peperek (Pony fishes)	72.634
+2023	Juni	Kakap Putih (Giant Perach)	120
+2023	Juni	Kakap Merah (Red Snapper)	37
+2023	Juni	Jenaha (Snapper)	6
+2023	Juni	Kurisi (Threadfin bream)	982
+2023	Juni	Kuniran (Sulphur goatfish)	24.551
+2023	Juni	Kuro (Giant threadfish)	-
+2023	Juni	Alu-alu (Barracuda)	52
+2023	Juni	Kerong-Kerong (Jarbua terapon)	-
+2023	Juni	Layur (Hairtail fishes)	7
+2023	Juni	Samgeh (Croackers)	2.414
+2023	Juni	Pari (Rays)	858
+2023	Juni	Ekor Kuning (Yellow tail)	615
+2023	Juni	Kerapu (Grouper)	28
+2023	Juni	Beronang (Spotted spinefoot)	14
+2023	Juni	" Udang 
+Jerbung"	1.642
+2023	Juni	Udang Krosok (Tiger cat shrimp)	1.522
+2023	Juni	Rajungan (Swimming crabs)	4.295
+2023	Juni	Cumi-cumi (Common squids)	7.720
+2023	Juni	Sotong (Cuttle fish)	1.157
+2023	Juni	Gurita (Octopuses)	630
+2023	Juni	Udang lainnya (Other shrimps)	3.533
+2023	Juni	"Sembilang  Euristhmus 
+microceps"	-
+2023	Juni	"Udang Kipas Tenus 
+Orientalis"	1.263
+2023	Juni	" Ikan 
+LainnyaOthers"	592
+2023	Juni	 Kepiting	813
+2023	Juni	Sunglir	11
+2023	Juni	" Ikan Karang 
+Lainnya"	
+2023	Juni	 Gabus Laut	18
+2023	Juni	 Lemadang	
+2023	Juni	 Lencam	10
+2023	Juni	 Kakak Tua	-
+2023	Juni	Ayam-ayam	2
+2023	Juni	 Rejung	-
+2023	Juni	"Kaci Sweetlips 
+Fish"	-
+2023	Juni	Udang Raja King shrimp	-
+2023	Juni	"Udang 
+Windu Penaeus 
+monodon"	-
+2023	Juni	"Udang 
+Ketak/Mantis Odontodactylus 
+scyllarus"	-
+2023	Juni	"Binatang 
+berkulit 
+keras Others"	-
+2023	Juni	"Kapas - 
+Kapas Gerres 
+fiamentous"	-
+2023	Juni	"Setuhuk 
+Hitam [BLM] Makair"	-
+2023	Juni	"wanggi/  
+Mata besar Priacanthus 
+Tayenus"	-
+2023	Juli	Teri (Anchovy)	23.313
+2023	Juli	Teri Nasi (Anchovies)	2.128
+2023	Juli	Belanak (Mullets)	187
+2023	Juli	Bentong (Oxeye scad)	466
+2023	Juli	Cendro (Needle fish)	70
+2023	Juli	Talang-Talang (Queen fish)	50
+2023	Juli	Ikan Terbang (Flying fish)	71
+2023	Juli	Japuh (Rainbow sardine)	126
+2023	Juli	"Banyar  Restrelliger 
+kanagurta"	416
+2023	Juli	Kembung (Indian mackerels)	11.101
+2023	Juli	Layang (Scads)	15
+2023	Juli	Siro/Lemuru (Spotted sardinella)	1.791
+2023	Juli	Selar (Trevallies)	2.739
+2023	Juli	Tembang (Fringescale sardinella)	4.564
+2023	Juli	Selanget (Chacunda gizzard shad)	1.472
+2023	Juli	Tetengkek (Torpedo scad)	704
+2023	Juli	Semar (Mene maculata)	85
+2023	Juli	Tongkol (Frigate tuna)	74
+2023	Juli	Layaran (Indo-pacific sailfish)	-
+2023	Juli	Tenggiri (Narrow barred king mackerel)	352
+2023	Juli	Cucut (Sharks)	28
+2023	Juli	Manyung (Sea-cat fishes)	165
+2023	Juli	Sebelah (Croaker)	287
+2023	Juli	Kuwe (Great trevally)	357
+2023	Juli	Bawal Hitam (Black pomfret)	-
+2023	Juli	Bawal Putih (White pomfret)	-
+2023	Juli	Golok-Golok (Dorab Wolf Hering)	58
+2023	Juli	Beloso (Lizard fishes)	350
+2023	Juli	Gerot-gerot (Saddle grunt)	-
+2023	Juli	Peperek (Pony fishes)	37.247
+2023	Juli	Kakap Putih (Giant Perach)	8
+2023	Juli	Kakap Merah (Red Snapper)	66
+2023	Juli	Jenaha (Snapper)	26
+2023	Juli	Kurisi (Threadfin bream)	192
+2023	Juli	Kuniran (Sulphur goatfish)	17.486
+2023	Juli	Kuro (Giant threadfish)	-
+2023	Juli	Alu-alu (Barracuda)	71
+2023	Juli	Kerong-Kerong (Jarbua terapon)	-
+2023	Juli	Layur (Hairtail fishes)	117
+2023	Juli	Samgeh (Croackers)	2.356
+2023	Juli	Pari (Rays)	833
+2023	Juli	Ekor Kuning (Yellow tail)	579
+2023	Juli	Kerapu (Grouper)	41
+2023	Juli	Beronang (Spotted spinefoot)	47
+2023	Juli	" Udang 
+Jerbung"	1.138
+2023	Juli	Udang Krosok (Tiger cat shrimp)	1.171
+2023	Juli	Rajungan (Swimming crabs)	4.264
+2023	Juli	Cumi-cumi (Common squids)	5.516
+2023	Juli	Sotong (Cuttle fish)	761
+2023	Juli	Gurita (Octopuses)	361
+2023	Juli	Udang lainnya (Other shrimps)	2.952
+2023	Juli	"Sembilang  Euristhmus 
+microceps"	-
+2023	Juli	"Udang Kipas Tenus 
+Orientalis"	891
+2023	Juli	" Ikan 
+LainnyaOthers"	192
+2023	Juli	 Kepiting	861
+2023	Juli	Sunglir	-
+2023	Juli	" Ikan Karang 
+Lainnya"	-
+2023	Juli	 Gabus Laut	-
+2023	Juli	 Lemadang	-
+2023	Juli	 Lencam	-
+2023	Juli	 Kakak Tua	3
+2023	Juli	Ayam-ayam	-
+2023	Juli	 Rejung	-
+2023	Juli	"Kaci Sweetlips 
+Fish"	-
+2023	Juli	Udang Raja King shrimp	-
+2023	Juli	"Udang 
+Windu Penaeus 
+monodon"	-
+2023	Juli	"Udang 
+Ketak/Mantis Odontodactylus 
+scyllarus"	-
+2023	Juli	"Binatang 
+berkulit 
+keras Others"	-
+2023	Juli	"Kapas - 
+Kapas Gerres 
+fiamentous"	-
+2023	Juli	"Setuhuk 
+Hitam [BLM] Makair"	-
+2023	Juli	"wanggi/  
+Mata besar Priacanthus 
+Tayenus"	-
+2023	Agustus	Teri (Anchovy)	21.549
+2023	Agustus	Teri Nasi (Anchovies)	7
+2023	Agustus	Belanak (Mullets)	335
+2023	Agustus	Bentong (Oxeye scad)	17
+2023	Agustus	Cendro (Needle fish)	35
+2023	Agustus	Talang-Talang (Queen fish)	41
+2023	Agustus	Ikan Terbang (Flying fish)	11
+2023	Agustus	Japuh (Rainbow sardine)	59
+2023	Agustus	"Banyar  Restrelliger 
+kanagurta"	42
+2023	Agustus	Kembung (Indian mackerels)	17.728
+2023	Agustus	Layang (Scads)	1
+2023	Agustus	Siro/Lemuru (Spotted sardinella)	1.723
+2023	Agustus	Selar (Trevallies)	1.438
+2023	Agustus	Tembang (Fringescale sardinella)	2.706
+2023	Agustus	Selanget (Chacunda gizzard shad)	1.997
+2023	Agustus	Tetengkek (Torpedo scad)	205
+2023	Agustus	Semar (Mene maculata)	667
+2023	Agustus	Tongkol (Frigate tuna)	127
+2023	Agustus	Layaran (Indo-pacific sailfish)	18
+2023	Agustus	Tenggiri (Narrow barred king mackerel)	320
+2023	Agustus	Cucut (Sharks)	33
+2023	Agustus	Manyung (Sea-cat fishes)	-
+2023	Agustus	Sebelah (Croaker)	256
+2023	Agustus	Kuwe (Great trevally)	666
+2023	Agustus	Bawal Hitam (Black pomfret)	-
+2023	Agustus	Bawal Putih (White pomfret)	-
+2023	Agustus	Golok-Golok (Dorab Wolf Hering)	177
+2023	Agustus	Beloso (Lizard fishes)	1.143
+2023	Agustus	Gerot-gerot (Saddle grunt)	-
+2023	Agustus	Peperek (Pony fishes)	44.090
+2023	Agustus	Kakap Putih (Giant Perach)	30
+2023	Agustus	Kakap Merah (Red Snapper)	-
+2023	Agustus	Jenaha (Snapper)	16
+2023	Agustus	Kurisi (Threadfin bream)	658
+2023	Agustus	Kuniran (Sulphur goatfish)	32.147
+2023	Agustus	Kuro (Giant threadfish)	-
+2023	Agustus	Alu-alu (Barracuda)	123
+2023	Agustus	Kerong-Kerong (Jarbua terapon)	-
+2023	Agustus	Layur (Hairtail fishes)	486
+2023	Agustus	Samgeh (Croackers)	2.514
+2023	Agustus	Pari (Rays)	1.284
+2023	Agustus	Ekor Kuning (Yellow tail)	696
+2023	Agustus	Kerapu (Grouper)	31
+2023	Agustus	Beronang (Spotted spinefoot)	195
+2023	Agustus	" Udang 
+Jerbung"	1.190
+2023	Agustus	Udang Krosok (Tiger cat shrimp)	1.091
+2023	Agustus	Rajungan (Swimming crabs)	5.267
+2023	Agustus	Cumi-cumi (Common squids)	4.948
+2023	Agustus	Sotong (Cuttle fish)	842
+2023	Agustus	Gurita (Octopuses)	435
+2023	Agustus	Udang lainnya (Other shrimps)	2.027
+2023	Agustus	"Sembilang  Euristhmus 
+microceps"	-
+2023	Agustus	"Udang Kipas Tenus 
+Orientalis"	528
+2023	Agustus	" Ikan 
+LainnyaOthers"	207
+2023	Agustus	 Kepiting	1.228
+2023	Agustus	Sunglir	-
+2023	Agustus	" Ikan Karang 
+Lainnya"	-
+2023	Agustus	 Gabus Laut	-
+2023	Agustus	 Lemadang	
+2023	Agustus	 Lencam	2
+2023	Agustus	 Kakak Tua	1
+2023	Agustus	Ayam-ayam	-
+2023	Agustus	 Rejung	-
+2023	Agustus	"Kaci Sweetlips 
+Fish"	-
+2023	Agustus	Udang Raja King shrimp	-
+2023	Agustus	"Udang 
+Windu Penaeus 
+monodon"	-
+2023	Agustus	"Udang 
+Ketak/Mantis Odontodactylus 
+scyllarus"	-
+2023	Agustus	"Binatang 
+berkulit 
+keras Others"	-
+2023	Agustus	"Kapas - 
+Kapas Gerres 
+fiamentous"	-
+2023	Agustus	"Setuhuk 
+Hitam [BLM] Makair"	-
+2023	Agustus	"wanggi/  
+Mata besar Priacanthus 
+Tayenus"	-
+2023	September	Teri (Anchovy)	26.027
+2023	September	Teri Nasi (Anchovies)	-
+2023	September	Belanak (Mullets)	558
+2023	September	Bentong (Oxeye scad)	65
+2023	September	Cendro (Needle fish)	92
+2023	September	Talang-Talang (Queen fish)	281
+2023	September	Ikan Terbang (Flying fish)	6
+2023	September	Japuh (Rainbow sardine)	1.696
+2023	September	"Banyar  Restrelliger 
+kanagurta"	-
+2023	September	Kembung (Indian mackerels)	17.523
+2023	September	Layang (Scads)	14
+2023	September	Siro/Lemuru (Spotted sardinella)	1.192
+2023	September	Selar (Trevallies)	789
+2023	September	Tembang (Fringescale sardinella)	2.033
+2023	September	Selanget (Chacunda gizzard shad)	4.423
+2023	September	Tetengkek (Torpedo scad)	351
+2023	September	Semar (Mene maculata)	224
+2023	September	Tongkol (Frigate tuna)	14
+2023	September	Layaran (Indo-pacific sailfish)	78
+2023	September	Tenggiri (Narrow barred king mackerel)	653
+2023	September	Cucut (Sharks)	21
+2023	September	Manyung (Sea-cat fishes)	54
+2023	September	Sebelah (Croaker)	368
+2023	September	Kuwe (Great trevally)	292
+2023	September	Bawal Hitam (Black pomfret)	-
+2023	September	Bawal Putih (White pomfret)	6
+2023	September	Golok-Golok (Dorab Wolf Hering)	318
+2023	September	Beloso (Lizard fishes)	1.771
+2023	September	Gerot-gerot (Saddle grunt)	-
+2023	September	Peperek (Pony fishes)	35.645
+2023	September	Kakap Putih (Giant Perach)	9
+2023	September	Kakap Merah (Red Snapper)	37
+2023	September	Jenaha (Snapper)	-
+2023	September	Kurisi (Threadfin bream)	1.263
+2023	September	Kuniran (Sulphur goatfish)	22.935
+2023	September	Kuro (Giant threadfish)	109
+2023	September	Alu-alu (Barracuda)	137
+2023	September	Kerong-Kerong (Jarbua terapon)	-
+2023	September	Layur (Hairtail fishes)	159
+2023	September	Samgeh (Croackers)	5.155
+2023	September	Pari (Rays)	2.226
+2023	September	Ekor Kuning (Yellow tail)	689
+2023	September	Kerapu (Grouper)	45
+2023	September	Beronang (Spotted spinefoot)	5
+2023	September	" Udang 
+Jerbung"	2.415
+2023	September	Udang Krosok (Tiger cat shrimp)	2.463
+2023	September	Rajungan (Swimming crabs)	6.031
+2023	September	Cumi-cumi (Common squids)	3.052
+2023	September	Sotong (Cuttle fish)	1.524
+2023	September	Gurita (Octopuses)	669
+2023	September	Udang lainnya (Other shrimps)	1.244
+2023	September	"Sembilang  Euristhmus 
+microceps"	-
+2023	September	"Udang Kipas Tenus 
+Orientalis"	620
+2023	September	" Ikan 
+LainnyaOthers"	250
+2023	September	 Kepiting	1.724
+2023	September	Sunglir	-
+2023	September	" Ikan Karang 
+Lainnya"	108
+2023	September	 Gabus Laut	7
+2023	September	 Lemadang	-
+2023	September	 Lencam	2
+2023	September	 Kakak Tua	-
+2023	September	Ayam-ayam	
+2023	September	 Rejung	19
+2023	September	"Kaci Sweetlips 
+Fish"	-
+2023	September	Udang Raja King shrimp	-
+2023	September	"Udang 
+Windu Penaeus 
+monodon"	-
+2023	September	"Udang 
+Ketak/Mantis Odontodactylus 
+scyllarus"	-
+2023	September	"Binatang 
+berkulit 
+keras Others"	-
+2023	September	"Kapas - 
+Kapas Gerres 
+fiamentous"	-
+2023	September	"Setuhuk 
+Hitam [BLM] Makair"	-
+2023	September	"wanggi/  
+Mata besar Priacanthus 
+Tayenus"	-
+2023	Oktober	Teri (Anchovy)	20.841
+2023	Oktober	Teri Nasi (Anchovies)	-
+2023	Oktober	Belanak (Mullets)	343
+2023	Oktober	Bentong (Oxeye scad)	213
+2023	Oktober	Cendro (Needle fish)	110
+2023	Oktober	Talang-Talang (Queen fish)	196
+2023	Oktober	Ikan Terbang (Flying fish)	8
+2023	Oktober	Japuh (Rainbow sardine)	9.843
+2023	Oktober	"Banyar  Restrelliger 
+kanagurta"	-
+2023	Oktober	Kembung (Indian mackerels)	16.398
+2023	Oktober	Layang (Scads)	-
+2023	Oktober	Siro/Lemuru (Spotted sardinella)	1.405
+2023	Oktober	Selar (Trevallies)	538
+2023	Oktober	Tembang (Fringescale sardinella)	757
+2023	Oktober	Selanget (Chacunda gizzard shad)	6.806
+2023	Oktober	Tetengkek (Torpedo scad)	1.612
+2023	Oktober	Semar (Mene maculata)	4
+2023	Oktober	Tongkol (Frigate tuna)	108
+2023	Oktober	Layaran (Indo-pacific sailfish)	42
+2023	Oktober	Tenggiri (Narrow barred king mackerel)	1.996
+2023	Oktober	Cucut (Sharks)	36
+2023	Oktober	Manyung (Sea-cat fishes)	60
+2023	Oktober	Sebelah (Croaker)	717
+2023	Oktober	Kuwe (Great trevally)	439
+2023	Oktober	Bawal Hitam (Black pomfret)	4
+2023	Oktober	Bawal Putih (White pomfret)	-
+2023	Oktober	Golok-Golok (Dorab Wolf Hering)	686
+2023	Oktober	Beloso (Lizard fishes)	2.722
+2023	Oktober	Gerot-gerot (Saddle grunt)	-
+2023	Oktober	Peperek (Pony fishes)	30.573
+2023	Oktober	Kakap Putih (Giant Perach)	5
+2023	Oktober	Kakap Merah (Red Snapper)	17
+2023	Oktober	Jenaha (Snapper)	8
+2023	Oktober	Kurisi (Threadfin bream)	1.446
+2023	Oktober	Kuniran (Sulphur goatfish)	10.134
+2023	Oktober	Kuro (Giant threadfish)	340
+2023	Oktober	Alu-alu (Barracuda)	182
+2023	Oktober	Kerong-Kerong (Jarbua terapon)	-
+2023	Oktober	Layur (Hairtail fishes)	82
+2023	Oktober	Samgeh (Croackers)	8.621
+2023	Oktober	Pari (Rays)	2.271
+2023	Oktober	Ekor Kuning (Yellow tail)	217
+2023	Oktober	Kerapu (Grouper)	8
+2023	Oktober	Beronang (Spotted spinefoot)	-
+2023	Oktober	" Udang 
+Jerbung"	3.183
+2023	Oktober	Udang Krosok (Tiger cat shrimp)	5.651
+2023	Oktober	Rajungan (Swimming crabs)	7.315
+2023	Oktober	Cumi-cumi (Common squids)	2.896
+2023	Oktober	Sotong (Cuttle fish)	2.216
+2023	Oktober	Gurita (Octopuses)	746
+2023	Oktober	Udang lainnya (Other shrimps)	1.194
+2023	Oktober	"Sembilang  Euristhmus 
+microceps"	-
+2023	Oktober	"Udang Kipas Tenus 
+Orientalis"	309
+2023	Oktober	" Ikan 
+LainnyaOthers"	95
+2023	Oktober	 Kepiting	2.013
+2023	Oktober	Sunglir	1.471
+2023	Oktober	" Ikan Karang 
+Lainnya"	76
+2023	Oktober	 Gabus Laut	24
+2023	Oktober	 Lemadang	-
+2023	Oktober	 Lencam	4
+2023	Oktober	 Kakak Tua	-
+2023	Oktober	Ayam-ayam	
+2023	Oktober	 Rejung	76
+2023	Oktober	"Kaci Sweetlips 
+Fish"	-
+2023	Oktober	Udang Raja King shrimp	-
+2023	Oktober	"Udang 
+Windu Penaeus 
+monodon"	-
+2023	Oktober	"Udang 
+Ketak/Mantis Odontodactylus 
+scyllarus"	-
+2023	Oktober	"Binatang 
+berkulit 
+keras Others"	
+2023	Oktober	"Kapas - 
+Kapas Gerres 
+fiamentous"	10
+2023	Oktober	"Setuhuk 
+Hitam [BLM] Makair"	-
+2023	Oktober	"wanggi/  
+Mata besar Priacanthus 
+Tayenus"	-
+2023	November	Teri (Anchovy)	5.791
+2023	November	Teri Nasi (Anchovies)	
+2023	November	Belanak (Mullets)	133
+2023	November	Bentong (Oxeye scad)	510
+2023	November	Cendro (Needle fish)	191
+2023	November	Talang-Talang (Queen fish)	150
+2023	November	Ikan Terbang (Flying fish)	340
+2023	November	Japuh (Rainbow sardine)	
+2023	November	"Banyar  Restrelliger 
+kanagurta"	-
+2023	November	Kembung (Indian mackerels)	16.957
+2023	November	Layang (Scads)	48.581
+2023	November	Siro/Lemuru (Spotted sardinella)	351
+2023	November	Selar (Trevallies)	5.182
+2023	November	Tembang (Fringescale sardinella)	3.938
+2023	November	Selanget (Chacunda gizzard shad)	21.379
+2023	November	Tetengkek (Torpedo scad)	3.071
+2023	November	Semar (Mene maculata)	1.463
+2023	November	Tongkol (Frigate tuna)	8.919
+2023	November	Layaran (Indo-pacific sailfish)	-
+2023	November	Tenggiri (Narrow barred king mackerel)	1.817
+2023	November	Cucut (Sharks)	85
+2023	November	Manyung (Sea-cat fishes)	502
+2023	November	Sebelah (Croaker)	586
+2023	November	Kuwe (Great trevally)	384
+2023	November	Bawal Hitam (Black pomfret)	1
+2023	November	Bawal Putih (White pomfret)	-
+2023	November	Golok-Golok (Dorab Wolf Hering)	1.218
+2023	November	Beloso (Lizard fishes)	2.159
+2023	November	Gerot-gerot (Saddle grunt)	-
+2023	November	Peperek (Pony fishes)	27.085
+2023	November	Kakap Putih (Giant Perach)	2
+2023	November	Kakap Merah (Red Snapper)	5
+2023	November	Jenaha (Snapper)	10
+2023	November	Kurisi (Threadfin bream)	2.737
+2023	November	Kuniran (Sulphur goatfish)	11.206
+2023	November	Kuro (Giant threadfish)	660
+2023	November	Alu-alu (Barracuda)	150
+2023	November	Kerong-Kerong (Jarbua terapon)	231
+2023	November	Layur (Hairtail fishes)	107
+2023	November	Samgeh (Croackers)	10.466
+2023	November	Pari (Rays)	942
+2023	November	Ekor Kuning (Yellow tail)	29
+2023	November	Kerapu (Grouper)	26
+2023	November	Beronang (Spotted spinefoot)	-
+2023	November	" Udang 
+Jerbung"	2.018
+2023	November	Udang Krosok (Tiger cat shrimp)	5.467
+2023	November	Rajungan (Swimming crabs)	7.196
+2023	November	Cumi-cumi (Common squids)	27.417
+2023	November	Sotong (Cuttle fish)	2.622
+2023	November	Gurita (Octopuses)	694
+2023	November	Udang lainnya (Other shrimps)	289
+2023	November	"Sembilang  Euristhmus 
+microceps"	17
+2023	November	"Udang Kipas Tenus 
+Orientalis"	601
+2023	November	" Ikan 
+LainnyaOthers"	136
+2023	November	 Kepiting	2.178
+2023	November	Sunglir	857
+2023	November	" Ikan Karang 
+Lainnya"	
+2023	November	 Gabus Laut	78
+2023	November	 Lemadang	
+2023	November	 Lencam	17
+2023	November	 Kakak Tua	8
+2023	November	Ayam-ayam	
+2023	November	 Rejung	7
+2023	November	"Kaci Sweetlips 
+Fish"	160
+2023	November	Udang Raja King shrimp	10
+2023	November	"Udang 
+Windu Penaeus 
+monodon"	167
+2023	November	"Udang 
+Ketak/Mantis Odontodactylus 
+scyllarus"	9
+2023	November	"Binatang 
+berkulit 
+keras Others"	246
+2023	November	"Kapas - 
+Kapas Gerres 
+fiamentous"	
+2023	November	"Setuhuk 
+Hitam [BLM] Makair"	-
+2023	November	"wanggi/  
+Mata besar Priacanthus 
+Tayenus"	-
+2023	Desember	Teri (Anchovy)	16.249
+2023	Desember	Teri Nasi (Anchovies)	536
+2023	Desember	Belanak (Mullets)	204
+2023	Desember	Bentong (Oxeye scad)	3.917
+2023	Desember	Cendro (Needle fish)	259
+2023	Desember	Talang-Talang (Queen fish)	273
+2023	Desember	Ikan Terbang (Flying fish)	4
+2023	Desember	Japuh (Rainbow sardine)	3.211
+2023	Desember	"Banyar  Restrelliger 
+kanagurta"	44
+2023	Desember	Kembung (Indian mackerels)	14.746
+2023	Desember	Layang (Scads)	52.639
+2023	Desember	Siro/Lemuru (Spotted sardinella)	597
+2023	Desember	Selar (Trevallies)	3.567
+2023	Desember	Tembang (Fringescale sardinella)	11.968
+2023	Desember	Selanget (Chacunda gizzard shad)	22.511
+2023	Desember	Tetengkek (Torpedo scad)	2.449
+2023	Desember	Semar (Mene maculata)	51
+2023	Desember	Tongkol (Frigate tuna)	2.524
+2023	Desember	Layaran (Indo-pacific sailfish)	-
+2023	Desember	Tenggiri (Narrow barred king mackerel)	2.694
+2023	Desember	Cucut (Sharks)	190
+2023	Desember	Manyung (Sea-cat fishes)	522
+2023	Desember	Sebelah (Croaker)	467
+2023	Desember	Kuwe (Great trevally)	473
+2023	Desember	Bawal Hitam (Black pomfret)	-
+2023	Desember	Bawal Putih (White pomfret)	-
+2023	Desember	Golok-Golok (Dorab Wolf Hering)	1.777
+2023	Desember	Beloso (Lizard fishes)	1.086
+2023	Desember	Gerot-gerot (Saddle grunt)	-
+2023	Desember	Peperek (Pony fishes)	28.591
+2023	Desember	Kakap Putih (Giant Perach)	-
+2023	Desember	Kakap Merah (Red Snapper)	27
+2023	Desember	Jenaha (Snapper)	48
+2023	Desember	Kurisi (Threadfin bream)	1.805
+2023	Desember	Kuniran (Sulphur goatfish)	10.896
+2023	Desember	Kuro (Giant threadfish)	1.317
+2023	Desember	Alu-alu (Barracuda)	164
+2023	Desember	Kerong-Kerong (Jarbua terapon)	3.946
+2023	Desember	Layur (Hairtail fishes)	329
+2023	Desember	Samgeh (Croackers)	9.851
+2023	Desember	Pari (Rays)	1.155
+2023	Desember	Ekor Kuning (Yellow tail)	8
+2023	Desember	Kerapu (Grouper)	45
+2023	Desember	Beronang (Spotted spinefoot)	-
+2023	Desember	" Udang 
+Jerbung"	871
+2023	Desember	Udang Krosok (Tiger cat shrimp)	2.318
+2023	Desember	Rajungan (Swimming crabs)	6.831
+2023	Desember	Cumi-cumi (Common squids)	16.537
+2023	Desember	Sotong (Cuttle fish)	2.651
+2023	Desember	Gurita (Octopuses)	619
+2023	Desember	Udang lainnya (Other shrimps)	917
+2023	Desember	"Sembilang  Euristhmus 
+microceps"	-
+2023	Desember	"Udang Kipas Tenus 
+Orientalis"	781
+2023	Desember	" Ikan 
+LainnyaOthers"	48
+2023	Desember	 Kepiting	1.995
+2023	Desember	Sunglir	-
+2023	Desember	" Ikan Karang 
+Lainnya"	96
+2023	Desember	 Gabus Laut	39
+2023	Desember	 Lemadang	6
+2023	Desember	 Lencam	2
+2023	Desember	 Kakak Tua	5
+2023	Desember	Ayam-ayam	-
+2023	Desember	 Rejung	17
+2023	Desember	"Kaci Sweetlips 
+Fish"	65
+2023	Desember	Udang Raja King shrimp	
+2023	Desember	"Udang 
+Windu Penaeus 
+monodon"	
+2023	Desember	"Udang 
+Ketak/Mantis Odontodactylus 
+scyllarus"	
+2023	Desember	"Binatang 
+berkulit 
+keras Others"	
+2023	Desember	"Kapas - 
+Kapas Gerres 
+fiamentous"	
+2023	Desember	"Setuhuk 
+Hitam [BLM] Makair"	16
+2023	Desember	"wanggi/  
+Mata besar Priacanthus 
+Tayenus"	308
+2024	Januari	Teri (Anchovy)	16.784
+2024	Januari	Teri Nasi (Anchovies)	9
+2024	Januari	Belanak (Mullets)	258
+2024	Januari	Bentong (Oxeye scad)	957
+2024	Januari	Cendro (Needle fish)	94
+2024	Januari	Talang-Talang (Queen fish)	49
+2024	Januari	Ikan Terbang (Flying fish)	-
+2024	Januari	Japuh (Rainbow sardine)	9.631
+2024	Januari	"Banyar Restrelliger 
+kanagurta"	4.435
+2024	Januari	Kembung (Indian mackerels)	16.816
+2024	Januari	Layang (Scads)	97.938
+2024	Januari	Siro/Lemuru (Spotted sardinella)	371
+2024	Januari	Selar (Trevallies)	11.235
+2024	Januari	Tembang (Fringescale sardinella)	5.114
+2024	Januari	Selanget (Chacunda gizzard shad)	24.671
+2024	Januari	Tetengkek (Torpedo scad)	3.508
+2024	Januari	Semar (Mene maculata)	24
+2024	Januari	Tongkol (Frigate tuna)	1.254
+2024	Januari	Layaran (Indo-pacific sailfish)	17
+2024	Januari	Tenggiri (Narrow barred king mackerel)	2.590
+2024	Januari	Cucut (Sharks)	26
+2024	Januari	Manyung (Sea-cat fishes)	880
+2024	Januari	Sebelah (Croaker)	1.704
+2024	Januari	Kuwe (Great trevally)	141
+2024	Januari	Bawal Hitam (Black pomfret)	74
+2024	Januari	Bawal Putih (White pomfret)	153
+2024	Januari	Golok-Golok (Dorab Wolf Hering)	2.260
+2024	Januari	Beloso (Lizard fishes)	1.628
+2024	Januari	Gerot-gerot (Saddle grunt)	-
+2024	Januari	Peperek (Pony fishes)	24.375
+2024	Januari	Kakap Putih (Giant Perach)	2
+2024	Januari	Kakap Merah (Red Snapper)	19
+2024	Januari	Jenaha (Snapper)	17
+2024	Januari	Kurisi (Threadfin bream)	1.787
+2024	Januari	Kuniran (Sulphur goatfish)	13.855
+2024	Januari	Kuro (Giant threadfish)	499
+2024	Januari	Alu-alu (Barracuda)	105
+2024	Januari	Kerong-Kerong (Jarbua terapon)	609
+2024	Januari	Layur (Hairtail fishes)	950
+2024	Januari	Samgeh (Croackers)	9.024
+2024	Januari	Pari (Rays)	1.894
+2024	Januari	Ekor Kuning (Yellow tail)	14
+2024	Januari	Kerapu (Grouper)	41
+2024	Januari	Beronang (Spotted spinefoot)	8
+2024	Januari	" Udang 
+Jerbung"	782
+2024	Januari	Udang Krosok (Tiger cat shrimp)	5.392
+2024	Januari	Rajungan (Swimming crabs)	9.091
+2024	Januari	Cumi-cumi (Common squids)	13.315
+2024	Januari	Sotong (Cuttle fish)	2.676
+2024	Januari	Gurita (Octopuses)	1.412
+2024	Januari	Udang lainnya (Other shrimps)	1.595
+2024	Januari	"Udang Dogol Metapenaeus 
+monoceros"	-
+2024	Januari	"Sembilang  Euristhmus 
+microceps"	1.615
+2024	Januari	"Udang Kipas Tenus 
+Orientalis"	103
+2024	Januari	Ikan Karang Lainnya	-
+2024	Januari	Gabus Laut	33
+2024	Januari	 Lemadang 	7
+2024	Januari	 Lencam	20
+2024	Januari	 Ayam-ayam	-
+2024	Januari	 Rejung	-
+2024	Januari	Layang Deles	-
+2024	Januari	Sunglir	-
+2024	Januari	Tuna Mata Besar	-
+2024	Januari	Madidihang	-
+2024	Januari	Tongkol Pisang Balaki	-
+2024	Januari	Cakalang	-
+2024	Januari	Lemadang	-
+2024	Januari	Setuhuk Hitam	-
+2024	Januari	Tenggiri	-
+2024	Januari	Cucut Lanjam	-
+2024	Februari	Teri (Anchovy)	24.023
+2024	Februari	Teri Nasi (Anchovies)	30
+2024	Februari	Belanak (Mullets)	179
+2024	Februari	Bentong (Oxeye scad)	1.381
+2024	Februari	Cendro (Needle fish)	84
+2024	Februari	Talang-Talang (Queen fish)	75
+2024	Februari	Ikan Terbang (Flying fish)	-
+2024	Februari	Japuh (Rainbow sardine)	148
+2024	Februari	"Banyar Restrelliger 
+kanagurta"	4.106
+2024	Februari	Kembung (Indian mackerels)	13.544
+2024	Februari	Layang (Scads)	6.413
+2024	Februari	Siro/Lemuru (Spotted sardinella)	324
+2024	Februari	Selar (Trevallies)	2.569
+2024	Februari	Tembang (Fringescale sardinella)	2.914
+2024	Februari	Selanget (Chacunda gizzard shad)	16.549
+2024	Februari	Tetengkek (Torpedo scad)	1.354
+2024	Februari	Semar (Mene maculata)	223
+2024	Februari	Tongkol (Frigate tuna)	275
+2024	Februari	Layaran (Indo-pacific sailfish)	115
+2024	Februari	Tenggiri (Narrow barred king mackerel)	3.163
+2024	Februari	Cucut (Sharks)	103
+2024	Februari	Manyung (Sea-cat fishes)	363
+2024	Februari	Sebelah (Croaker)	723
+2024	Februari	Kuwe (Great trevally)	359
+2024	Februari	Bawal Hitam (Black pomfret)	34
+2024	Februari	Bawal Putih (White pomfret)	-
+2024	Februari	Golok-Golok (Dorab Wolf Hering)	1.308
+2024	Februari	Beloso (Lizard fishes)	1.349
+2024	Februari	Gerot-gerot (Saddle grunt)	-
+2024	Februari	Peperek (Pony fishes)	23.158
+2024	Februari	Kakap Putih (Giant Perach)	3
+2024	Februari	Kakap Merah (Red Snapper)	55
+2024	Februari	Jenaha (Snapper)	46
+2024	Februari	Kurisi (Threadfin bream)	101
+2024	Februari	Kuniran (Sulphur goatfish)	12.845
+2024	Februari	Kuro (Giant threadfish)	693
+2024	Februari	Alu-alu (Barracuda)	104
+2024	Februari	Kerong-Kerong (Jarbua terapon)	3.775
+2024	Februari	Layur (Hairtail fishes)	414
+2024	Februari	Samgeh (Croackers)	5.687
+2024	Februari	Pari (Rays)	1.409
+2024	Februari	Ekor Kuning (Yellow tail)	25
+2024	Februari	Kerapu (Grouper)	47
+2024	Februari	Beronang (Spotted spinefoot)	50
+2024	Februari	" Udang 
+Jerbung"	1.398
+2024	Februari	Udang Krosok (Tiger cat shrimp)	6.369
+2024	Februari	Rajungan (Swimming crabs)	10.771
+2024	Februari	Cumi-cumi (Common squids)	32.406
+2024	Februari	Sotong (Cuttle fish)	4.097
+2024	Februari	Gurita (Octopuses)	1.372
+2024	Februari	Udang lainnya (Other shrimps)	2.519
+2024	Februari	"Udang Dogol Metapenaeus 
+monoceros"	-
+2024	Februari	"Sembilang  Euristhmus 
+microceps"	1.513
+2024	Februari	"Udang Kipas Tenus 
+Orientalis"	93
+2024	Februari	Ikan Karang Lainnya	-
+2024	Februari	Gabus Laut	47
+2024	Februari	 Lemadang 	-
+2024	Februari	 Lencam	18
+2024	Februari	 Ayam-ayam	-
+2024	Februari	 Rejung	-
+2024	Februari	Layang Deles	-
+2024	Februari	Sunglir	-
+2024	Februari	Tuna Mata Besar	-
+2024	Februari	Madidihang	-
+2024	Februari	Tongkol Pisang Balaki	-
+2024	Februari	Cakalang	-
+2024	Februari	Lemadang	-
+2024	Februari	Setuhuk Hitam	-
+2024	Februari	Tenggiri	-
+2024	Februari	Cucut Lanjam	-
+2024	Maret	Teri (Anchovy)	44.573
+2024	Maret	Teri Nasi (Anchovies)	14
+2024	Maret	Belanak (Mullets)	138
+2024	Maret	Bentong (Oxeye scad)	3.682
+2024	Maret	Cendro (Needle fish)	52
+2024	Maret	Talang-Talang (Queen fish)	132
+2024	Maret	Ikan Terbang (Flying fish)	28
+2024	Maret	Japuh (Rainbow sardine)	441
+2024	Maret	"Banyar Restrelliger 
+kanagurta"	4.545
+2024	Maret	Kembung (Indian mackerels)	38.328
+2024	Maret	Layang (Scads)	1.780
+2024	Maret	Siro/Lemuru (Spotted sardinella)	3.025
+2024	Maret	Selar (Trevallies)	3.401
+2024	Maret	Tembang (Fringescale sardinella)	4.519
+2024	Maret	Selanget (Chacunda gizzard shad)	21.146
+2024	Maret	Tetengkek (Torpedo scad)	3854
+2024	Maret	Semar (Mene maculata)	26
+2024	Maret	Tongkol (Frigate tuna)	893
+2024	Maret	Layaran (Indo-pacific sailfish)	44
+2024	Maret	Tenggiri (Narrow barred king mackerel)	3.140
+2024	Maret	Cucut (Sharks)	46
+2024	Maret	Manyung (Sea-cat fishes)	266
+2024	Maret	Sebelah (Croaker)	284
+2024	Maret	Kuwe (Great trevally)	461
+2024	Maret	Bawal Hitam (Black pomfret)	-
+2024	Maret	Bawal Putih (White pomfret)	-
+2024	Maret	Golok-Golok (Dorab Wolf Hering)	1.374
+2024	Maret	Beloso (Lizard fishes)	262
+2024	Maret	Gerot-gerot (Saddle grunt)	-
+2024	Maret	Peperek (Pony fishes)	23.480
+2024	Maret	Kakap Putih (Giant Perach)	13
+2024	Maret	Kakap Merah (Red Snapper)	31
+2024	Maret	Jenaha (Snapper)	51
+2024	Maret	Kurisi (Threadfin bream)	2
+2024	Maret	Kuniran (Sulphur goatfish)	4.631
+2024	Maret	Kuro (Giant threadfish)	679
+2024	Maret	Alu-alu (Barracuda)	115
+2024	Maret	Kerong-Kerong (Jarbua terapon)	6.449
+2024	Maret	Layur (Hairtail fishes)	815
+2024	Maret	Samgeh (Croackers)	3.605
+2024	Maret	Pari (Rays)	1.054
+2024	Maret	Ekor Kuning (Yellow tail)	47
+2024	Maret	Kerapu (Grouper)	42
+2024	Maret	Beronang (Spotted spinefoot)	-
+2024	Maret	" Udang 
+Jerbung"	2.888
+2024	Maret	Udang Krosok (Tiger cat shrimp)	7.617
+2024	Maret	Rajungan (Swimming crabs)	8.666
+2024	Maret	Cumi-cumi (Common squids)	35.036
+2024	Maret	Sotong (Cuttle fish)	3.803
+2024	Maret	Gurita (Octopuses)	450
+2024	Maret	Udang lainnya (Other shrimps)	5.236
+2024	Maret	"Udang Dogol Metapenaeus 
+monoceros"	-
+2024	Maret	"Sembilang  Euristhmus 
+microceps"	1.972
+2024	Maret	"Udang Kipas Tenus 
+Orientalis"	28
+2024	Maret	Ikan Karang Lainnya	39
+2024	Maret	Gabus Laut	31
+2024	Maret	 Lemadang 	-
+2024	Maret	 Lencam	-
+2024	Maret	 Ayam-ayam	-
+2024	Maret	 Rejung	-
+2024	Maret	Layang Deles	-
+2024	Maret	Sunglir	-
+2024	Maret	Tuna Mata Besar	-
+2024	Maret	Madidihang	-
+2024	Maret	Tongkol Pisang Balaki	-
+2024	Maret	Cakalang	-
+2024	Maret	Lemadang	-
+2024	Maret	Setuhuk Hitam	-
+2024	Maret	Tenggiri	-
+2024	Maret	Cucut Lanjam	-
+2024	April	Teri (Anchovy)	59.718
+2024	April	Teri Nasi (Anchovies)	-
+2024	April	Belanak (Mullets)	235
+2024	April	Bentong (Oxeye scad)	595
+2024	April	Cendro (Needle fish)	71
+2024	April	Talang-Talang (Queen fish)	169
+2024	April	Ikan Terbang (Flying fish)	-
+2024	April	Japuh (Rainbow sardine)	1.815
+2024	April	"Banyar Restrelliger 
+kanagurta"	1.622
+2024	April	Kembung (Indian mackerels)	64.618
+2024	April	Layang (Scads)	11.481
+2024	April	Siro/Lemuru (Spotted sardinella)	13.156
+2024	April	Selar (Trevallies)	3.140
+2024	April	Tembang (Fringescale sardinella)	22.909
+2024	April	Selanget (Chacunda gizzard shad)	3.400
+2024	April	Tetengkek (Torpedo scad)	3.220
+2024	April	Semar (Mene maculata)	11
+2024	April	Tongkol (Frigate tuna)	3.857
+2024	April	Layaran (Indo-pacific sailfish)	6
+2024	April	Tenggiri (Narrow barred king mackerel)	1.651
+2024	April	Cucut (Sharks)	16
+2024	April	Manyung (Sea-cat fishes)	190
+2024	April	Sebelah (Croaker)	149
+2024	April	Kuwe (Great trevally)	613
+2024	April	Bawal Hitam (Black pomfret)	13
+2024	April	Bawal Putih (White pomfret)	-
+2024	April	Golok-Golok (Dorab Wolf Hering)	1.193
+2024	April	Beloso (Lizard fishes)	511
+2024	April	Gerot-gerot (Saddle grunt)	-
+2024	April	Peperek (Pony fishes)	9.963
+2024	April	Kakap Putih (Giant Perach)	-
+2024	April	Kakap Merah (Red Snapper)	6
+2024	April	Jenaha (Snapper)	23
+2024	April	Kurisi (Threadfin bream)	1.677
+2024	April	Kuniran (Sulphur goatfish)	7.981
+2024	April	Kuro (Giant threadfish)	137
+2024	April	Alu-alu (Barracuda)	53
+2024	April	Kerong-Kerong (Jarbua terapon)	2.119
+2024	April	Layur (Hairtail fishes)	981
+2024	April	Samgeh (Croackers)	3.936
+2024	April	Pari (Rays)	960
+2024	April	Ekor Kuning (Yellow tail)	13
+2024	April	Kerapu (Grouper)	27
+2024	April	Beronang (Spotted spinefoot)	-
+2024	April	" Udang 
+Jerbung"	1.497
+2024	April	Udang Krosok (Tiger cat shrimp)	4.464
+2024	April	Rajungan (Swimming crabs)	5.990
+2024	April	Cumi-cumi (Common squids)	19.304
+2024	April	Sotong (Cuttle fish)	2.185
+2024	April	Gurita (Octopuses)	45
+2024	April	Udang lainnya (Other shrimps)	5.564
+2024	April	"Udang Dogol Metapenaeus 
+monoceros"	-
+2024	April	"Sembilang  Euristhmus 
+microceps"	1.391
+2024	April	"Udang Kipas Tenus 
+Orientalis"	3
+2024	April	Ikan Karang Lainnya	31
+2024	April	Gabus Laut	43
+2024	April	 Lemadang 	-
+2024	April	 Lencam	13
+2024	April	 Ayam-ayam	-
+2024	April	 Rejung	-
+2024	April	Layang Deles	-
+2024	April	Sunglir	-
+2024	April	Tuna Mata Besar	-
+2024	April	Madidihang	-
+2024	April	Tongkol Pisang Balaki	-
+2024	April	Cakalang	-
+2024	April	Lemadang	-
+2024	April	Setuhuk Hitam	-
+2024	April	Tenggiri	-
+2024	April	Cucut Lanjam	-
+2024	Mei	Teri (Anchovy)	8.590
+2024	Mei	Teri Nasi (Anchovies)	559
+2024	Mei	Belanak (Mullets)	265
+2024	Mei	Bentong (Oxeye scad)	1.578
+2024	Mei	Cendro (Needle fish)	288
+2024	Mei	Talang-Talang (Queen fish)	34
+2024	Mei	Ikan Terbang (Flying fish)	30
+2024	Mei	Japuh (Rainbow sardine)	859
+2024	Mei	"Banyar Restrelliger 
+kanagurta"	2.665
+2024	Mei	Kembung (Indian mackerels)	93.745
+2024	Mei	Layang (Scads)	1.090
+2024	Mei	Siro/Lemuru (Spotted sardinella)	45.145
+2024	Mei	Selar (Trevallies)	3.816
+2024	Mei	Tembang (Fringescale sardinella)	16.176
+2024	Mei	Selanget (Chacunda gizzard shad)	3.657
+2024	Mei	Tetengkek (Torpedo scad)	3.513
+2024	Mei	Semar (Mene maculata)	-
+2024	Mei	Tongkol (Frigate tuna)	2.019
+2024	Mei	Layaran (Indo-pacific sailfish)	31
+2024	Mei	Tenggiri (Narrow barred king mackerel)	2.416
+2024	Mei	Cucut (Sharks)	8
+2024	Mei	Manyung (Sea-cat fishes)	160
+2024	Mei	Sebelah (Croaker)	590
+2024	Mei	Kuwe (Great trevally)	1.718
+2024	Mei	Bawal Hitam (Black pomfret)	5
+2024	Mei	Bawal Putih (White pomfret)	-
+2024	Mei	Golok-Golok (Dorab Wolf Hering)	1.036
+2024	Mei	Beloso (Lizard fishes)	1.347
+2024	Mei	Gerot-gerot (Saddle grunt)	-
+2024	Mei	Peperek (Pony fishes)	11.101
+2024	Mei	Kakap Putih (Giant Perach)	38
+2024	Mei	Kakap Merah (Red Snapper)	197
+2024	Mei	Jenaha (Snapper)	13
+2024	Mei	Kurisi (Threadfin bream)	1.631
+2024	Mei	Kuniran (Sulphur goatfish)	14.997
+2024	Mei	Kuro (Giant threadfish)	41
+2024	Mei	Alu-alu (Barracuda)	361
+2024	Mei	Kerong-Kerong (Jarbua terapon)	2.095
+2024	Mei	Layur (Hairtail fishes)	1.219
+2024	Mei	Samgeh (Croackers)	6.235
+2024	Mei	Pari (Rays)	1.803
+2024	Mei	Ekor Kuning (Yellow tail)	112
+2024	Mei	Kerapu (Grouper)	260
+2024	Mei	Beronang (Spotted spinefoot)	170
+2024	Mei	" Udang 
+Jerbung"	1.203
+2024	Mei	Udang Krosok (Tiger cat shrimp)	4.699
+2024	Mei	Rajungan (Swimming crabs)	7.822
+2024	Mei	Cumi-cumi (Common squids)	16.880
+2024	Mei	Sotong (Cuttle fish)	3.835
+2024	Mei	Gurita (Octopuses)	28
+2024	Mei	Udang lainnya (Other shrimps)	4.008
+2024	Mei	"Udang Dogol Metapenaeus 
+monoceros"	-
+2024	Mei	"Sembilang  Euristhmus 
+microceps"	2.054
+2024	Mei	"Udang Kipas Tenus 
+Orientalis"	-
+2024	Mei	Ikan Karang Lainnya	8
+2024	Mei	Gabus Laut	27
+2024	Mei	 Lemadang 	-
+2024	Mei	 Lencam	88
+2024	Mei	 Ayam-ayam	13
+2024	Mei	 Rejung	16
+2024	Mei	Layang Deles	-
+2024	Mei	Sunglir	-
+2024	Mei	Tuna Mata Besar	-
+2024	Mei	Madidihang	-
+2024	Mei	Tongkol Pisang Balaki	-
+2024	Mei	Cakalang	-
+2024	Mei	Lemadang	-
+2024	Mei	Setuhuk Hitam	-
+2024	Mei	Tenggiri	-
+2024	Mei	Cucut Lanjam	-
+2024	Juni	Teri (Anchovy)	7.340
+2024	Juni	Teri Nasi (Anchovies)	244
+2024	Juni	Belanak (Mullets)	76
+2024	Juni	Bentong (Oxeye scad)	2.090
+2024	Juni	Cendro (Needle fish)	176
+2024	Juni	Talang-Talang (Queen fish)	242
+2024	Juni	Ikan Terbang (Flying fish)	9
+2024	Juni	Japuh (Rainbow sardine)	573
+2024	Juni	"Banyar Restrelliger 
+kanagurta"	2.692
+2024	Juni	Kembung (Indian mackerels)	50.484
+2024	Juni	Layang (Scads)	1.703
+2024	Juni	Siro/Lemuru (Spotted sardinella)	20.591
+2024	Juni	Selar (Trevallies)	2.218
+2024	Juni	Tembang (Fringescale sardinella)	5.792
+2024	Juni	Selanget (Chacunda gizzard shad)	2.279
+2024	Juni	Tetengkek (Torpedo scad)	3.159
+2024	Juni	Semar (Mene maculata)	335
+2024	Juni	Tongkol (Frigate tuna)	7.490
+2024	Juni	Layaran (Indo-pacific sailfish)	13
+2024	Juni	Tenggiri (Narrow barred king mackerel)	1.179
+2024	Juni	Cucut (Sharks)	37
+2024	Juni	Manyung (Sea-cat fishes)	258
+2024	Juni	Sebelah (Croaker)	1.263
+2024	Juni	Kuwe (Great trevally)	1.017
+2024	Juni	Bawal Hitam (Black pomfret)	6
+2024	Juni	Bawal Putih (White pomfret)	-
+2024	Juni	Golok-Golok (Dorab Wolf Hering)	1.111
+2024	Juni	Beloso (Lizard fishes)	1.850
+2024	Juni	Gerot-gerot (Saddle grunt)	13
+2024	Juni	Peperek (Pony fishes)	17.954
+2024	Juni	Kakap Putih (Giant Perach)	10
+2024	Juni	Kakap Merah (Red Snapper)	16
+2024	Juni	Jenaha (Snapper)	17
+2024	Juni	Kurisi (Threadfin bream)	2.598
+2024	Juni	Kuniran (Sulphur goatfish)	17.998
+2024	Juni	Kuro (Giant threadfish)	9
+2024	Juni	Alu-alu (Barracuda)	118
+2024	Juni	Kerong-Kerong (Jarbua terapon)	2.302
+2024	Juni	Layur (Hairtail fishes)	1.875
+2024	Juni	Samgeh (Croackers)	7.025
+2024	Juni	Pari (Rays)	2.952
+2024	Juni	Ekor Kuning (Yellow tail)	21
+2024	Juni	Kerapu (Grouper)	297
+2024	Juni	Beronang (Spotted spinefoot)	-
+2024	Juni	" Udang 
+Jerbung"	706
+2024	Juni	Udang Krosok (Tiger cat shrimp)	3.289
+2024	Juni	Rajungan (Swimming crabs)	8.224
+2024	Juni	Cumi-cumi (Common squids)	6.308
+2024	Juni	Sotong (Cuttle fish)	4.950
+2024	Juni	Gurita (Octopuses)	484
+2024	Juni	Udang lainnya (Other shrimps)	2.640
+2024	Juni	"Udang Dogol Metapenaeus 
+monoceros"	-
+2024	Juni	"Sembilang  Euristhmus 
+microceps"	1.931
+2024	Juni	"Udang Kipas Tenus 
+Orientalis"	17
+2024	Juni	Ikan Karang Lainnya	116
+2024	Juni	Gabus Laut	37
+2024	Juni	 Lemadang 	-
+2024	Juni	 Lencam	3
+2024	Juni	 Ayam-ayam	5
+2024	Juni	 Rejung	2
+2024	Juni	Layang Deles	-
+2024	Juni	Sunglir	-
+2024	Juni	Tuna Mata Besar	-
+2024	Juni	Madidihang	-
+2024	Juni	Tongkol Pisang Balaki	-
+2024	Juni	Cakalang	-
+2024	Juni	Lemadang	-
+2024	Juni	Setuhuk Hitam	-
+2024	Juni	Tenggiri	-
+2024	Juni	Cucut Lanjam	-
+2024	Juli	Teri (Anchovy)	23.306
+2024	Juli	Teri Nasi (Anchovies)	68
+2024	Juli	Belanak (Mullets)	138
+2024	Juli	Bentong (Oxeye scad)	1.350
+2024	Juli	Cendro (Needle fish)	162
+2024	Juli	Talang-Talang (Queen fish)	324
+2024	Juli	Ikan Terbang (Flying fish)	21
+2024	Juli	Japuh (Rainbow sardine)	325
+2024	Juli	"Banyar Restrelliger 
+kanagurta"	5.266
+2024	Juli	Kembung (Indian mackerels)	43.914
+2024	Juli	Layang (Scads)	351
+2024	Juli	Siro/Lemuru (Spotted sardinella)	3.180
+2024	Juli	Selar (Trevallies)	3.316
+2024	Juli	Tembang (Fringescale sardinella)	5.986
+2024	Juli	Selanget (Chacunda gizzard shad)	1.117
+2024	Juli	Tetengkek (Torpedo scad)	2.183
+2024	Juli	Semar (Mene maculata)	33
+2024	Juli	Tongkol (Frigate tuna)	780
+2024	Juli	Layaran (Indo-pacific sailfish)	-
+2024	Juli	Tenggiri (Narrow barred king mackerel)	1.924
+2024	Juli	Cucut (Sharks)	77
+2024	Juli	Manyung (Sea-cat fishes)	358
+2024	Juli	Sebelah (Croaker)	1.575
+2024	Juli	Kuwe (Great trevally)	664
+2024	Juli	Bawal Hitam (Black pomfret)	26
+2024	Juli	Bawal Putih (White pomfret)	-
+2024	Juli	Golok-Golok (Dorab Wolf Hering)	914
+2024	Juli	Beloso (Lizard fishes)	2.756
+2024	Juli	Gerot-gerot (Saddle grunt)	124
+2024	Juli	Peperek (Pony fishes)	13.909
+2024	Juli	Kakap Putih (Giant Perach)	27
+2024	Juli	Kakap Merah (Red Snapper)	8
+2024	Juli	Jenaha (Snapper)	16
+2024	Juli	Kurisi (Threadfin bream)	2.798
+2024	Juli	Kuniran (Sulphur goatfish)	24.041
+2024	Juli	Kuro (Giant threadfish)	97
+2024	Juli	Alu-alu (Barracuda)	95
+2024	Juli	Kerong-Kerong (Jarbua terapon)	492
+2024	Juli	Layur (Hairtail fishes)	2.639
+2024	Juli	Samgeh (Croackers)	9.935
+2024	Juli	Pari (Rays)	2.335
+2024	Juli	Ekor Kuning (Yellow tail)	209
+2024	Juli	Kerapu (Grouper)	366
+2024	Juli	Beronang (Spotted spinefoot)	219
+2024	Juli	" Udang 
+Jerbung"	349
+2024	Juli	Udang Krosok (Tiger cat shrimp)	3.036
+2024	Juli	Rajungan (Swimming crabs)	12.662
+2024	Juli	Cumi-cumi (Common squids)	10.223
+2024	Juli	Sotong (Cuttle fish)	4.970
+2024	Juli	Gurita (Octopuses)	458
+2024	Juli	Udang lainnya (Other shrimps)	2.279
+2024	Juli	"Udang Dogol Metapenaeus 
+monoceros"	-
+2024	Juli	"Sembilang  Euristhmus 
+microceps"	2.208
+2024	Juli	"Udang Kipas Tenus 
+Orientalis"	-
+2024	Juli	Ikan Karang Lainnya	77
+2024	Juli	Gabus Laut	60
+2024	Juli	 Lemadang 	
+2024	Juli	 Lencam	1
+2024	Juli	 Ayam-ayam	6
+2024	Juli	 Rejung	170
+2024	Juli	Layang Deles	-
+2024	Juli	Sunglir	-
+2024	Juli	Tuna Mata Besar	-
+2024	Juli	Madidihang	-
+2024	Juli	Tongkol Pisang Balaki	-
+2024	Juli	Cakalang	-
+2024	Juli	Lemadang	-
+2024	Juli	Setuhuk Hitam	-
+2024	Juli	Tenggiri	-
+2024	Juli	Cucut Lanjam	-
+2024	Agustus	Teri (Anchovy)	15.556
+2024	Agustus	Teri Nasi (Anchovies)	-
+2024	Agustus	Belanak (Mullets)	95
+2024	Agustus	Bentong (Oxeye scad)	708
+2024	Agustus	Cendro (Needle fish)	113
+2024	Agustus	Talang-Talang (Queen fish)	-
+2024	Agustus	Ikan Terbang (Flying fish)	15
+2024	Agustus	Japuh (Rainbow sardine)	878
+2024	Agustus	"Banyar Restrelliger 
+kanagurta"	830
+2024	Agustus	Kembung (Indian mackerels)	32.762
+2024	Agustus	Layang (Scads)	56
+2024	Agustus	Siro/Lemuru (Spotted sardinella)	2.286
+2024	Agustus	Selar (Trevallies)	2.131
+2024	Agustus	Tembang (Fringescale sardinella)	23.036
+2024	Agustus	Selanget (Chacunda gizzard shad)	1.731
+2024	Agustus	Tetengkek (Torpedo scad)	1.472
+2024	Agustus	Semar (Mene maculata)	798
+2024	Agustus	Tongkol (Frigate tuna)	2.258
+2024	Agustus	Layaran (Indo-pacific sailfish)	28
+2024	Agustus	Tenggiri (Narrow barred king mackerel)	1.414
+2024	Agustus	Cucut (Sharks)	188
+2024	Agustus	Manyung (Sea-cat fishes)	264
+2024	Agustus	Sebelah (Croaker)	726
+2024	Agustus	Kuwe (Great trevally)	742
+2024	Agustus	Bawal Hitam (Black pomfret)	-
+2024	Agustus	Bawal Putih (White pomfret)	-
+2024	Agustus	Golok-Golok (Dorab Wolf Hering)	893
+2024	Agustus	Beloso (Lizard fishes)	6.776
+2024	Agustus	Gerot-gerot (Saddle grunt)	144
+2024	Agustus	Peperek (Pony fishes)	8.994
+2024	Agustus	Kakap Putih (Giant Perach)	6
+2024	Agustus	Kakap Merah (Red Snapper)	8
+2024	Agustus	Jenaha (Snapper)	13
+2024	Agustus	Kurisi (Threadfin bream)	98
+2024	Agustus	Kuniran (Sulphur goatfish)	26.999
+2024	Agustus	Kuro (Giant threadfish)	78
+2024	Agustus	Alu-alu (Barracuda)	98
+2024	Agustus	Kerong-Kerong (Jarbua terapon)	275
+2024	Agustus	Layur (Hairtail fishes)	365
+2024	Agustus	Samgeh (Croackers)	7.262
+2024	Agustus	Pari (Rays)	3.466
+2024	Agustus	Ekor Kuning (Yellow tail)	22
+2024	Agustus	Kerapu (Grouper)	157
+2024	Agustus	Beronang (Spotted spinefoot)	-
+2024	Agustus	" Udang 
+Jerbung"	814
+2024	Agustus	Udang Krosok (Tiger cat shrimp)	6.423
+2024	Agustus	Rajungan (Swimming crabs)	10.932
+2024	Agustus	Cumi-cumi (Common squids)	3.480
+2024	Agustus	Sotong (Cuttle fish)	4.262
+2024	Agustus	Gurita (Octopuses)	526
+2024	Agustus	Udang lainnya (Other shrimps)	2.380
+2024	Agustus	"Udang Dogol Metapenaeus 
+monoceros"	-
+2024	Agustus	"Sembilang  Euristhmus 
+microceps"	1.611
+2024	Agustus	"Udang Kipas Tenus 
+Orientalis"	-
+2024	Agustus	Ikan Karang Lainnya	-
+2024	Agustus	Gabus Laut	10
+2024	Agustus	 Lemadang 	-
+2024	Agustus	 Lencam	7
+2024	Agustus	 Ayam-ayam	-
+2024	Agustus	 Rejung	42
+2024	Agustus	Layang Deles	-
+2024	Agustus	Sunglir	-
+2024	Agustus	Tuna Mata Besar	-
+2024	Agustus	Madidihang	-
+2024	Agustus	Tongkol Pisang Balaki	-
+2024	Agustus	Cakalang	-
+2024	Agustus	Lemadang	-
+2024	Agustus	Setuhuk Hitam	-
+2024	Agustus	Tenggiri	-
+2024	Agustus	Cucut Lanjam	-
+2024	September	Teri (Anchovy)	9.720
+2024	September	Teri Nasi (Anchovies)	-
+2024	September	Belanak (Mullets)	93
+2024	September	Bentong (Oxeye scad)	420
+2024	September	Cendro (Needle fish)	92
+2024	September	Talang-Talang (Queen fish)	26
+2024	September	Ikan Terbang (Flying fish)	-
+2024	September	Japuh (Rainbow sardine)	-
+2024	September	"Banyar Restrelliger 
+kanagurta"	-
+2024	September	Kembung (Indian mackerels)	24.419
+2024	September	Layang (Scads)	-
+2024	September	Siro/Lemuru (Spotted sardinella)	9.135
+2024	September	Selar (Trevallies)	1.090
+2024	September	Tembang (Fringescale sardinella)	13.158
+2024	September	Selanget (Chacunda gizzard shad)	3.497
+2024	September	Tetengkek (Torpedo scad)	413
+2024	September	Semar (Mene maculata)	3.866
+2024	September	Tongkol (Frigate tuna)	210
+2024	September	Layaran (Indo-pacific sailfish)	-
+2024	September	Tenggiri (Narrow barred king mackerel)	1.010
+2024	September	Cucut (Sharks)	46
+2024	September	Manyung (Sea-cat fishes)	107
+2024	September	Sebelah (Croaker)	926
+2024	September	Kuwe (Great trevally)	399
+2024	September	Bawal Hitam (Black pomfret)	13
+2024	September	Bawal Putih (White pomfret)	-
+2024	September	Golok-Golok (Dorab Wolf Hering)	526
+2024	September	Beloso (Lizard fishes)	4.541
+2024	September	Gerot-gerot (Saddle grunt)	8
+2024	September	Peperek (Pony fishes)	8.781
+2024	September	Kakap Putih (Giant Perach)	-
+2024	September	Kakap Merah (Red Snapper)	25
+2024	September	Jenaha (Snapper)	20
+2024	September	Kurisi (Threadfin bream)	72
+2024	September	Kuniran (Sulphur goatfish)	24.270
+2024	September	Kuro (Giant threadfish)	41
+2024	September	Alu-alu (Barracuda)	31
+2024	September	Kerong-Kerong (Jarbua terapon)	592
+2024	September	Layur (Hairtail fishes)	831
+2024	September	Samgeh (Croackers)	5.015
+2024	September	Pari (Rays)	3.088
+2024	September	Ekor Kuning (Yellow tail)	-
+2024	September	Kerapu (Grouper)	5
+2024	September	Beronang (Spotted spinefoot)	-
+2024	September	" Udang 
+Jerbung"	831
+2024	September	Udang Krosok (Tiger cat shrimp)	6.042
+2024	September	Rajungan (Swimming crabs)	10.358
+2024	September	Cumi-cumi (Common squids)	1.745
+2024	September	Sotong (Cuttle fish)	4.839
+2024	September	Gurita (Octopuses)	775
+2024	September	Udang lainnya (Other shrimps)	2.304
+2024	September	"Udang Dogol Metapenaeus 
+monoceros"	-
+2024	September	"Sembilang  Euristhmus 
+microceps"	970
+2024	September	"Udang Kipas Tenus 
+Orientalis"	-
+2024	September	Ikan Karang Lainnya	25
+2024	September	Gabus Laut	45
+2024	September	 Lemadang 	6
+2024	September	 Lencam	59
+2024	September	 Ayam-ayam	-
+2024	September	 Rejung	-
+2024	September	Layang Deles	825
+2024	September	Sunglir	4
+2024	September	Tuna Mata Besar	14077
+2024	September	Madidihang	9670
+2024	September	Tongkol Pisang Balaki	14
+2024	September	Cakalang	31927
+2024	September	Lemadang	147
+2024	September	Setuhuk Hitam	41
+2024	September	Tenggiri	5
+2024	September	Cucut Lanjam	58
+2024	Oktober	Teri (Anchovy)	67.354
+2024	Oktober	Teri Nasi (Anchovies)	-
+2024	Oktober	Belanak (Mullets)	111
+2024	Oktober	Bentong (Oxeye scad)	2.991
+2024	Oktober	Cendro (Needle fish)	142
+2024	Oktober	Talang-Talang (Queen fish)	30
+2024	Oktober	Ikan Terbang (Flying fish)	52
+2024	Oktober	Japuh (Rainbow sardine)	1.096
+2024	Oktober	"Banyar Restrelliger 
+kanagurta"	-
+2024	Oktober	Kembung (Indian mackerels)	38.859
+2024	Oktober	Layang (Scads)	104
+2024	Oktober	Siro/Lemuru (Spotted sardinella)	2.683
+2024	Oktober	Selar (Trevallies)	3.668
+2024	Oktober	Tembang (Fringescale sardinella)	45.682
+2024	Oktober	Selanget (Chacunda gizzard shad)	4.753
+2024	Oktober	Tetengkek (Torpedo scad)	5.778
+2024	Oktober	Semar (Mene maculata)	2.066
+2024	Oktober	Tongkol (Frigate tuna)	2.654
+2024	Oktober	Layaran (Indo-pacific sailfish)	13
+2024	Oktober	Tenggiri (Narrow barred king mackerel)	1.826
+2024	Oktober	Cucut (Sharks)	4
+2024	Oktober	Manyung (Sea-cat fishes)	277
+2024	Oktober	Sebelah (Croaker)	827
+2024	Oktober	Kuwe (Great trevally)	391
+2024	Oktober	Bawal Hitam (Black pomfret)	33
+2024	Oktober	Bawal Putih (White pomfret)	-
+2024	Oktober	Golok-Golok (Dorab Wolf Hering)	854
+2024	Oktober	Beloso (Lizard fishes)	3.616
+2024	Oktober	Gerot-gerot (Saddle grunt)	-
+2024	Oktober	Peperek (Pony fishes)	11.728
+2024	Oktober	Kakap Putih (Giant Perach)	-
+2024	Oktober	Kakap Merah (Red Snapper)	36
+2024	Oktober	Jenaha (Snapper)	12
+2024	Oktober	Kurisi (Threadfin bream)	118
+2024	Oktober	Kuniran (Sulphur goatfish)	20.960
+2024	Oktober	Kuro (Giant threadfish)	17
+2024	Oktober	Alu-alu (Barracuda)	155
+2024	Oktober	Kerong-Kerong (Jarbua terapon)	1.990
+2024	Oktober	Layur (Hairtail fishes)	2.436
+2024	Oktober	Samgeh (Croackers)	4.440
+2024	Oktober	Pari (Rays)	2.465
+2024	Oktober	Ekor Kuning (Yellow tail)	-
+2024	Oktober	Kerapu (Grouper)	14
+2024	Oktober	Beronang (Spotted spinefoot)	5
+2024	Oktober	" Udang 
+Jerbung"	1.006
+2024	Oktober	Udang Krosok (Tiger cat shrimp)	4.259
+2024	Oktober	Rajungan (Swimming crabs)	11.945
+2024	Oktober	Cumi-cumi (Common squids)	17.953
+2024	Oktober	Sotong (Cuttle fish)	3.786
+2024	Oktober	Gurita (Octopuses)	2.046
+2024	Oktober	Udang lainnya (Other shrimps)	5.518
+2024	Oktober	"Udang Dogol Metapenaeus 
+monoceros"	-
+2024	Oktober	"Sembilang  Euristhmus 
+microceps"	684
+2024	Oktober	"Udang Kipas Tenus 
+Orientalis"	-
+2024	Oktober	Ikan Karang Lainnya	-
+2024	Oktober	Gabus Laut	119
+2024	Oktober	 Lemadang 	-
+2024	Oktober	 Lencam	-
+2024	Oktober	 Ayam-ayam	-
+2024	Oktober	 Rejung	-
+2024	Oktober	Layang Deles	-
+2024	Oktober	Sunglir	-
+2024	Oktober	Tuna Mata Besar	-
+2024	Oktober	Madidihang	-
+2024	Oktober	Tongkol Pisang Balaki	-
+2024	Oktober	Cakalang	-
+2024	Oktober	Lemadang	-
+2024	Oktober	Setuhuk Hitam	-
+2024	Oktober	Tenggiri	-
+2024	Oktober	Cucut Lanjam	-
+2024	November	Teri (Anchovy)	5.310
+2024	November	Teri Nasi (Anchovies)	-
+2024	November	Belanak (Mullets)	16
+2024	November	Bentong (Oxeye scad)	3.800
+2024	November	Cendro (Needle fish)	247
+2024	November	Talang-Talang (Queen fish)	136
+2024	November	Ikan Terbang (Flying fish)	-
+2024	November	Japuh (Rainbow sardine)	-
+2024	November	"Banyar Restrelliger 
+kanagurta"	7.863
+2024	November	Kembung (Indian mackerels)	8.310
+2024	November	Layang (Scads)	70
+2024	November	Siro/Lemuru (Spotted sardinella)	3.250
+2024	November	Selar (Trevallies)	2.047
+2024	November	Tembang (Fringescale sardinella)	334.416
+2024	November	Selanget (Chacunda gizzard shad)	2.474
+2024	November	Tetengkek (Torpedo scad)	2.343
+2024	November	Semar (Mene maculata)	1.801
+2024	November	Tongkol (Frigate tuna)	3.616
+2024	November	Layaran (Indo-pacific sailfish)	-
+2024	November	Tenggiri (Narrow barred king mackerel)	3.555
+2024	November	Cucut (Sharks)	41
+2024	November	Manyung (Sea-cat fishes)	369
+2024	November	Sebelah (Croaker)	1.218
+2024	November	Kuwe (Great trevally)	474
+2024	November	Bawal Hitam (Black pomfret)	109
+2024	November	Bawal Putih (White pomfret)	-
+2024	November	Golok-Golok (Dorab Wolf Hering)	222
+2024	November	Beloso (Lizard fishes)	3.093
+2024	November	Gerot-gerot (Saddle grunt)	-
+2024	November	Peperek (Pony fishes)	20.694
+2024	November	Kakap Putih (Giant Perach)	-
+2024	November	Kakap Merah (Red Snapper)	23
+2024	November	Jenaha (Snapper)	57
+2024	November	Kurisi (Threadfin bream)	955
+2024	November	Kuniran (Sulphur goatfish)	19.935
+2024	November	Kuro (Giant threadfish)	21
+2024	November	Alu-alu (Barracuda)	345
+2024	November	Kerong-Kerong (Jarbua terapon)	1.577
+2024	November	Layur (Hairtail fishes)	156
+2024	November	Samgeh (Croackers)	4.004
+2024	November	Pari (Rays)	2.152
+2024	November	Ekor Kuning (Yellow tail)	-
+2024	November	Kerapu (Grouper)	42
+2024	November	Beronang (Spotted spinefoot)	20
+2024	November	" Udang 
+Jerbung"	1.306
+2024	November	Udang Krosok (Tiger cat shrimp)	3.856
+2024	November	Rajungan (Swimming crabs)	12.765
+2024	November	Cumi-cumi (Common squids)	59.285
+2024	November	Sotong (Cuttle fish)	3.043
+2024	November	Gurita (Octopuses)	1.059
+2024	November	Udang lainnya (Other shrimps)	3.180
+2024	November	"Udang Dogol Metapenaeus 
+monoceros"	-
+2024	November	"Sembilang  Euristhmus 
+microceps"	516
+2024	November	"Udang Kipas Tenus 
+Orientalis"	3
+2024	November	Ikan Karang Lainnya	-
+2024	November	Gabus Laut	25
+2024	November	 Lemadang 	-
+2024	November	 Lencam	-
+2024	November	 Ayam-ayam	-
+2024	November	 Rejung	-
+2024	November	Layang Deles	-
+2024	November	Sunglir	-
+2024	November	Tuna Mata Besar	-
+2024	November	Madidihang	-
+2024	November	Tongkol Pisang Balaki	-
+2024	November	Cakalang	-
+2024	November	Lemadang	-
+2024	November	Setuhuk Hitam	-
+2024	November	Tenggiri	-
+2024	November	Cucut Lanjam	-
+2024	Desember	Teri (Anchovy)	2.511
+2024	Desember	Teri Nasi (Anchovies)	-
+2024	Desember	Belanak (Mullets)	298
+2024	Desember	Bentong (Oxeye scad)	435
+2024	Desember	Cendro (Needle fish)	17
+2024	Desember	Talang-Talang (Queen fish)	118
+2024	Desember	Ikan Terbang (Flying fish)	-
+2024	Desember	Japuh (Rainbow sardine)	-
+2024	Desember	"Banyar Restrelliger 
+kanagurta"	3.868
+2024	Desember	Kembung (Indian mackerels)	19.213
+2024	Desember	Layang (Scads)	-
+2024	Desember	Siro/Lemuru (Spotted sardinella)	120
+2024	Desember	Selar (Trevallies)	644
+2024	Desember	Tembang (Fringescale sardinella)	456.507
+2024	Desember	Selanget (Chacunda gizzard shad)	6.908
+2024	Desember	Tetengkek (Torpedo scad)	614
+2024	Desember	Semar (Mene maculata)	63
+2024	Desember	Tongkol (Frigate tuna)	335
+2024	Desember	Layaran (Indo-pacific sailfish)	-
+2024	Desember	Tenggiri (Narrow barred king mackerel)	3.890
+2024	Desember	Cucut (Sharks)	27
+2024	Desember	Manyung (Sea-cat fishes)	77
+2024	Desember	Sebelah (Croaker)	1.394
+2024	Desember	Kuwe (Great trevally)	221
+2024	Desember	Bawal Hitam (Black pomfret)	-
+2024	Desember	Bawal Putih (White pomfret)	-
+2024	Desember	Golok-Golok (Dorab Wolf Hering)	502
+2024	Desember	Beloso (Lizard fishes)	4.129
+2024	Desember	Gerot-gerot (Saddle grunt)	-
+2024	Desember	Peperek (Pony fishes)	16.399
+2024	Desember	Kakap Putih (Giant Perach)	4
+2024	Desember	Kakap Merah (Red Snapper)	23
+2024	Desember	Jenaha (Snapper)	32
+2024	Desember	Kurisi (Threadfin bream)	1.087
+2024	Desember	Kuniran (Sulphur goatfish)	15.104
+2024	Desember	Kuro (Giant threadfish)	347
+2024	Desember	Alu-alu (Barracuda)	40
+2024	Desember	Kerong-Kerong (Jarbua terapon)	94
+2024	Desember	Layur (Hairtail fishes)	206
+2024	Desember	Samgeh (Croackers)	3.809
+2024	Desember	Pari (Rays)	1.395
+2024	Desember	Ekor Kuning (Yellow tail)	-
+2024	Desember	Kerapu (Grouper)	18
+2024	Desember	Beronang (Spotted spinefoot)	57
+2024	Desember	" Udang 
+Jerbung"	1.166
+2024	Desember	Udang Krosok (Tiger cat shrimp)	2.759
+2024	Desember	Rajungan (Swimming crabs)	12.469
+2024	Desember	Cumi-cumi (Common squids)	7.461
+2024	Desember	Sotong (Cuttle fish)	3.160
+2024	Desember	Gurita (Octopuses)	465
+2024	Desember	Udang lainnya (Other shrimps)	258
+2024	Desember	"Udang Dogol Metapenaeus 
+monoceros"	-
+2024	Desember	"Sembilang  Euristhmus 
+microceps"	133
+2024	Desember	"Udang Kipas Tenus 
+Orientalis"	-
+2024	Desember	Ikan Karang Lainnya	
+2024	Desember	Gabus Laut	
+2024	Desember	 Lemadang 	
+2024	Desember	 Lencam	
+2024	Desember	 Ayam-ayam	
+2024	Desember	 Rejung	
+2024	Desember	Layang Deles	-
+2024	Desember	Sunglir	-
+2024	Desember	Tuna Mata Besar	-
+2024	Desember	Madidihang	-
+2024	Desember	Tongkol Pisang Balaki	-
+2024	Desember	Cakalang	-
+2024	Desember	Lemadang	-
+2024	Desember	Setuhuk Hitam	-
+2024	Desember	Tenggiri	-
+2024	Desember	Cucut Lanjam	-

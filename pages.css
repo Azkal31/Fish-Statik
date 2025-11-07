@@ -1,0 +1,270 @@
+/* Import elegant fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Poppins:wght@300;400;500;600&display=swap');
+
+/* Main container and global styles */
+.stApp {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+    background-size: 400% 400%;
+    animation: gradientBG 15s ease infinite;
+    color: #ffffff;
+}
+
+@keyframes gradientBG {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+/* Header styling */
+.stApp header {
+    background-color: rgba(255, 255, 255, 0.95) !important;
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(44, 62, 80, 0.1);
+}
+
+/* Navigation button styling */
+.stButton > button {
+    border-radius: 12px;
+    padding: 12px 24px;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    transition: all 0.4s ease;
+    margin: 5px;
+    backdrop-filter: blur(10px);
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.stButton > button::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    background: linear-gradient(90deg, #4481eb, #04befe);
+    transition: 0.5s ease;
+    z-index: -1;
+}
+
+.stButton > button:hover {
+    transform: translateY(-3px);
+    border-color: rgba(255, 255, 255, 0.5);
+    color: white;
+    box-shadow: 0 8px 25px rgba(68, 129, 235, 0.4);
+}
+
+.stButton > button:hover::before {
+    width: 100%;
+}
+
+/* Card styling */
+[data-testid="stVerticalBlock"] {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    padding: 1.8rem;
+    margin: 1.2rem auto;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    transition: all 0.4s ease;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.2);
+}
+
+[data-testid="stVerticalBlock"]:hover {
+    transform: translateY(-5px) scale(1.02);
+    box-shadow: 0 15px 45px 0 rgba(31, 38, 135, 0.3);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+}
+
+/* Data table styling */
+[data-testid="stDataFrame"] {
+    border-radius: 10px;
+    overflow: hidden;
+    background: white;
+
+.dataframe {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 0.9rem;
+}
+
+.dataframe th {
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    padding: 12px;
+    font-weight: 600;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.dataframe td {
+    padding: 12px;
+    color: rgba(255, 255, 255, 0.9);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.dataframe tr:hover {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+/* Metric cards */
+[data-testid="stMetric"] {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px);
+    border-radius: 15px;
+    padding: 1.8rem !important;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    position: relative;
+    overflow: hidden;
+}
+
+[data-testid="stMetric"]::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+        90deg,
+        transparent,
+        rgba(255, 255, 255, 0.2),
+        transparent
+    );
+    transition: 0.5s;
+}
+
+[data-testid="stMetric"]:hover::before {
+    left: 100%;
+}
+
+[data-testid="stMetric"] .metric-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.9);
+    margin-bottom: 0.5rem;
+}
+
+[data-testid="stMetric"] .metric-value {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    color: #ffffff;
+    letter-spacing: -0.02em;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+[data-testid="stMetric"]:hover {
+    transform: translateY(-2px);
+}
+
+/* Chart styling */
+[data-testid="stPlotlyChart"] {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    padding: 1.5rem;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.2);
+    transition: all 0.4s ease;
+}
+
+[data-testid="stPlotlyChart"]:hover {
+    transform: scale(1.01);
+    box-shadow: 0 12px 40px 0 rgba(31, 38, 135, 0.25);
+}
+
+/* Input fields */
+.stTextInput input,
+.stNumberInput input,
+.stSelectbox select {
+    border-radius: 8px !important;
+    border: 2px solid rgba(75, 108, 183, 0.2) !important;
+    padding: 10px 12px !important;
+    transition: all 0.3s ease;
+    background: white !important;
+}
+
+.stTextInput input:focus,
+.stNumberInput input:focus,
+.stSelectbox select:focus {
+    border-color: #4b6cb7 !important;
+}
+
+/* Progress bars */
+.stProgress > div > div {
+    background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%) !important;
+    border-radius: 8px !important;
+}
+
+/* Headings */
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-weight: 700;
+    margin-bottom: 1.2rem;
+    letter-spacing: -0.02em;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 2.4rem;
+    background: linear-gradient(135deg, #ffffff 0%, rgba(255, 255, 255, 0.9) 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-transform: capitalize;
+}
+
+h2 {
+    font-size: 1.8rem;
+    color: #ffffff;
+    position: relative;
+    padding-bottom: 0.5rem;
+}
+
+h2:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 60px;
+    height: 3px;
+    background: linear-gradient(90deg, #ffffff, rgba(255, 255, 255, 0.5));
+    border-radius: 2px;
+}
+
+h3 {
+    font-size: 1.4rem;
+    color: rgba(255, 255, 255, 0.95);
+}
+
+/* Text content */
+p {
+    color: rgba(255, 255, 255, 0.9);
+    line-height: 1.8;
+    font-size: 1.1rem;
+    font-weight: 400;
+    letter-spacing: 0.01em;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.stApp > * {
+    animation: fadeIn 0.5s ease-out;
+}
