@@ -1,0 +1,21 @@
+0 Star Fish
+1 Squid
+2 Shrimp
+3 Sea Urchins
+4 Puffers
+5 Octopus
+6 Nudibranchs
+7 Lobster
+8 Jelly Fish
+9 Fish
+10 Eel
+11 Crabs
+12 Coral
+13 Whale
+14 Shark
+15 Sea Turtle
+16 Rays
+17 Sea Horse
+18 Dolphin
+19 Clams
+20 Not a marine animal

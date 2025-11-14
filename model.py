@@ -13,7 +13,7 @@ def main():
     # -----------------------------
     try:
         df = pd.read_excel(
-            r"D:\BERKULIAH DI UPI SERANG\SEMESTER 5\ASIK 2025\analisis-perikanan\Data penangkapan ikan karangantu.xlsx",
+            r"D:\BERKULIAH DI UPI SERANG\SEMESTER 5\ASIK 2025\analisis-perikanan\DATA\Data penangkapan ikan karangantu.xlsx",
             engine="openpyxl"
         )
     except Exception as e:

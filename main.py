@@ -21,7 +21,8 @@ menu_items = [
     "Model Prediksi Sistem Stok Ikan",
     "Prediksi Harga Ikan (Market Foresight)", 
     "Dashboard Produksi Ikan",
-    "Game Simulasi Penangkapan Ikan"
+    "Game Simulasi Penangkapan Ikan",
+    "Marine Image Classifier"
 ]
 
 # Buat tombol horizontal untuk setiap menu
@@ -65,6 +66,11 @@ elif page == "Game Simulasi Penangkapan Ikan":
     with open("game.html", "r", encoding="utf-8") as f:
         game_html = f.read()
     html(game_html, height=1000, scrolling=True)
+
+elif page == "Marine Image Classifier":
+    # Image classifier for marine animals (Streamlit UI)
+    from classifier import main as classifier_main
+    classifier_main()
 
 # FOOTER
 st.markdown("---")

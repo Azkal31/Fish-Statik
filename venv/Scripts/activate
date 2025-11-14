@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\BERKULIAH DI UPI SERANG\SEMESTER 5\ASIK 2025\analisis-perikanan\venv"
+VIRTUAL_ENV="D:\BERKULIAH DI UPI SERANG\SEMESTER 5\ASIK 2025\analisis-perikanan\analisis-perikanan\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
